@@ -1,0 +1,17 @@
+product_id,product_name,category,unit_cost,list_price
+P001,Ceramic Vase,Home Decor,41.41,95
+P002,Wall Art,Home Decor,114.18,176
+P003,Table Lamp,Home Decor,40.21,69
+P004,Throw Pillow,Home Decor,75.65,134
+P005,Cookware Set,Kitchen,24.89,37
+P006,Glass Storage,Kitchen,112.37,189
+P007,Coffee Mug Set,Kitchen,125.74,226
+P008,Cutting Board,Kitchen,107.23,203
+P009,Accent Chair,Furniture,31.37,63
+P010,Side Table,Furniture,44.36,72
+P011,Bookshelf,Furniture,70.47,146
+P012,Storage Bench,Furniture,40.85,82
+P013,Sheet Set,Bedding,94.25,206
+P014,Duvet Cover,Bedding,94.07,143
+P015,Weighted Blanket,Bedding,88.59,168
+P016,Pillow Set,Bedding,74.0,131

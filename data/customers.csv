@@ -1,0 +1,801 @@
+customer_id,signup_date,region,customer_segment
+C0001,2025-11-24,Northeast,New Homeowner
+C0002,2025-05-21,Midwest,New Homeowner
+C0003,2026-01-13,Northeast,Family
+C0004,2026-04-02,Northeast,Apartment
+C0005,2025-01-17,Northeast,New Homeowner
+C0006,2025-04-30,Northeast,Apartment
+C0007,2026-01-02,West,New Homeowner
+C0008,2025-10-29,South,Family
+C0009,2025-01-04,Midwest,Family
+C0010,2025-06-24,South,New Homeowner
+C0011,2026-05-06,South,New Homeowner
+C0012,2025-07-14,Northeast,Apartment
+C0013,2025-06-26,South,Family
+C0014,2026-01-09,West,Apartment
+C0015,2026-05-14,West,New Homeowner
+C0016,2025-05-31,South,Apartment
+C0017,2025-12-27,Northeast,New Homeowner
+C0018,2025-04-27,South,Designer
+C0019,2026-03-14,Midwest,Family
+C0020,2025-07-14,South,Apartment
+C0021,2026-03-04,South,New Homeowner
+C0022,2025-07-01,Midwest,Family
+C0023,2025-12-26,Northeast,Apartment
+C0024,2025-03-29,Midwest,New Homeowner
+C0025,2025-07-14,South,Designer
+C0026,2025-11-24,Midwest,Family
+C0027,2026-03-08,Northeast,New Homeowner
+C0028,2025-01-17,South,Apartment
+C0029,2025-02-03,Midwest,Designer
+C0030,2025-10-18,South,New Homeowner
+C0031,2025-09-13,West,Designer
+C0032,2025-11-26,West,New Homeowner
+C0033,2025-03-13,Midwest,Family
+C0034,2025-10-03,South,Family
+C0035,2025-08-08,West,Apartment
+C0036,2025-03-12,West,New Homeowner
+C0037,2025-01-25,Northeast,New Homeowner
+C0038,2025-03-23,West,Apartment
+C0039,2025-07-17,West,Apartment
+C0040,2025-08-28,South,Designer
+C0041,2026-03-17,Northeast,Family
+C0042,2025-02-28,South,Family
+C0043,2025-06-24,Northeast,Apartment
+C0044,2025-03-22,West,New Homeowner
+C0045,2026-01-05,South,Designer
+C0046,2026-01-26,Midwest,Apartment
+C0047,2025-02-24,South,Family
+C0048,2025-09-17,Midwest,New Homeowner
+C0049,2026-01-26,Midwest,Apartment
+C0050,2026-02-03,Northeast,Apartment
+C0051,2025-09-08,Northeast,New Homeowner
+C0052,2025-07-05,South,New Homeowner
+C0053,2025-05-04,Northeast,New Homeowner
+C0054,2025-09-06,Northeast,Designer
+C0055,2025-09-30,Midwest,New Homeowner
+C0056,2025-09-01,Midwest,New Homeowner
+C0057,2026-03-23,West,Designer
+C0058,2026-04-21,Midwest,Family
+C0059,2025-07-24,South,Apartment
+C0060,2025-09-22,West,New Homeowner
+C0061,2025-04-26,Northeast,Apartment
+C0062,2025-10-29,Midwest,Apartment
+C0063,2025-01-04,Northeast,Family
+C0064,2025-01-31,Midwest,New Homeowner
+C0065,2025-01-17,South,New Homeowner
+C0066,2025-05-02,South,Family
+C0067,2025-04-20,Midwest,Family
+C0068,2026-03-28,West,New Homeowner
+C0069,2025-08-31,West,New Homeowner
+C0070,2025-02-19,West,Apartment
+C0071,2025-07-30,West,Family
+C0072,2025-01-28,Northeast,New Homeowner
+C0073,2026-01-08,South,Family
+C0074,2025-02-25,Midwest,New Homeowner
+C0075,2025-10-02,West,New Homeowner
+C0076,2025-04-04,South,Apartment
+C0077,2026-03-24,Northeast,Apartment
+C0078,2026-03-18,Northeast,New Homeowner
+C0079,2025-10-04,Northeast,Designer
+C0080,2026-04-20,Midwest,New Homeowner
+C0081,2025-09-06,West,New Homeowner
+C0082,2025-07-25,Northeast,New Homeowner
+C0083,2025-01-02,West,New Homeowner
+C0084,2026-02-06,West,Apartment
+C0085,2025-12-23,West,New Homeowner
+C0086,2025-06-01,Midwest,Designer
+C0087,2025-10-24,Northeast,Family
+C0088,2025-01-30,Northeast,Apartment
+C0089,2025-09-15,Midwest,New Homeowner
+C0090,2025-09-18,Northeast,Family
+C0091,2025-02-05,Northeast,Family
+C0092,2025-05-01,West,New Homeowner
+C0093,2026-04-01,Midwest,Apartment
+C0094,2025-01-21,Northeast,Apartment
+C0095,2025-10-26,South,Designer
+C0096,2025-04-15,South,New Homeowner
+C0097,2025-07-22,Midwest,Family
+C0098,2025-06-03,West,Apartment
+C0099,2026-01-20,Northeast,New Homeowner
+C0100,2025-11-15,Northeast,New Homeowner
+C0101,2025-04-20,South,New Homeowner
+C0102,2025-06-28,Northeast,Family
+C0103,2025-07-09,South,New Homeowner
+C0104,2026-03-03,South,Apartment
+C0105,2026-02-18,Northeast,Family
+C0106,2025-10-11,South,Designer
+C0107,2025-02-23,Midwest,New Homeowner
+C0108,2026-04-01,Northeast,Family
+C0109,2025-03-21,South,Apartment
+C0110,2025-04-18,South,New Homeowner
+C0111,2025-11-21,South,Apartment
+C0112,2025-05-09,Northeast,New Homeowner
+C0113,2025-08-05,South,New Homeowner
+C0114,2025-06-20,Midwest,Family
+C0115,2025-05-15,Midwest,Family
+C0116,2025-10-10,West,Apartment
+C0117,2025-02-27,Northeast,Designer
+C0118,2025-12-20,Midwest,Apartment
+C0119,2026-03-04,South,Apartment
+C0120,2025-03-17,West,New Homeowner
+C0121,2025-06-07,South,Designer
+C0122,2026-02-12,Northeast,Designer
+C0123,2025-04-18,Midwest,Family
+C0124,2025-07-01,West,Designer
+C0125,2026-01-19,Midwest,Designer
+C0126,2025-05-02,Midwest,Designer
+C0127,2026-02-20,Midwest,Designer
+C0128,2025-01-13,Midwest,Family
+C0129,2025-06-20,West,Family
+C0130,2026-03-19,Midwest,New Homeowner
+C0131,2026-02-08,Northeast,Apartment
+C0132,2025-01-20,West,New Homeowner
+C0133,2026-02-23,West,Apartment
+C0134,2026-02-25,Midwest,New Homeowner
+C0135,2025-12-04,Midwest,Apartment
+C0136,2025-05-23,Northeast,Designer
+C0137,2025-05-23,South,Family
+C0138,2025-07-24,South,Designer
+C0139,2025-03-01,South,New Homeowner
+C0140,2026-05-08,South,New Homeowner
+C0141,2025-11-02,West,Apartment
+C0142,2026-02-07,South,Apartment
+C0143,2025-09-19,Northeast,Apartment
+C0144,2025-10-23,Midwest,New Homeowner
+C0145,2025-12-29,West,New Homeowner
+C0146,2026-04-19,Midwest,Apartment
+C0147,2025-02-05,South,Family
+C0148,2025-12-06,Northeast,Family
+C0149,2025-06-03,South,Family
+C0150,2025-06-17,West,Family
+C0151,2025-10-11,Midwest,New Homeowner
+C0152,2025-12-07,West,Family
+C0153,2026-04-08,Midwest,Apartment
+C0154,2025-06-04,West,Apartment
+C0155,2025-01-01,South,Apartment
+C0156,2025-08-09,South,Apartment
+C0157,2025-08-15,Midwest,Apartment
+C0158,2026-02-11,Midwest,Family
+C0159,2025-05-26,South,New Homeowner
+C0160,2026-05-03,Midwest,Family
+C0161,2025-04-26,Midwest,New Homeowner
+C0162,2025-01-24,Midwest,Designer
+C0163,2025-11-09,Northeast,Apartment
+C0164,2026-03-30,Midwest,Family
+C0165,2025-07-16,West,Apartment
+C0166,2025-03-17,Northeast,Designer
+C0167,2026-03-17,Northeast,Family
+C0168,2025-04-23,Midwest,Family
+C0169,2025-12-23,West,New Homeowner
+C0170,2025-05-08,Northeast,Apartment
+C0171,2026-02-15,West,Family
+C0172,2025-10-14,South,Designer
+C0173,2026-04-02,West,Apartment
+C0174,2026-01-04,West,Family
+C0175,2025-10-08,West,Designer
+C0176,2026-01-16,West,Apartment
+C0177,2026-01-20,Midwest,Family
+C0178,2025-05-22,West,Family
+C0179,2025-05-21,West,New Homeowner
+C0180,2025-05-27,Midwest,New Homeowner
+C0181,2025-06-13,Northeast,New Homeowner
+C0182,2025-04-29,West,Family
+C0183,2025-12-28,Midwest,New Homeowner
+C0184,2025-07-28,South,Apartment
+C0185,2025-08-01,Northeast,New Homeowner
+C0186,2025-08-04,West,Designer
+C0187,2025-10-27,Northeast,Family
+C0188,2026-01-27,West,Apartment
+C0189,2026-04-28,South,Apartment
+C0190,2025-07-19,West,Apartment
+C0191,2026-01-12,Midwest,Apartment
+C0192,2025-05-20,West,Apartment
+C0193,2025-07-19,South,Family
+C0194,2026-02-13,West,Family
+C0195,2026-03-07,West,Designer
+C0196,2025-11-15,Northeast,Designer
+C0197,2025-10-31,Northeast,New Homeowner
+C0198,2025-08-08,Midwest,Family
+C0199,2025-04-04,Northeast,New Homeowner
+C0200,2025-06-17,Midwest,Apartment
+C0201,2025-06-22,West,New Homeowner
+C0202,2026-05-03,West,New Homeowner
+C0203,2025-02-11,West,New Homeowner
+C0204,2025-10-04,Northeast,Designer
+C0205,2025-06-29,Midwest,Family
+C0206,2026-02-04,Northeast,Family
+C0207,2026-05-02,Midwest,New Homeowner
+C0208,2025-01-11,Midwest,New Homeowner
+C0209,2025-08-31,Northeast,Apartment
+C0210,2025-04-22,West,Family
+C0211,2026-01-28,South,New Homeowner
+C0212,2025-11-07,Northeast,Family
+C0213,2025-03-25,South,New Homeowner
+C0214,2025-01-14,South,Apartment
+C0215,2026-04-10,West,Apartment
+C0216,2026-01-02,Midwest,New Homeowner
+C0217,2025-12-20,Midwest,New Homeowner
+C0218,2026-01-31,South,Family
+C0219,2025-11-04,Northeast,Family
+C0220,2025-10-17,Northeast,Apartment
+C0221,2025-08-08,South,New Homeowner
+C0222,2025-11-28,South,New Homeowner
+C0223,2025-08-04,West,New Homeowner
+C0224,2026-05-07,South,Family
+C0225,2026-03-01,West,Family
+C0226,2025-08-11,Midwest,Family
+C0227,2026-05-10,South,Apartment
+C0228,2026-04-16,West,Apartment
+C0229,2026-02-27,South,Apartment
+C0230,2025-05-06,Northeast,New Homeowner
+C0231,2025-08-19,Midwest,Family
+C0232,2025-10-19,West,Apartment
+C0233,2025-09-11,South,New Homeowner
+C0234,2025-04-19,South,Family
+C0235,2025-06-24,South,Designer
+C0236,2025-12-26,South,Apartment
+C0237,2025-09-22,Midwest,New Homeowner
+C0238,2026-01-04,West,Apartment
+C0239,2026-01-24,Midwest,Family
+C0240,2025-11-27,West,Apartment
+C0241,2025-01-09,Northeast,Apartment
+C0242,2025-07-27,Midwest,Apartment
+C0243,2025-10-25,South,Apartment
+C0244,2025-09-29,South,Apartment
+C0245,2026-01-17,South,Apartment
+C0246,2025-08-21,South,Apartment
+C0247,2025-04-29,Northeast,Family
+C0248,2025-06-11,Northeast,Family
+C0249,2026-05-02,Midwest,New Homeowner
+C0250,2026-01-14,West,New Homeowner
+C0251,2025-10-29,South,Designer
+C0252,2026-03-03,Midwest,Apartment
+C0253,2025-07-04,Midwest,Apartment
+C0254,2025-12-29,Midwest,New Homeowner
+C0255,2026-05-14,Northeast,Apartment
+C0256,2025-12-24,Midwest,Family
+C0257,2026-01-21,West,New Homeowner
+C0258,2025-01-07,South,Apartment
+C0259,2025-08-14,South,New Homeowner
+C0260,2025-01-27,South,Designer
+C0261,2025-09-02,Northeast,Family
+C0262,2025-07-25,West,New Homeowner
+C0263,2025-11-19,Northeast,New Homeowner
+C0264,2026-02-20,South,New Homeowner
+C0265,2025-05-08,Northeast,Apartment
+C0266,2025-08-02,Midwest,Family
+C0267,2025-07-14,West,Designer
+C0268,2025-06-02,West,Apartment
+C0269,2025-11-14,Northeast,Apartment
+C0270,2026-01-14,Northeast,Designer
+C0271,2025-04-17,Midwest,New Homeowner
+C0272,2025-02-11,Midwest,New Homeowner
+C0273,2025-10-10,Northeast,New Homeowner
+C0274,2025-07-29,West,Family
+C0275,2025-08-29,South,New Homeowner
+C0276,2025-05-28,South,Family
+C0277,2025-08-21,Northeast,Family
+C0278,2026-04-19,South,Family
+C0279,2025-11-17,Midwest,Apartment
+C0280,2025-10-06,Midwest,Family
+C0281,2026-04-11,South,Family
+C0282,2025-02-06,Northeast,New Homeowner
+C0283,2025-06-07,South,Apartment
+C0284,2025-08-28,South,Family
+C0285,2026-04-28,South,Apartment
+C0286,2025-09-10,West,New Homeowner
+C0287,2025-01-21,West,Family
+C0288,2025-11-06,South,New Homeowner
+C0289,2025-04-28,Northeast,Designer
+C0290,2025-12-11,South,Apartment
+C0291,2026-01-26,Midwest,Apartment
+C0292,2025-11-30,West,Designer
+C0293,2025-04-03,West,Family
+C0294,2025-09-09,Northeast,Apartment
+C0295,2025-07-29,South,Apartment
+C0296,2025-02-23,Midwest,Apartment
+C0297,2025-12-22,West,Apartment
+C0298,2026-04-29,West,Family
+C0299,2025-10-09,Northeast,Apartment
+C0300,2025-06-11,South,Apartment
+C0301,2026-05-12,West,Family
+C0302,2026-02-27,Northeast,Family
+C0303,2025-10-05,West,Apartment
+C0304,2025-04-07,South,Family
+C0305,2025-09-13,West,Family
+C0306,2025-04-15,South,Apartment
+C0307,2026-04-20,South,Apartment
+C0308,2025-12-24,West,New Homeowner
+C0309,2026-05-14,Midwest,Family
+C0310,2025-06-09,Northeast,Apartment
+C0311,2025-02-17,Midwest,Designer
+C0312,2026-04-13,Northeast,Apartment
+C0313,2025-03-02,Midwest,Apartment
+C0314,2026-01-02,South,Apartment
+C0315,2025-05-20,West,Family
+C0316,2025-08-30,Midwest,Apartment
+C0317,2025-03-16,West,New Homeowner
+C0318,2025-11-03,Midwest,Family
+C0319,2025-05-22,West,Apartment
+C0320,2026-02-08,South,Family
+C0321,2025-05-25,South,Family
+C0322,2025-10-24,West,Family
+C0323,2025-08-17,West,Apartment
+C0324,2025-10-10,West,Apartment
+C0325,2025-06-14,Midwest,Designer
+C0326,2025-05-03,West,New Homeowner
+C0327,2026-02-02,West,New Homeowner
+C0328,2026-01-17,West,Family
+C0329,2026-02-20,West,Apartment
+C0330,2025-12-06,Midwest,Apartment
+C0331,2025-01-19,Midwest,Apartment
+C0332,2025-10-30,South,Family
+C0333,2026-03-24,West,New Homeowner
+C0334,2026-04-12,West,New Homeowner
+C0335,2025-03-15,West,Family
+C0336,2026-05-12,Midwest,New Homeowner
+C0337,2026-02-05,South,Apartment
+C0338,2025-12-21,West,Family
+C0339,2026-03-13,South,Family
+C0340,2026-03-16,West,Designer
+C0341,2025-11-17,West,Family
+C0342,2025-01-19,Northeast,New Homeowner
+C0343,2025-12-17,South,Designer
+C0344,2026-01-18,Northeast,Apartment
+C0345,2025-02-20,Northeast,Apartment
+C0346,2025-12-22,South,Designer
+C0347,2025-01-24,South,Family
+C0348,2025-05-31,South,Apartment
+C0349,2025-03-16,Midwest,Apartment
+C0350,2025-10-17,Midwest,New Homeowner
+C0351,2025-02-10,West,Apartment
+C0352,2025-05-04,West,Designer
+C0353,2025-03-15,Midwest,Apartment
+C0354,2025-05-11,West,New Homeowner
+C0355,2025-01-05,West,Designer
+C0356,2025-12-13,Midwest,New Homeowner
+C0357,2026-04-29,South,Designer
+C0358,2025-06-03,West,Family
+C0359,2025-08-22,South,New Homeowner
+C0360,2025-07-16,West,New Homeowner
+C0361,2025-07-15,South,Apartment
+C0362,2025-12-25,South,New Homeowner
+C0363,2026-03-01,West,New Homeowner
+C0364,2025-10-17,Northeast,Designer
+C0365,2026-01-17,West,Family
+C0366,2026-04-08,South,Family
+C0367,2025-04-28,South,New Homeowner
+C0368,2025-04-08,South,Family
+C0369,2026-01-05,Midwest,Family
+C0370,2026-04-08,Northeast,Apartment
+C0371,2025-08-14,Northeast,Apartment
+C0372,2026-01-10,Midwest,New Homeowner
+C0373,2025-06-01,South,Family
+C0374,2025-03-31,Midwest,New Homeowner
+C0375,2025-10-04,South,Apartment
+C0376,2026-04-13,South,Family
+C0377,2025-05-12,West,Designer
+C0378,2025-06-01,South,Family
+C0379,2025-08-28,Northeast,New Homeowner
+C0380,2026-05-10,Midwest,Family
+C0381,2026-01-06,West,Designer
+C0382,2026-02-16,South,New Homeowner
+C0383,2025-07-22,Northeast,New Homeowner
+C0384,2025-03-05,West,Apartment
+C0385,2026-01-19,South,Apartment
+C0386,2026-02-26,South,New Homeowner
+C0387,2025-04-30,West,New Homeowner
+C0388,2026-03-29,South,Designer
+C0389,2025-04-24,Northeast,Family
+C0390,2025-08-26,South,Family
+C0391,2025-03-01,Midwest,New Homeowner
+C0392,2025-01-20,South,Designer
+C0393,2025-03-01,Northeast,New Homeowner
+C0394,2025-10-03,Midwest,Apartment
+C0395,2025-07-09,West,Apartment
+C0396,2026-01-08,Midwest,Designer
+C0397,2025-12-02,Northeast,Family
+C0398,2025-11-12,West,Designer
+C0399,2025-05-24,Northeast,Family
+C0400,2025-04-22,West,Apartment
+C0401,2025-05-01,South,New Homeowner
+C0402,2025-12-18,South,Apartment
+C0403,2026-05-16,South,New Homeowner
+C0404,2025-05-22,Midwest,Designer
+C0405,2026-05-01,West,New Homeowner
+C0406,2025-04-19,Northeast,New Homeowner
+C0407,2025-06-20,Midwest,Designer
+C0408,2026-02-07,Midwest,New Homeowner
+C0409,2026-01-27,Midwest,Apartment
+C0410,2026-02-21,Midwest,Apartment
+C0411,2025-03-17,Northeast,New Homeowner
+C0412,2025-03-16,Midwest,Apartment
+C0413,2026-02-13,Midwest,New Homeowner
+C0414,2026-03-20,Northeast,New Homeowner
+C0415,2025-07-03,Midwest,Apartment
+C0416,2025-01-09,Midwest,New Homeowner
+C0417,2025-03-06,West,Apartment
+C0418,2026-01-17,Northeast,Apartment
+C0419,2026-02-03,South,Apartment
+C0420,2025-02-25,West,Apartment
+C0421,2026-04-30,Northeast,Family
+C0422,2026-04-11,South,Apartment
+C0423,2026-05-09,Northeast,New Homeowner
+C0424,2025-09-03,West,Apartment
+C0425,2025-02-25,West,Family
+C0426,2025-08-16,Northeast,Designer
+C0427,2025-06-14,Midwest,New Homeowner
+C0428,2025-05-21,South,Apartment
+C0429,2025-11-02,South,Apartment
+C0430,2025-11-06,West,New Homeowner
+C0431,2025-12-26,Northeast,Family
+C0432,2025-11-30,Midwest,Apartment
+C0433,2026-03-31,Midwest,Apartment
+C0434,2026-02-28,West,Apartment
+C0435,2026-01-09,Northeast,Apartment
+C0436,2025-06-10,South,Apartment
+C0437,2025-03-20,West,New Homeowner
+C0438,2026-03-02,Northeast,New Homeowner
+C0439,2025-02-19,South,Family
+C0440,2025-10-12,Northeast,Apartment
+C0441,2025-10-15,South,Family
+C0442,2025-07-30,South,Family
+C0443,2026-04-27,West,Family
+C0444,2026-01-05,Northeast,Designer
+C0445,2025-11-04,South,Apartment
+C0446,2025-10-23,Midwest,New Homeowner
+C0447,2025-09-04,Midwest,Family
+C0448,2025-06-29,South,New Homeowner
+C0449,2025-05-23,Midwest,Family
+C0450,2026-03-09,Northeast,Apartment
+C0451,2025-12-03,South,New Homeowner
+C0452,2025-05-20,South,Designer
+C0453,2025-06-29,Northeast,New Homeowner
+C0454,2025-03-15,West,New Homeowner
+C0455,2026-01-15,Northeast,New Homeowner
+C0456,2025-09-29,Midwest,Apartment
+C0457,2025-08-21,South,New Homeowner
+C0458,2025-06-09,South,Family
+C0459,2025-10-18,Northeast,Designer
+C0460,2025-03-21,Midwest,Family
+C0461,2025-01-26,Northeast,New Homeowner
+C0462,2025-12-05,West,Apartment
+C0463,2025-08-15,West,New Homeowner
+C0464,2026-01-22,Northeast,Apartment
+C0465,2025-02-26,South,Family
+C0466,2025-10-31,West,Apartment
+C0467,2025-06-07,Northeast,New Homeowner
+C0468,2025-11-03,Northeast,New Homeowner
+C0469,2025-06-04,Midwest,Family
+C0470,2026-01-27,South,Apartment
+C0471,2025-03-03,Northeast,Apartment
+C0472,2025-08-09,Midwest,New Homeowner
+C0473,2025-09-30,Midwest,Apartment
+C0474,2026-03-03,South,New Homeowner
+C0475,2026-03-18,Northeast,Apartment
+C0476,2025-08-24,Northeast,Family
+C0477,2025-10-22,West,Apartment
+C0478,2025-12-30,West,Apartment
+C0479,2025-07-27,Northeast,Designer
+C0480,2025-03-29,West,Family
+C0481,2026-04-16,South,New Homeowner
+C0482,2026-03-09,Northeast,New Homeowner
+C0483,2025-10-29,West,Apartment
+C0484,2025-07-22,South,Family
+C0485,2025-04-24,South,Family
+C0486,2025-02-09,Northeast,Apartment
+C0487,2025-04-10,South,Apartment
+C0488,2026-05-06,Midwest,New Homeowner
+C0489,2025-03-16,South,New Homeowner
+C0490,2025-11-05,Midwest,Family
+C0491,2025-12-02,Northeast,New Homeowner
+C0492,2026-01-31,West,Apartment
+C0493,2025-10-16,West,Family
+C0494,2026-03-28,South,Family
+C0495,2025-11-18,South,New Homeowner
+C0496,2025-02-04,West,Apartment
+C0497,2025-06-05,South,Apartment
+C0498,2025-06-30,Northeast,Apartment
+C0499,2025-08-20,Northeast,New Homeowner
+C0500,2026-03-02,South,New Homeowner
+C0501,2026-03-19,Northeast,Apartment
+C0502,2025-09-17,West,Apartment
+C0503,2025-10-11,Northeast,Apartment
+C0504,2026-02-19,Midwest,Apartment
+C0505,2025-09-01,Midwest,Designer
+C0506,2025-08-19,Northeast,Family
+C0507,2026-03-05,South,Designer
+C0508,2025-02-13,Midwest,New Homeowner
+C0509,2025-12-29,West,Designer
+C0510,2025-09-26,Midwest,Apartment
+C0511,2026-04-15,South,Apartment
+C0512,2026-02-01,South,Family
+C0513,2025-01-27,South,New Homeowner
+C0514,2025-02-18,West,Apartment
+C0515,2026-01-06,Midwest,Apartment
+C0516,2025-10-26,Midwest,Designer
+C0517,2025-06-08,West,New Homeowner
+C0518,2025-12-29,Northeast,Apartment
+C0519,2025-07-12,South,Family
+C0520,2025-12-10,Northeast,Family
+C0521,2025-08-05,South,New Homeowner
+C0522,2025-06-08,Midwest,Designer
+C0523,2025-06-24,West,New Homeowner
+C0524,2025-03-12,Midwest,New Homeowner
+C0525,2026-03-09,Northeast,Apartment
+C0526,2025-10-04,Northeast,Family
+C0527,2026-03-25,Midwest,Apartment
+C0528,2025-03-20,Midwest,New Homeowner
+C0529,2025-12-21,Midwest,Family
+C0530,2025-01-23,West,Apartment
+C0531,2026-01-04,Midwest,Designer
+C0532,2025-11-09,South,Family
+C0533,2026-02-06,West,New Homeowner
+C0534,2025-05-03,South,Designer
+C0535,2026-02-06,West,Designer
+C0536,2025-04-10,South,Family
+C0537,2025-10-20,West,Apartment
+C0538,2025-05-25,West,Apartment
+C0539,2025-08-03,Midwest,Family
+C0540,2026-02-15,Midwest,Family
+C0541,2025-01-27,West,Family
+C0542,2025-10-11,Northeast,Family
+C0543,2025-09-22,Northeast,Apartment
+C0544,2026-01-26,Midwest,New Homeowner
+C0545,2026-04-09,Midwest,Family
+C0546,2025-02-16,Midwest,Family
+C0547,2026-03-29,South,Designer
+C0548,2025-08-01,Northeast,Apartment
+C0549,2025-07-11,Midwest,Apartment
+C0550,2025-02-11,South,New Homeowner
+C0551,2025-06-13,Northeast,Family
+C0552,2025-11-29,South,Family
+C0553,2025-03-12,Northeast,Apartment
+C0554,2026-03-01,West,Family
+C0555,2025-03-13,West,Apartment
+C0556,2025-01-03,Northeast,New Homeowner
+C0557,2025-04-21,Midwest,Apartment
+C0558,2026-01-08,West,New Homeowner
+C0559,2025-05-28,Midwest,Apartment
+C0560,2025-01-25,Midwest,Apartment
+C0561,2026-02-11,West,New Homeowner
+C0562,2026-03-05,West,Apartment
+C0563,2025-01-09,Midwest,Family
+C0564,2025-05-30,West,New Homeowner
+C0565,2025-06-30,Midwest,Apartment
+C0566,2025-04-06,Northeast,Apartment
+C0567,2025-07-04,Northeast,Designer
+C0568,2025-10-06,Northeast,Apartment
+C0569,2025-08-29,Northeast,Family
+C0570,2025-07-11,South,Family
+C0571,2025-07-02,Northeast,Apartment
+C0572,2026-01-11,Northeast,Family
+C0573,2026-01-12,South,New Homeowner
+C0574,2025-06-30,South,Family
+C0575,2025-03-31,West,Designer
+C0576,2025-09-03,Midwest,Family
+C0577,2025-02-02,West,New Homeowner
+C0578,2025-04-14,Northeast,Family
+C0579,2026-03-30,Northeast,Apartment
+C0580,2025-06-08,West,Designer
+C0581,2025-10-06,West,New Homeowner
+C0582,2026-01-21,Midwest,Apartment
+C0583,2026-03-18,Northeast,Family
+C0584,2025-06-19,South,New Homeowner
+C0585,2025-07-08,West,Designer
+C0586,2026-01-16,West,Designer
+C0587,2025-07-17,South,Designer
+C0588,2025-09-12,West,Apartment
+C0589,2026-02-13,South,Family
+C0590,2026-01-08,West,New Homeowner
+C0591,2025-11-05,Midwest,Apartment
+C0592,2025-06-14,Northeast,New Homeowner
+C0593,2025-12-05,South,Apartment
+C0594,2025-11-05,West,New Homeowner
+C0595,2025-08-16,South,Apartment
+C0596,2026-01-08,South,Apartment
+C0597,2025-08-11,South,Family
+C0598,2026-02-10,Northeast,New Homeowner
+C0599,2025-11-23,West,Apartment
+C0600,2026-02-15,Midwest,Designer
+C0601,2025-03-15,West,New Homeowner
+C0602,2025-02-04,Midwest,Family
+C0603,2025-07-07,South,Apartment
+C0604,2025-10-18,Northeast,Apartment
+C0605,2025-12-14,West,Designer
+C0606,2025-07-10,West,Family
+C0607,2025-10-21,Midwest,Apartment
+C0608,2025-07-23,South,Family
+C0609,2025-05-08,Northeast,New Homeowner
+C0610,2025-04-06,West,Apartment
+C0611,2026-04-13,Northeast,New Homeowner
+C0612,2025-05-14,West,New Homeowner
+C0613,2025-11-10,South,Family
+C0614,2025-09-09,Midwest,New Homeowner
+C0615,2026-03-13,Northeast,Apartment
+C0616,2026-04-06,West,Designer
+C0617,2026-02-19,South,Family
+C0618,2025-12-30,Northeast,Apartment
+C0619,2025-05-29,South,Family
+C0620,2025-12-31,Midwest,Family
+C0621,2025-09-18,Midwest,New Homeowner
+C0622,2025-04-13,Midwest,New Homeowner
+C0623,2025-09-10,Northeast,Apartment
+C0624,2025-10-21,South,Apartment
+C0625,2025-10-10,Midwest,Apartment
+C0626,2025-02-14,Northeast,Apartment
+C0627,2026-01-03,West,Apartment
+C0628,2026-01-29,West,Family
+C0629,2025-02-07,Midwest,Designer
+C0630,2025-11-25,Northeast,Apartment
+C0631,2025-12-15,South,New Homeowner
+C0632,2026-03-01,Midwest,Family
+C0633,2025-03-08,West,Apartment
+C0634,2026-03-21,Northeast,Family
+C0635,2025-09-23,Midwest,Apartment
+C0636,2025-03-24,South,Designer
+C0637,2025-04-26,South,Designer
+C0638,2025-09-23,South,Family
+C0639,2025-05-09,Midwest,Family
+C0640,2025-10-10,South,New Homeowner
+C0641,2025-06-05,Northeast,Apartment
+C0642,2025-03-28,Midwest,New Homeowner
+C0643,2025-11-16,South,Family
+C0644,2025-10-16,Northeast,Family
+C0645,2025-01-15,Northeast,New Homeowner
+C0646,2025-11-25,South,Family
+C0647,2026-01-28,West,Apartment
+C0648,2025-01-16,West,Designer
+C0649,2025-10-07,South,Family
+C0650,2025-06-04,West,New Homeowner
+C0651,2026-02-18,West,Apartment
+C0652,2025-02-07,Northeast,New Homeowner
+C0653,2025-08-01,West,Apartment
+C0654,2025-06-24,Midwest,Apartment
+C0655,2026-01-03,South,Family
+C0656,2026-03-17,South,Designer
+C0657,2025-03-08,South,Apartment
+C0658,2025-02-24,South,New Homeowner
+C0659,2025-03-04,South,Apartment
+C0660,2025-03-14,Northeast,New Homeowner
+C0661,2026-04-30,West,Family
+C0662,2025-08-03,Midwest,Designer
+C0663,2026-04-07,Midwest,Family
+C0664,2026-04-24,South,New Homeowner
+C0665,2025-03-23,West,Designer
+C0666,2025-08-28,West,Family
+C0667,2025-09-12,Northeast,New Homeowner
+C0668,2025-07-21,West,Designer
+C0669,2025-04-21,South,New Homeowner
+C0670,2025-05-25,West,Apartment
+C0671,2026-03-08,West,Apartment
+C0672,2025-01-05,Northeast,Apartment
+C0673,2026-03-28,South,Family
+C0674,2026-01-27,West,Apartment
+C0675,2025-07-25,Northeast,Apartment
+C0676,2025-04-10,South,Apartment
+C0677,2025-02-07,West,Apartment
+C0678,2026-01-27,South,Family
+C0679,2025-11-16,Northeast,New Homeowner
+C0680,2025-02-19,West,Apartment
+C0681,2025-06-23,South,Family
+C0682,2025-04-12,West,Apartment
+C0683,2025-01-24,Northeast,New Homeowner
+C0684,2025-06-20,West,Apartment
+C0685,2025-03-18,Midwest,Apartment
+C0686,2025-11-10,South,New Homeowner
+C0687,2025-11-12,South,Apartment
+C0688,2025-09-17,West,Family
+C0689,2025-06-03,West,Family
+C0690,2025-07-08,South,Family
+C0691,2025-08-02,South,Family
+C0692,2026-01-07,Northeast,Apartment
+C0693,2025-05-16,Midwest,Family
+C0694,2025-10-26,West,New Homeowner
+C0695,2025-11-19,West,New Homeowner
+C0696,2025-12-15,Midwest,New Homeowner
+C0697,2026-05-01,Northeast,New Homeowner
+C0698,2025-08-14,South,Apartment
+C0699,2025-07-31,Midwest,Apartment
+C0700,2026-02-01,West,Family
+C0701,2026-01-12,Northeast,Family
+C0702,2025-09-23,Midwest,Apartment
+C0703,2025-12-06,West,Apartment
+C0704,2025-06-10,Midwest,Apartment
+C0705,2025-09-30,South,Apartment
+C0706,2025-12-13,South,Apartment
+C0707,2025-04-09,Midwest,New Homeowner
+C0708,2025-06-02,Midwest,Designer
+C0709,2025-06-02,South,Family
+C0710,2025-12-20,West,Apartment
+C0711,2025-06-28,South,Apartment
+C0712,2025-10-21,West,Designer
+C0713,2025-07-22,South,Designer
+C0714,2026-02-16,Midwest,Apartment
+C0715,2025-05-28,Northeast,Apartment
+C0716,2025-08-15,South,Family
+C0717,2025-04-20,Midwest,Family
+C0718,2025-05-19,South,New Homeowner
+C0719,2025-11-12,Midwest,New Homeowner
+C0720,2025-12-09,Midwest,Family
+C0721,2025-01-27,Northeast,Apartment
+C0722,2026-01-03,West,New Homeowner
+C0723,2026-01-30,Midwest,New Homeowner
+C0724,2025-10-09,Midwest,Apartment
+C0725,2026-04-24,West,Apartment
+C0726,2025-04-13,South,Apartment
+C0727,2025-11-27,Northeast,Designer
+C0728,2025-02-15,Midwest,Apartment
+C0729,2026-01-06,Northeast,Designer
+C0730,2025-03-31,West,Designer
+C0731,2025-04-01,Northeast,Designer
+C0732,2025-07-23,West,New Homeowner
+C0733,2026-01-19,South,Family
+C0734,2025-01-05,South,Apartment
+C0735,2025-02-24,South,Apartment
+C0736,2025-11-25,West,Designer
+C0737,2025-03-10,West,New Homeowner
+C0738,2026-02-19,Northeast,Apartment
+C0739,2026-01-10,West,Family
+C0740,2026-01-03,Midwest,New Homeowner
+C0741,2025-06-22,South,Apartment
+C0742,2026-01-23,Midwest,New Homeowner
+C0743,2026-03-15,West,Family
+C0744,2025-09-21,South,New Homeowner
+C0745,2025-12-09,Northeast,New Homeowner
+C0746,2025-03-13,West,Apartment
+C0747,2025-05-08,Northeast,New Homeowner
+C0748,2025-05-01,West,Family
+C0749,2026-05-04,South,Apartment
+C0750,2026-01-06,Northeast,New Homeowner
+C0751,2025-07-04,Midwest,New Homeowner
+C0752,2025-03-02,West,Apartment
+C0753,2025-07-27,South,Family
+C0754,2025-11-24,South,Apartment
+C0755,2025-04-24,Midwest,Designer
+C0756,2025-09-02,Midwest,Apartment
+C0757,2025-11-07,South,Apartment
+C0758,2025-10-09,West,Family
+C0759,2026-02-15,Midwest,Family
+C0760,2025-12-15,Northeast,Apartment
+C0761,2025-09-28,South,New Homeowner
+C0762,2025-10-16,Northeast,New Homeowner
+C0763,2025-10-08,Midwest,Apartment
+C0764,2025-03-18,Midwest,Apartment
+C0765,2025-09-24,West,New Homeowner
+C0766,2025-04-16,West,New Homeowner
+C0767,2025-09-19,West,Family
+C0768,2025-08-21,Midwest,Apartment
+C0769,2025-08-22,Northeast,Apartment
+C0770,2025-12-11,South,Family
+C0771,2025-07-22,South,Family
+C0772,2026-01-17,Midwest,Apartment
+C0773,2025-01-24,West,Apartment
+C0774,2025-02-02,Northeast,Designer
+C0775,2025-02-05,West,New Homeowner
+C0776,2025-07-29,Midwest,Family
+C0777,2026-01-28,West,Apartment
+C0778,2026-04-02,West,Apartment
+C0779,2026-04-15,West,Apartment
+C0780,2025-12-16,Midwest,Family
+C0781,2025-06-28,Northeast,New Homeowner
+C0782,2025-10-03,West,Apartment
+C0783,2026-01-08,Midwest,Family
+C0784,2026-01-23,Northeast,Designer
+C0785,2025-08-26,West,Apartment
+C0786,2026-02-26,Midwest,New Homeowner
+C0787,2025-06-27,Midwest,New Homeowner
+C0788,2026-04-25,Northeast,New Homeowner
+C0789,2025-12-05,West,Apartment
+C0790,2026-04-25,Northeast,New Homeowner
+C0791,2025-02-04,Northeast,Apartment
+C0792,2025-08-17,Northeast,New Homeowner
+C0793,2025-01-23,West,Apartment
+C0794,2025-10-04,Midwest,Family
+C0795,2026-02-02,Northeast,New Homeowner
+C0796,2025-05-29,Midwest,Family
+C0797,2026-01-10,South,Apartment
+C0798,2026-01-31,South,New Homeowner
+C0799,2026-03-25,Midwest,Designer
+C0800,2025-09-24,Midwest,Apartment

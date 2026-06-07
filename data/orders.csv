@@ -1,0 +1,2401 @@
+order_id,customer_id,order_date,marketing_channel,total_amount,order_status
+O00001,C0398,2025-05-18,Organic Search,142.06,Completed
+O00002,C0053,2025-07-15,Organic Search,321.86,Completed
+O00003,C0341,2025-08-02,Organic Search,1212.13,Completed
+O00004,C0566,2025-09-03,Organic Search,156.55,Completed
+O00005,C0478,2026-05-25,Organic Search,770.1,Completed
+O00006,C0303,2026-03-04,Organic Search,187.28,Completed
+O00007,C0264,2025-12-12,Referral,131.86,Completed
+O00008,C0738,2025-05-24,Email,180.9,Completed
+O00009,C0783,2025-02-19,Organic Search,180.71,Completed
+O00010,C0383,2026-04-12,Organic Search,238.74,Completed
+O00011,C0549,2025-10-09,Social,298.0,Completed
+O00012,C0537,2025-04-09,Organic Search,115.1,Completed
+O00013,C0416,2026-01-18,Paid Search,208.2,Completed
+O00014,C0096,2025-02-02,Paid Search,112.91,Completed
+O00015,C0445,2026-05-27,Email,279.74,Completed
+O00016,C0278,2026-05-02,Organic Search,122.56,Completed
+O00017,C0017,2025-11-19,Social,356.37,Completed
+O00018,C0394,2025-12-06,Referral,72.79,Completed
+O00019,C0238,2026-03-24,Referral,571.83,Completed
+O00020,C0503,2026-04-07,Organic Search,430.56,Completed
+O00021,C0731,2025-09-10,Organic Search,203.28,Completed
+O00022,C0370,2025-11-21,Organic Search,72.88,Completed
+O00023,C0192,2025-03-31,Paid Search,305.51,Completed
+O00024,C0013,2026-01-30,Organic Search,67.06,Cancelled
+O00025,C0586,2025-09-06,Paid Search,234.34,Completed
+O00026,C0496,2025-11-03,Referral,194.71,Completed
+O00027,C0110,2026-04-14,Organic Search,202.71,Completed
+O00028,C0451,2025-12-04,Organic Search,159.72,Returned
+O00029,C0299,2025-11-23,Referral,374.57,Completed
+O00030,C0699,2025-07-04,Referral,303.04,Completed
+O00031,C0419,2025-03-12,Email,71.4,Completed
+O00032,C0076,2026-01-22,Paid Search,276.11,Completed
+O00033,C0719,2026-01-04,Social,242.54,Completed
+O00034,C0771,2026-02-14,Organic Search,213.49,Completed
+O00035,C0457,2025-08-15,Paid Search,32.0,Completed
+O00036,C0088,2026-03-02,Organic Search,344.91,Completed
+O00037,C0308,2025-03-10,Organic Search,382.94,Completed
+O00038,C0566,2025-06-28,Organic Search,464.14,Completed
+O00039,C0461,2025-07-22,Email,228.37,Completed
+O00040,C0592,2025-03-06,Organic Search,757.36,Completed
+O00041,C0602,2026-02-06,Organic Search,171.82,Completed
+O00042,C0630,2025-11-01,Email,285.31,Completed
+O00043,C0589,2025-05-22,Paid Search,181.05,Completed
+O00044,C0462,2025-11-19,Email,356.21,Completed
+O00045,C0501,2026-03-31,Organic Search,221.31,Completed
+O00046,C0563,2026-05-23,Paid Search,275.01,Completed
+O00047,C0560,2026-03-28,Organic Search,215.15,Completed
+O00048,C0090,2025-12-23,Paid Search,577.83,Completed
+O00049,C0546,2025-12-26,Organic Search,300.2,Completed
+O00050,C0139,2025-04-08,Social,379.0,Completed
+O00051,C0780,2025-09-11,Referral,33.81,Completed
+O00052,C0078,2026-04-08,Email,560.26,Completed
+O00053,C0749,2025-04-06,Social,214.55,Completed
+O00054,C0331,2025-10-02,Referral,35.41,Completed
+O00055,C0048,2025-02-19,Organic Search,255.01,Returned
+O00056,C0706,2025-07-27,Social,343.37,Completed
+O00057,C0641,2026-02-10,Organic Search,419.06,Completed
+O00058,C0532,2025-08-20,Email,308.82,Completed
+O00059,C0490,2025-05-16,Organic Search,125.09,Completed
+O00060,C0793,2026-01-27,Referral,263.67,Completed
+O00061,C0223,2026-03-30,Organic Search,125.53,Returned
+O00062,C0144,2025-11-19,Organic Search,269.9,Completed
+O00063,C0211,2025-11-05,Paid Search,179.41,Completed
+O00064,C0507,2025-09-03,Paid Search,72.83,Cancelled
+O00065,C0136,2025-11-21,Paid Search,583.14,Completed
+O00066,C0062,2025-02-10,Social,69.14,Completed
+O00067,C0085,2026-02-16,Email,308.78,Completed
+O00068,C0401,2025-12-01,Email,133.91,Completed
+O00069,C0119,2026-03-21,Paid Search,218.82,Completed
+O00070,C0509,2025-06-17,Social,202.53,Completed
+O00071,C0344,2025-01-31,Referral,72.8,Completed
+O00072,C0467,2026-05-24,Paid Search,172.18,Completed
+O00073,C0234,2025-04-29,Referral,90.66,Completed
+O00074,C0184,2025-06-03,Social,453.6,Completed
+O00075,C0184,2025-02-23,Organic Search,307.58,Completed
+O00076,C0793,2025-10-17,Referral,151.22,Completed
+O00077,C0758,2025-11-08,Email,398.97,Completed
+O00078,C0155,2025-09-09,Organic Search,200.4,Completed
+O00079,C0344,2025-01-10,Organic Search,261.27,Cancelled
+O00080,C0729,2025-05-26,Organic Search,391.36,Completed
+O00081,C0470,2026-01-17,Social,132.32,Completed
+O00082,C0446,2025-03-05,Email,66.46,Completed
+O00083,C0326,2025-12-01,Paid Search,229.17,Completed
+O00084,C0169,2025-04-19,Paid Search,141.09,Completed
+O00085,C0475,2025-11-12,Organic Search,348.08,Completed
+O00086,C0221,2025-02-11,Referral,72.7,Completed
+O00087,C0694,2025-02-20,Organic Search,680.86,Completed
+O00088,C0800,2025-03-05,Social,203.13,Completed
+O00089,C0077,2025-09-23,Organic Search,295.14,Completed
+O00090,C0126,2025-12-06,Organic Search,357.82,Completed
+O00091,C0031,2026-05-24,Paid Search,73.59,Completed
+O00092,C0036,2025-06-02,Email,255.79,Completed
+O00093,C0659,2025-07-24,Social,393.31,Completed
+O00094,C0330,2026-05-30,Paid Search,126.42,Completed
+O00095,C0060,2025-10-15,Referral,86.91,Cancelled
+O00096,C0254,2025-04-13,Email,184.72,Completed
+O00097,C0364,2026-02-02,Social,446.58,Returned
+O00098,C0556,2026-05-20,Organic Search,67.64,Completed
+O00099,C0001,2026-05-05,Organic Search,388.16,Completed
+O00100,C0793,2025-05-26,Organic Search,240.89,Completed
+O00101,C0162,2025-05-20,Referral,117.22,Returned
+O00102,C0229,2026-01-01,Email,221.12,Completed
+O00103,C0790,2026-02-05,Social,307.62,Completed
+O00104,C0509,2025-04-17,Organic Search,875.98,Completed
+O00105,C0458,2025-12-10,Organic Search,70.2,Completed
+O00106,C0396,2025-02-19,Paid Search,362.36,Completed
+O00107,C0104,2026-01-20,Referral,266.65,Completed
+O00108,C0076,2025-04-18,Paid Search,445.1,Completed
+O00109,C0622,2025-06-18,Social,141.35,Completed
+O00110,C0677,2025-09-29,Organic Search,170.71,Completed
+O00111,C0370,2025-02-25,Organic Search,113.33,Completed
+O00112,C0084,2025-10-26,Paid Search,214.03,Completed
+O00113,C0190,2026-02-01,Paid Search,172.49,Completed
+O00114,C0276,2025-08-20,Email,124.45,Completed
+O00115,C0567,2025-08-21,Organic Search,427.89,Returned
+O00116,C0488,2025-08-30,Organic Search,183.06,Completed
+O00117,C0124,2025-05-31,Social,579.3,Completed
+O00118,C0081,2026-03-10,Social,67.46,Completed
+O00119,C0090,2025-03-10,Paid Search,281.46,Completed
+O00120,C0718,2025-01-13,Email,305.27,Returned
+O00121,C0577,2025-04-19,Referral,241.74,Completed
+O00122,C0413,2025-10-10,Organic Search,296.01,Completed
+O00123,C0382,2025-10-03,Organic Search,101.55,Completed
+O00124,C0308,2025-05-18,Social,137.73,Completed
+O00125,C0453,2025-07-12,Organic Search,512.62,Completed
+O00126,C0178,2025-01-30,Organic Search,488.85,Completed
+O00127,C0698,2025-05-07,Organic Search,173.73,Completed
+O00128,C0353,2025-12-25,Organic Search,288.55,Completed
+O00129,C0668,2025-10-03,Paid Search,84.21,Completed
+O00130,C0230,2025-01-09,Organic Search,290.23,Completed
+O00131,C0224,2025-09-16,Paid Search,272.29,Completed
+O00132,C0306,2025-10-17,Email,432.81,Completed
+O00133,C0672,2025-09-25,Email,333.44,Completed
+O00134,C0739,2025-05-24,Organic Search,67.95,Completed
+O00135,C0598,2025-02-06,Email,396.62,Completed
+O00136,C0520,2026-01-03,Organic Search,180.34,Completed
+O00137,C0697,2025-07-07,Social,406.02,Completed
+O00138,C0475,2025-10-29,Referral,62.02,Completed
+O00139,C0543,2026-01-26,Organic Search,33.3,Completed
+O00140,C0147,2026-04-14,Organic Search,249.9,Completed
+O00141,C0780,2025-08-03,Referral,576.21,Completed
+O00142,C0489,2026-03-16,Paid Search,237.3,Completed
+O00143,C0019,2025-07-15,Email,314.08,Completed
+O00144,C0067,2025-06-21,Referral,69.41,Completed
+O00145,C0704,2026-03-21,Social,117.6,Returned
+O00146,C0020,2026-02-18,Organic Search,161.24,Completed
+O00147,C0385,2025-02-08,Referral,153.05,Completed
+O00148,C0050,2025-01-21,Email,187.57,Completed
+O00149,C0712,2025-07-30,Email,141.93,Completed
+O00150,C0429,2025-05-21,Referral,136.27,Completed
+O00151,C0797,2025-07-24,Organic Search,389.01,Completed
+O00152,C0339,2026-05-08,Organic Search,141.74,Completed
+O00153,C0093,2025-06-02,Referral,265.02,Completed
+O00154,C0271,2025-10-31,Paid Search,389.52,Completed
+O00155,C0437,2025-11-17,Referral,156.23,Completed
+O00156,C0367,2025-12-03,Social,447.34,Completed
+O00157,C0432,2026-05-05,Email,239.89,Completed
+O00158,C0583,2026-05-10,Email,202.35,Completed
+O00159,C0495,2025-05-14,Social,124.79,Completed
+O00160,C0722,2025-01-13,Referral,534.93,Completed
+O00161,C0494,2025-09-12,Paid Search,580.59,Completed
+O00162,C0518,2025-06-10,Referral,834.7,Completed
+O00163,C0081,2025-08-29,Paid Search,487.87,Completed
+O00164,C0414,2025-04-16,Paid Search,224.87,Completed
+O00165,C0671,2025-07-31,Email,408.99,Completed
+O00166,C0117,2026-04-09,Organic Search,460.22,Completed
+O00167,C0047,2025-04-19,Social,140.45,Completed
+O00168,C0221,2026-02-07,Paid Search,301.94,Completed
+O00169,C0469,2026-04-07,Email,540.82,Returned
+O00170,C0709,2025-07-01,Email,374.46,Completed
+O00171,C0281,2025-09-12,Paid Search,63.84,Completed
+O00172,C0719,2025-11-03,Email,222.57,Completed
+O00173,C0689,2025-12-20,Organic Search,250.38,Completed
+O00174,C0691,2026-03-04,Referral,343.98,Completed
+O00175,C0294,2025-06-14,Email,161.75,Completed
+O00176,C0368,2025-02-03,Referral,197.37,Completed
+O00177,C0710,2025-10-22,Email,893.99,Completed
+O00178,C0231,2026-03-30,Social,289.66,Completed
+O00179,C0182,2026-04-05,Social,167.05,Completed
+O00180,C0570,2025-10-13,Organic Search,60.06,Returned
+O00181,C0158,2025-02-10,Social,342.99,Completed
+O00182,C0534,2025-07-08,Organic Search,134.52,Completed
+O00183,C0680,2025-08-07,Organic Search,444.62,Completed
+O00184,C0118,2025-01-10,Email,404.58,Completed
+O00185,C0396,2025-04-27,Organic Search,257.91,Completed
+O00186,C0668,2025-10-31,Organic Search,140.87,Completed
+O00187,C0642,2025-01-08,Organic Search,378.81,Completed
+O00188,C0663,2026-03-22,Referral,37.12,Completed
+O00189,C0056,2025-03-17,Organic Search,62.48,Completed
+O00190,C0462,2026-02-02,Email,83.95,Completed
+O00191,C0775,2025-03-06,Referral,66.28,Completed
+O00192,C0622,2025-11-05,Organic Search,385.15,Completed
+O00193,C0559,2026-02-05,Organic Search,440.6,Returned
+O00194,C0567,2025-01-12,Referral,172.36,Completed
+O00195,C0313,2025-03-29,Organic Search,200.66,Completed
+O00196,C0199,2025-09-16,Organic Search,327.63,Completed
+O00197,C0257,2025-03-10,Organic Search,303.57,Completed
+O00198,C0326,2025-07-18,Paid Search,64.11,Completed
+O00199,C0439,2025-11-20,Organic Search,200.6,Completed
+O00200,C0138,2026-01-04,Email,122.06,Completed
+O00201,C0180,2025-04-22,Email,111.88,Completed
+O00202,C0752,2025-09-27,Social,142.12,Completed
+O00203,C0788,2026-02-19,Email,351.58,Completed
+O00204,C0514,2026-04-21,Paid Search,97.81,Completed
+O00205,C0776,2025-06-19,Paid Search,183.93,Completed
+O00206,C0754,2025-05-30,Referral,484.52,Completed
+O00207,C0466,2026-04-26,Social,153.84,Completed
+O00208,C0760,2025-10-08,Organic Search,408.47,Completed
+O00209,C0229,2026-01-21,Paid Search,78.43,Completed
+O00210,C0143,2026-05-29,Paid Search,56.54,Completed
+O00211,C0677,2025-05-02,Organic Search,328.94,Completed
+O00212,C0045,2025-09-07,Organic Search,168.83,Returned
+O00213,C0614,2026-02-20,Social,238.96,Completed
+O00214,C0616,2026-02-25,Organic Search,239.39,Completed
+O00215,C0236,2025-03-12,Paid Search,98.03,Completed
+O00216,C0154,2026-03-06,Email,340.14,Completed
+O00217,C0494,2025-04-06,Email,458.6,Returned
+O00218,C0788,2026-05-09,Paid Search,361.22,Completed
+O00219,C0264,2026-02-23,Organic Search,156.46,Completed
+O00220,C0371,2026-02-23,Organic Search,60.93,Completed
+O00221,C0697,2025-10-10,Paid Search,127.31,Completed
+O00222,C0592,2025-11-11,Paid Search,210.78,Returned
+O00223,C0220,2025-04-13,Paid Search,315.14,Completed
+O00224,C0091,2026-03-22,Organic Search,69.34,Returned
+O00225,C0629,2026-02-15,Email,360.46,Completed
+O00226,C0011,2026-03-26,Organic Search,192.0,Completed
+O00227,C0369,2025-02-06,Organic Search,172.97,Completed
+O00228,C0416,2026-02-09,Email,133.84,Completed
+O00229,C0356,2025-12-23,Social,212.62,Completed
+O00230,C0417,2025-06-29,Paid Search,538.28,Completed
+O00231,C0711,2025-09-14,Paid Search,132.51,Returned
+O00232,C0698,2026-04-15,Paid Search,297.92,Completed
+O00233,C0324,2025-08-24,Paid Search,86.7,Completed
+O00234,C0690,2026-02-13,Referral,175.9,Completed
+O00235,C0188,2025-10-03,Social,390.34,Completed
+O00236,C0634,2025-09-13,Paid Search,285.55,Completed
+O00237,C0494,2025-02-13,Paid Search,66.58,Completed
+O00238,C0408,2025-10-14,Organic Search,396.91,Completed
+O00239,C0469,2025-06-28,Social,329.38,Completed
+O00240,C0192,2025-09-23,Email,243.3,Completed
+O00241,C0216,2026-03-11,Paid Search,228.9,Completed
+O00242,C0739,2025-04-13,Organic Search,257.18,Completed
+O00243,C0485,2025-06-03,Referral,136.06,Completed
+O00244,C0499,2025-11-20,Organic Search,362.96,Completed
+O00245,C0461,2025-04-09,Referral,85.8,Completed
+O00246,C0422,2025-01-21,Organic Search,578.39,Completed
+O00247,C0081,2026-04-03,Paid Search,73.12,Returned
+O00248,C0647,2026-03-08,Email,64.08,Completed
+O00249,C0728,2025-10-26,Organic Search,229.25,Returned
+O00250,C0172,2026-02-28,Organic Search,212.76,Completed
+O00251,C0216,2025-03-23,Organic Search,131.74,Completed
+O00252,C0537,2026-02-11,Referral,55.24,Returned
+O00253,C0317,2026-02-04,Organic Search,288.77,Completed
+O00254,C0488,2025-11-30,Paid Search,399.26,Completed
+O00255,C0537,2026-03-22,Email,273.15,Completed
+O00256,C0011,2025-11-07,Organic Search,216.92,Completed
+O00257,C0010,2025-11-03,Referral,390.0,Completed
+O00258,C0733,2025-06-17,Referral,180.42,Completed
+O00259,C0292,2025-10-06,Email,254.39,Completed
+O00260,C0279,2026-04-09,Email,127.01,Completed
+O00261,C0105,2025-07-10,Organic Search,152.3,Completed
+O00262,C0223,2026-05-21,Paid Search,374.43,Completed
+O00263,C0083,2025-12-05,Referral,401.81,Completed
+O00264,C0395,2025-09-12,Referral,177.24,Completed
+O00265,C0485,2025-08-02,Paid Search,503.0,Completed
+O00266,C0242,2025-04-26,Email,369.28,Completed
+O00267,C0010,2025-09-06,Social,195.5,Completed
+O00268,C0778,2025-12-13,Email,37.68,Completed
+O00269,C0325,2025-08-27,Social,357.8,Completed
+O00270,C0041,2025-09-14,Paid Search,68.98,Completed
+O00271,C0332,2025-12-23,Referral,168.4,Completed
+O00272,C0555,2025-09-27,Paid Search,213.54,Completed
+O00273,C0795,2026-01-08,Email,66.78,Completed
+O00274,C0785,2026-05-25,Email,326.16,Completed
+O00275,C0183,2025-05-13,Referral,113.49,Completed
+O00276,C0674,2026-02-02,Paid Search,161.19,Completed
+O00277,C0082,2026-05-19,Paid Search,213.5,Completed
+O00278,C0542,2025-09-30,Organic Search,65.03,Completed
+O00279,C0743,2025-04-14,Organic Search,205.6,Completed
+O00280,C0572,2025-07-03,Referral,130.69,Completed
+O00281,C0107,2026-03-14,Organic Search,204.25,Completed
+O00282,C0361,2026-03-30,Social,291.61,Completed
+O00283,C0385,2025-08-08,Referral,454.47,Cancelled
+O00284,C0007,2025-11-06,Organic Search,149.56,Completed
+O00285,C0567,2025-10-10,Paid Search,198.73,Completed
+O00286,C0263,2025-08-27,Referral,186.12,Completed
+O00287,C0495,2025-11-29,Organic Search,345.95,Completed
+O00288,C0427,2026-03-21,Social,209.07,Returned
+O00289,C0056,2026-01-27,Organic Search,36.98,Completed
+O00290,C0457,2026-02-07,Referral,194.44,Completed
+O00291,C0562,2025-02-20,Paid Search,126.71,Completed
+O00292,C0500,2025-07-22,Paid Search,346.13,Completed
+O00293,C0434,2026-02-28,Paid Search,70.92,Completed
+O00294,C0632,2025-12-25,Referral,227.63,Completed
+O00295,C0116,2025-03-29,Referral,75.78,Completed
+O00296,C0313,2025-04-24,Paid Search,203.94,Completed
+O00297,C0562,2025-09-22,Paid Search,113.36,Completed
+O00298,C0062,2025-06-24,Organic Search,160.34,Completed
+O00299,C0111,2026-01-04,Organic Search,661.2,Completed
+O00300,C0575,2026-04-14,Social,373.92,Completed
+O00301,C0019,2025-06-10,Paid Search,76.01,Completed
+O00302,C0641,2025-03-05,Organic Search,199.46,Completed
+O00303,C0403,2025-12-16,Email,205.09,Completed
+O00304,C0428,2025-08-21,Organic Search,133.32,Completed
+O00305,C0669,2025-07-31,Organic Search,523.46,Completed
+O00306,C0672,2025-05-29,Social,382.03,Completed
+O00307,C0422,2026-02-28,Organic Search,125.39,Completed
+O00308,C0621,2025-10-01,Email,175.64,Completed
+O00309,C0138,2026-05-04,Paid Search,219.17,Completed
+O00310,C0277,2025-01-16,Social,197.35,Returned
+O00311,C0632,2026-03-26,Paid Search,317.7,Completed
+O00312,C0738,2026-01-25,Organic Search,297.92,Completed
+O00313,C0753,2026-02-10,Organic Search,166.83,Completed
+O00314,C0473,2025-10-20,Organic Search,183.17,Completed
+O00315,C0093,2026-04-08,Referral,34.21,Completed
+O00316,C0605,2026-04-10,Social,355.89,Completed
+O00317,C0088,2026-01-07,Paid Search,176.93,Completed
+O00318,C0580,2025-12-10,Referral,386.79,Completed
+O00319,C0135,2025-05-01,Social,60.45,Completed
+O00320,C0623,2025-01-06,Social,124.24,Completed
+O00321,C0251,2025-01-07,Social,201.06,Completed
+O00322,C0149,2025-02-07,Referral,294.54,Completed
+O00323,C0467,2025-07-01,Referral,161.9,Completed
+O00324,C0070,2026-01-24,Referral,307.48,Completed
+O00325,C0586,2025-04-22,Referral,474.25,Completed
+O00326,C0266,2025-11-21,Paid Search,383.84,Completed
+O00327,C0477,2025-01-25,Email,479.02,Completed
+O00328,C0359,2025-12-08,Email,356.15,Completed
+O00329,C0786,2025-11-28,Organic Search,345.85,Completed
+O00330,C0689,2025-12-13,Paid Search,168.31,Completed
+O00331,C0474,2025-12-10,Referral,323.8,Completed
+O00332,C0569,2025-11-20,Paid Search,302.98,Completed
+O00333,C0288,2025-06-02,Referral,211.87,Completed
+O00334,C0192,2026-02-03,Email,276.95,Returned
+O00335,C0538,2025-08-10,Organic Search,183.51,Completed
+O00336,C0495,2025-01-26,Social,293.9,Completed
+O00337,C0147,2025-12-02,Referral,32.09,Completed
+O00338,C0005,2025-04-29,Organic Search,71.61,Completed
+O00339,C0024,2025-11-16,Email,203.06,Completed
+O00340,C0792,2025-11-23,Paid Search,32.67,Returned
+O00341,C0212,2025-04-15,Email,190.32,Completed
+O00342,C0554,2025-12-13,Paid Search,227.96,Completed
+O00343,C0437,2025-03-30,Paid Search,228.49,Completed
+O00344,C0774,2025-03-22,Referral,269.82,Completed
+O00345,C0482,2026-04-22,Organic Search,118.24,Completed
+O00346,C0333,2025-12-05,Paid Search,125.2,Completed
+O00347,C0787,2025-10-17,Paid Search,496.9,Completed
+O00348,C0411,2026-04-18,Email,214.12,Completed
+O00349,C0214,2025-12-15,Referral,348.56,Completed
+O00350,C0118,2026-05-14,Email,239.92,Returned
+O00351,C0613,2025-03-13,Organic Search,397.78,Completed
+O00352,C0776,2025-01-01,Organic Search,70.24,Completed
+O00353,C0307,2025-11-21,Email,784.71,Completed
+O00354,C0064,2025-10-29,Paid Search,278.31,Completed
+O00355,C0443,2025-08-29,Email,137.42,Completed
+O00356,C0679,2025-08-05,Organic Search,384.0,Completed
+O00357,C0687,2025-10-23,Organic Search,98.51,Completed
+O00358,C0087,2025-05-20,Organic Search,446.95,Completed
+O00359,C0394,2026-04-06,Paid Search,97.79,Completed
+O00360,C0276,2026-05-29,Paid Search,323.37,Completed
+O00361,C0146,2025-03-23,Referral,245.31,Completed
+O00362,C0701,2025-03-21,Email,191.81,Completed
+O00363,C0588,2026-04-26,Referral,62.43,Returned
+O00364,C0745,2025-11-08,Referral,127.67,Completed
+O00365,C0756,2025-10-26,Email,60.4,Completed
+O00366,C0136,2025-09-16,Email,55.59,Completed
+O00367,C0675,2025-06-04,Paid Search,485.63,Completed
+O00368,C0149,2025-03-28,Email,549.87,Completed
+O00369,C0774,2025-09-28,Referral,154.61,Completed
+O00370,C0389,2025-08-28,Email,65.15,Completed
+O00371,C0392,2026-04-05,Email,634.45,Completed
+O00372,C0792,2026-04-18,Email,224.99,Cancelled
+O00373,C0561,2025-11-17,Organic Search,60.69,Completed
+O00374,C0360,2026-04-02,Organic Search,222.36,Completed
+O00375,C0614,2025-08-11,Email,420.48,Completed
+O00376,C0114,2025-07-09,Email,147.02,Completed
+O00377,C0788,2025-10-11,Paid Search,490.72,Completed
+O00378,C0452,2025-07-02,Organic Search,445.74,Completed
+O00379,C0586,2025-03-14,Referral,239.85,Completed
+O00380,C0717,2025-06-05,Organic Search,99.56,Completed
+O00381,C0414,2026-03-23,Referral,128.66,Completed
+O00382,C0342,2026-01-03,Email,71.12,Completed
+O00383,C0779,2026-04-16,Referral,240.01,Completed
+O00384,C0499,2026-01-03,Organic Search,383.4,Completed
+O00385,C0512,2025-11-12,Paid Search,375.02,Completed
+O00386,C0759,2025-06-02,Email,381.64,Completed
+O00387,C0315,2025-02-21,Referral,329.92,Completed
+O00388,C0510,2025-04-27,Email,479.12,Completed
+O00389,C0701,2025-05-04,Email,221.17,Completed
+O00390,C0281,2025-05-04,Organic Search,77.71,Returned
+O00391,C0137,2025-02-11,Organic Search,382.91,Completed
+O00392,C0711,2026-03-03,Referral,155.48,Completed
+O00393,C0611,2025-02-08,Organic Search,70.14,Completed
+O00394,C0572,2025-01-05,Organic Search,138.36,Cancelled
+O00395,C0476,2025-08-13,Referral,164.32,Completed
+O00396,C0164,2025-06-30,Email,77.65,Completed
+O00397,C0045,2026-04-10,Organic Search,163.64,Completed
+O00398,C0241,2025-03-14,Referral,374.89,Completed
+O00399,C0243,2025-04-11,Referral,491.97,Completed
+O00400,C0140,2026-01-18,Paid Search,221.52,Completed
+O00401,C0288,2025-03-03,Organic Search,498.3,Completed
+O00402,C0089,2025-08-24,Paid Search,283.36,Completed
+O00403,C0336,2025-09-11,Paid Search,76.94,Completed
+O00404,C0042,2025-02-15,Social,631.19,Completed
+O00405,C0086,2025-09-04,Email,253.56,Completed
+O00406,C0017,2025-04-03,Paid Search,339.18,Completed
+O00407,C0475,2026-04-11,Referral,588.06,Completed
+O00408,C0304,2025-02-03,Paid Search,396.04,Completed
+O00409,C0528,2025-02-26,Social,290.0,Completed
+O00410,C0575,2025-03-10,Email,128.88,Completed
+O00411,C0772,2025-08-03,Referral,157.56,Completed
+O00412,C0065,2025-02-25,Paid Search,129.5,Completed
+O00413,C0463,2025-10-27,Email,270.62,Completed
+O00414,C0112,2025-03-20,Organic Search,38.29,Completed
+O00415,C0301,2025-01-24,Paid Search,221.52,Completed
+O00416,C0533,2025-08-26,Email,148.54,Completed
+O00417,C0469,2026-04-01,Organic Search,65.66,Completed
+O00418,C0789,2025-10-23,Referral,64.32,Returned
+O00419,C0187,2025-10-20,Social,225.33,Completed
+O00420,C0353,2025-11-21,Organic Search,167.13,Completed
+O00421,C0787,2026-05-27,Organic Search,153.89,Completed
+O00422,C0663,2025-12-06,Email,218.34,Cancelled
+O00423,C0579,2025-05-31,Referral,396.91,Completed
+O00424,C0366,2026-04-02,Organic Search,204.4,Returned
+O00425,C0201,2025-10-12,Organic Search,278.66,Completed
+O00426,C0683,2025-02-27,Paid Search,133.64,Completed
+O00427,C0316,2025-12-26,Social,348.7,Completed
+O00428,C0143,2026-03-01,Referral,163.36,Returned
+O00429,C0091,2026-01-20,Organic Search,295.71,Completed
+O00430,C0297,2026-01-26,Email,132.6,Completed
+O00431,C0230,2026-04-20,Organic Search,62.25,Completed
+O00432,C0670,2025-05-08,Email,188.54,Completed
+O00433,C0784,2025-05-03,Organic Search,472.88,Completed
+O00434,C0167,2025-09-23,Email,298.06,Completed
+O00435,C0370,2025-10-07,Paid Search,203.86,Completed
+O00436,C0557,2025-06-21,Organic Search,71.97,Completed
+O00437,C0148,2025-12-27,Organic Search,77.28,Returned
+O00438,C0105,2025-06-16,Organic Search,439.22,Completed
+O00439,C0428,2025-04-27,Paid Search,70.74,Completed
+O00440,C0143,2026-01-07,Referral,290.22,Completed
+O00441,C0134,2025-08-03,Social,136.0,Completed
+O00442,C0202,2025-02-13,Organic Search,361.95,Completed
+O00443,C0617,2025-05-07,Organic Search,423.59,Completed
+O00444,C0518,2025-09-05,Email,95.3,Returned
+O00445,C0773,2025-06-25,Paid Search,655.17,Completed
+O00446,C0418,2025-08-22,Organic Search,553.53,Completed
+O00447,C0704,2025-11-16,Social,147.44,Completed
+O00448,C0488,2025-03-13,Social,273.12,Completed
+O00449,C0536,2026-03-25,Email,36.96,Cancelled
+O00450,C0067,2025-06-22,Paid Search,239.14,Completed
+O00451,C0743,2026-03-11,Paid Search,321.34,Completed
+O00452,C0497,2026-02-19,Paid Search,152.9,Completed
+O00453,C0031,2025-05-18,Organic Search,59.71,Completed
+O00454,C0157,2025-12-01,Organic Search,332.85,Completed
+O00455,C0517,2026-05-18,Organic Search,164.6,Completed
+O00456,C0393,2025-05-02,Paid Search,627.98,Completed
+O00457,C0500,2026-02-03,Referral,268.77,Completed
+O00458,C0401,2025-02-27,Organic Search,271.54,Completed
+O00459,C0376,2025-05-12,Paid Search,367.74,Completed
+O00460,C0058,2025-12-26,Email,75.03,Completed
+O00461,C0118,2025-11-09,Organic Search,144.77,Completed
+O00462,C0274,2026-03-08,Organic Search,266.64,Completed
+O00463,C0501,2025-04-11,Organic Search,347.44,Completed
+O00464,C0207,2026-03-23,Paid Search,366.85,Completed
+O00465,C0735,2025-04-05,Referral,142.1,Completed
+O00466,C0215,2026-03-14,Paid Search,66.24,Completed
+O00467,C0205,2025-11-17,Paid Search,162.88,Completed
+O00468,C0591,2025-07-11,Paid Search,362.27,Completed
+O00469,C0535,2025-03-03,Organic Search,202.4,Completed
+O00470,C0421,2026-03-22,Organic Search,377.86,Completed
+O00471,C0197,2025-06-03,Organic Search,287.54,Completed
+O00472,C0140,2025-10-07,Organic Search,208.96,Completed
+O00473,C0086,2025-02-26,Organic Search,129.92,Completed
+O00474,C0407,2025-04-03,Social,295.72,Completed
+O00475,C0509,2025-09-15,Social,123.64,Completed
+O00476,C0767,2026-02-04,Referral,469.67,Completed
+O00477,C0325,2025-04-26,Email,630.87,Returned
+O00478,C0487,2026-01-07,Email,493.25,Completed
+O00479,C0317,2026-01-29,Email,342.08,Completed
+O00480,C0309,2025-09-19,Organic Search,661.37,Completed
+O00481,C0083,2025-10-08,Referral,529.95,Completed
+O00482,C0361,2025-03-09,Paid Search,329.85,Completed
+O00483,C0004,2025-05-20,Paid Search,206.05,Completed
+O00484,C0609,2025-05-14,Email,349.52,Completed
+O00485,C0204,2025-10-16,Organic Search,432.16,Completed
+O00486,C0022,2025-08-18,Social,864.5,Completed
+O00487,C0377,2025-04-02,Organic Search,264.57,Completed
+O00488,C0731,2025-08-18,Organic Search,353.82,Completed
+O00489,C0185,2026-03-05,Paid Search,195.93,Completed
+O00490,C0379,2025-09-12,Email,339.12,Completed
+O00491,C0726,2026-01-28,Paid Search,395.94,Completed
+O00492,C0006,2025-02-16,Organic Search,456.26,Completed
+O00493,C0516,2025-06-23,Paid Search,155.14,Completed
+O00494,C0267,2025-05-26,Organic Search,39.02,Completed
+O00495,C0441,2026-01-05,Organic Search,548.87,Returned
+O00496,C0055,2026-03-27,Organic Search,172.38,Completed
+O00497,C0119,2026-03-23,Social,860.59,Completed
+O00498,C0291,2025-07-28,Organic Search,62.54,Completed
+O00499,C0539,2025-01-05,Referral,66.21,Completed
+O00500,C0027,2025-12-03,Organic Search,692.09,Completed
+O00501,C0338,2025-01-06,Social,741.48,Completed
+O00502,C0660,2025-02-19,Organic Search,185.62,Returned
+O00503,C0092,2026-02-13,Organic Search,188.9,Completed
+O00504,C0124,2025-06-07,Organic Search,236.25,Completed
+O00505,C0457,2026-05-17,Social,135.06,Completed
+O00506,C0445,2025-07-10,Email,435.93,Completed
+O00507,C0508,2025-06-08,Paid Search,128.51,Cancelled
+O00508,C0255,2025-11-04,Paid Search,183.65,Completed
+O00509,C0423,2026-03-12,Organic Search,222.06,Completed
+O00510,C0187,2025-07-03,Referral,262.98,Completed
+O00511,C0776,2026-04-11,Email,365.02,Completed
+O00512,C0690,2025-09-23,Organic Search,310.59,Completed
+O00513,C0311,2026-05-14,Email,500.11,Completed
+O00514,C0665,2026-05-08,Organic Search,229.15,Completed
+O00515,C0023,2026-03-09,Organic Search,591.97,Completed
+O00516,C0646,2025-04-16,Referral,288.12,Completed
+O00517,C0038,2025-10-25,Paid Search,114.25,Completed
+O00518,C0567,2025-11-20,Organic Search,481.46,Completed
+O00519,C0353,2026-04-26,Paid Search,300.96,Completed
+O00520,C0135,2026-04-25,Social,640.12,Completed
+O00521,C0637,2025-06-15,Organic Search,201.66,Completed
+O00522,C0311,2026-05-21,Organic Search,370.8,Completed
+O00523,C0066,2025-02-02,Organic Search,183.68,Completed
+O00524,C0364,2025-12-15,Referral,229.85,Completed
+O00525,C0469,2026-03-25,Social,558.38,Completed
+O00526,C0172,2025-04-18,Email,276.82,Completed
+O00527,C0126,2025-05-22,Referral,123.17,Completed
+O00528,C0350,2026-05-01,Organic Search,63.69,Completed
+O00529,C0156,2025-09-09,Referral,448.39,Completed
+O00530,C0031,2026-01-06,Paid Search,231.52,Completed
+O00531,C0677,2025-02-07,Social,557.58,Completed
+O00532,C0430,2025-10-30,Paid Search,150.12,Completed
+O00533,C0718,2025-05-31,Paid Search,255.0,Completed
+O00534,C0038,2025-03-28,Paid Search,35.82,Completed
+O00535,C0534,2025-11-16,Paid Search,318.38,Completed
+O00536,C0518,2026-03-09,Organic Search,78.84,Completed
+O00537,C0460,2025-05-08,Organic Search,1066.38,Completed
+O00538,C0359,2025-08-28,Organic Search,116.27,Completed
+O00539,C0466,2026-01-05,Organic Search,294.05,Completed
+O00540,C0603,2026-02-17,Email,134.85,Completed
+O00541,C0167,2026-03-03,Organic Search,168.15,Completed
+O00542,C0712,2025-05-01,Organic Search,353.0,Returned
+O00543,C0113,2026-02-23,Organic Search,338.44,Completed
+O00544,C0146,2025-05-27,Referral,130.04,Completed
+O00545,C0003,2026-05-16,Organic Search,171.53,Completed
+O00546,C0387,2025-12-12,Paid Search,241.18,Completed
+O00547,C0092,2025-11-30,Referral,371.96,Completed
+O00548,C0662,2025-10-12,Organic Search,96.83,Completed
+O00549,C0660,2025-05-07,Email,339.46,Completed
+O00550,C0020,2026-05-30,Organic Search,479.98,Completed
+O00551,C0604,2026-02-16,Organic Search,497.79,Completed
+O00552,C0148,2025-10-20,Organic Search,211.52,Completed
+O00553,C0306,2025-03-01,Paid Search,260.72,Returned
+O00554,C0054,2025-05-04,Organic Search,434.5,Completed
+O00555,C0068,2026-02-21,Paid Search,350.68,Completed
+O00556,C0253,2025-04-14,Referral,286.66,Completed
+O00557,C0383,2025-05-26,Email,191.78,Completed
+O00558,C0043,2026-04-08,Organic Search,64.33,Completed
+O00559,C0280,2026-05-09,Email,504.61,Completed
+O00560,C0716,2026-02-09,Organic Search,113.68,Completed
+O00561,C0699,2025-11-22,Social,212.73,Completed
+O00562,C0709,2025-01-17,Organic Search,476.16,Completed
+O00563,C0552,2025-03-21,Organic Search,622.2,Completed
+O00564,C0128,2025-01-09,Paid Search,402.25,Completed
+O00565,C0240,2025-08-15,Social,485.14,Completed
+O00566,C0067,2025-06-29,Email,339.82,Completed
+O00567,C0710,2025-01-24,Email,497.42,Returned
+O00568,C0417,2026-03-19,Organic Search,537.38,Completed
+O00569,C0546,2026-03-07,Paid Search,234.14,Completed
+O00570,C0707,2025-08-20,Paid Search,187.95,Completed
+O00571,C0029,2025-04-10,Paid Search,261.44,Completed
+O00572,C0533,2025-12-08,Referral,505.98,Completed
+O00573,C0131,2025-03-08,Organic Search,198.79,Completed
+O00574,C0412,2026-01-26,Organic Search,335.32,Completed
+O00575,C0348,2025-04-14,Email,267.95,Completed
+O00576,C0587,2025-07-18,Organic Search,82.4,Completed
+O00577,C0141,2025-09-06,Referral,69.31,Completed
+O00578,C0319,2026-01-02,Email,109.01,Completed
+O00579,C0059,2025-05-29,Organic Search,389.19,Completed
+O00580,C0684,2025-07-13,Paid Search,239.86,Completed
+O00581,C0167,2025-12-03,Organic Search,669.32,Completed
+O00582,C0758,2025-12-06,Paid Search,83.1,Completed
+O00583,C0146,2025-04-28,Organic Search,71.01,Completed
+O00584,C0225,2025-06-28,Social,277.86,Completed
+O00585,C0694,2025-01-22,Organic Search,439.98,Completed
+O00586,C0729,2026-03-21,Organic Search,66.48,Completed
+O00587,C0326,2026-01-19,Email,862.22,Completed
+O00588,C0215,2026-05-16,Referral,195.71,Completed
+O00589,C0184,2026-04-21,Organic Search,125.62,Completed
+O00590,C0654,2026-02-15,Social,410.21,Completed
+O00591,C0586,2026-01-22,Organic Search,344.85,Completed
+O00592,C0462,2026-03-13,Paid Search,122.68,Completed
+O00593,C0272,2025-08-28,Email,66.26,Completed
+O00594,C0284,2025-03-22,Social,66.88,Completed
+O00595,C0257,2025-12-04,Organic Search,472.95,Completed
+O00596,C0009,2025-09-25,Referral,154.28,Completed
+O00597,C0484,2025-01-13,Email,759.9,Completed
+O00598,C0193,2025-11-17,Paid Search,482.55,Completed
+O00599,C0348,2025-12-30,Organic Search,205.61,Completed
+O00600,C0582,2025-01-24,Referral,426.17,Completed
+O00601,C0193,2026-01-31,Paid Search,154.72,Completed
+O00602,C0033,2025-07-01,Referral,161.2,Completed
+O00603,C0466,2025-03-13,Organic Search,196.93,Completed
+O00604,C0133,2025-04-24,Paid Search,71.81,Completed
+O00605,C0318,2025-07-30,Paid Search,203.54,Completed
+O00606,C0207,2025-10-10,Organic Search,135.38,Completed
+O00607,C0583,2025-12-03,Referral,161.49,Completed
+O00608,C0356,2026-04-13,Email,279.2,Completed
+O00609,C0469,2026-03-19,Paid Search,519.41,Completed
+O00610,C0683,2025-10-26,Social,417.14,Completed
+O00611,C0517,2025-04-18,Referral,151.45,Completed
+O00612,C0075,2025-01-28,Email,353.97,Completed
+O00613,C0335,2025-05-20,Email,162.91,Completed
+O00614,C0144,2026-03-25,Paid Search,163.22,Completed
+O00615,C0128,2025-10-29,Paid Search,59.49,Completed
+O00616,C0367,2026-03-28,Organic Search,633.39,Completed
+O00617,C0400,2025-04-16,Email,88.87,Completed
+O00618,C0384,2025-09-13,Social,100.5,Completed
+O00619,C0697,2025-07-16,Email,275.0,Completed
+O00620,C0046,2025-06-21,Paid Search,143.86,Completed
+O00621,C0439,2026-02-09,Organic Search,70.77,Completed
+O00622,C0399,2025-01-13,Organic Search,58.83,Completed
+O00623,C0421,2025-08-12,Organic Search,288.45,Returned
+O00624,C0647,2025-11-29,Email,236.97,Completed
+O00625,C0344,2025-03-11,Organic Search,453.27,Completed
+O00626,C0243,2025-11-13,Referral,155.06,Completed
+O00627,C0743,2025-09-01,Email,256.64,Completed
+O00628,C0751,2025-08-23,Organic Search,349.54,Completed
+O00629,C0623,2025-08-16,Referral,378.28,Completed
+O00630,C0210,2025-05-25,Organic Search,197.89,Completed
+O00631,C0169,2025-11-15,Referral,174.0,Completed
+O00632,C0279,2025-07-26,Referral,73.27,Completed
+O00633,C0779,2026-03-20,Organic Search,417.71,Completed
+O00634,C0390,2025-09-21,Paid Search,196.97,Completed
+O00635,C0201,2026-04-26,Organic Search,191.16,Completed
+O00636,C0426,2026-02-19,Social,689.94,Completed
+O00637,C0790,2025-09-19,Social,283.52,Completed
+O00638,C0490,2025-09-06,Organic Search,170.52,Completed
+O00639,C0617,2025-09-11,Email,255.03,Completed
+O00640,C0531,2025-03-24,Social,807.67,Completed
+O00641,C0112,2025-04-02,Email,351.52,Completed
+O00642,C0504,2025-06-22,Organic Search,141.7,Completed
+O00643,C0181,2025-06-24,Paid Search,444.87,Completed
+O00644,C0768,2025-03-02,Organic Search,415.76,Completed
+O00645,C0301,2025-03-23,Organic Search,67.42,Completed
+O00646,C0010,2025-04-14,Organic Search,241.27,Completed
+O00647,C0498,2025-09-30,Paid Search,142.48,Completed
+O00648,C0246,2025-11-19,Social,255.19,Completed
+O00649,C0743,2026-02-16,Referral,420.81,Completed
+O00650,C0528,2026-05-02,Paid Search,136.08,Completed
+O00651,C0695,2025-11-30,Paid Search,266.31,Returned
+O00652,C0752,2025-04-13,Paid Search,310.87,Completed
+O00653,C0309,2025-03-31,Referral,816.67,Completed
+O00654,C0393,2025-12-01,Referral,66.17,Completed
+O00655,C0548,2025-05-20,Email,305.54,Completed
+O00656,C0660,2025-03-08,Paid Search,720.57,Completed
+O00657,C0759,2025-12-15,Email,118.65,Completed
+O00658,C0591,2026-01-25,Referral,477.3,Completed
+O00659,C0696,2026-01-09,Social,174.95,Completed
+O00660,C0149,2025-11-20,Referral,193.08,Completed
+O00661,C0765,2025-05-30,Email,234.9,Completed
+O00662,C0647,2026-05-05,Referral,210.54,Completed
+O00663,C0751,2025-08-04,Social,357.36,Completed
+O00664,C0307,2026-02-06,Social,275.81,Completed
+O00665,C0074,2026-02-05,Paid Search,219.13,Completed
+O00666,C0771,2025-11-28,Referral,395.25,Completed
+O00667,C0753,2025-07-20,Email,141.73,Completed
+O00668,C0696,2026-03-14,Referral,891.93,Completed
+O00669,C0251,2026-02-18,Organic Search,128.28,Completed
+O00670,C0795,2026-01-20,Email,273.84,Completed
+O00671,C0123,2025-01-12,Organic Search,197.84,Completed
+O00672,C0711,2025-10-08,Referral,407.1,Completed
+O00673,C0731,2025-03-07,Social,545.19,Completed
+O00674,C0066,2026-05-16,Paid Search,510.32,Completed
+O00675,C0006,2025-07-04,Email,213.16,Completed
+O00676,C0087,2025-02-05,Social,219.99,Cancelled
+O00677,C0255,2025-01-01,Organic Search,386.91,Completed
+O00678,C0705,2025-08-03,Organic Search,386.53,Completed
+O00679,C0606,2025-08-10,Paid Search,130.27,Completed
+O00680,C0410,2025-06-17,Paid Search,273.84,Completed
+O00681,C0430,2025-06-17,Referral,150.55,Completed
+O00682,C0128,2025-10-04,Paid Search,483.02,Completed
+O00683,C0281,2025-08-20,Organic Search,178.84,Returned
+O00684,C0540,2025-06-29,Referral,121.8,Completed
+O00685,C0565,2025-10-16,Organic Search,184.68,Completed
+O00686,C0760,2025-12-20,Email,391.37,Completed
+O00687,C0388,2025-05-27,Email,74.61,Completed
+O00688,C0188,2026-04-14,Paid Search,153.75,Completed
+O00689,C0313,2025-08-23,Email,66.42,Completed
+O00690,C0079,2025-03-23,Referral,420.19,Completed
+O00691,C0492,2025-05-20,Paid Search,509.72,Completed
+O00692,C0251,2025-12-20,Social,303.13,Completed
+O00693,C0077,2025-06-29,Paid Search,154.9,Completed
+O00694,C0116,2026-01-18,Organic Search,160.39,Completed
+O00695,C0313,2025-08-11,Social,693.81,Completed
+O00696,C0740,2025-12-25,Organic Search,120.53,Completed
+O00697,C0421,2025-06-07,Organic Search,33.67,Completed
+O00698,C0307,2026-01-19,Paid Search,447.83,Completed
+O00699,C0195,2025-04-24,Organic Search,148.75,Completed
+O00700,C0491,2025-07-23,Social,806.97,Completed
+O00701,C0113,2025-05-15,Social,91.98,Completed
+O00702,C0612,2026-03-16,Referral,63.11,Completed
+O00703,C0747,2025-06-06,Paid Search,283.78,Completed
+O00704,C0204,2026-03-16,Paid Search,216.16,Completed
+O00705,C0235,2025-06-02,Organic Search,197.67,Completed
+O00706,C0094,2025-07-24,Referral,76.03,Completed
+O00707,C0491,2026-03-13,Organic Search,160.84,Completed
+O00708,C0729,2025-12-26,Paid Search,151.38,Completed
+O00709,C0218,2025-11-26,Organic Search,122.0,Completed
+O00710,C0312,2025-12-09,Organic Search,222.61,Completed
+O00711,C0666,2025-09-01,Organic Search,213.89,Returned
+O00712,C0198,2025-07-15,Email,302.09,Completed
+O00713,C0778,2025-09-16,Referral,573.54,Completed
+O00714,C0171,2025-01-23,Email,297.69,Completed
+O00715,C0507,2026-02-12,Email,369.85,Completed
+O00716,C0607,2025-08-12,Email,341.47,Completed
+O00717,C0299,2025-09-01,Organic Search,115.18,Completed
+O00718,C0216,2025-09-12,Paid Search,86.46,Completed
+O00719,C0740,2025-09-28,Organic Search,338.78,Completed
+O00720,C0740,2025-04-19,Referral,124.34,Completed
+O00721,C0226,2026-03-29,Organic Search,186.71,Completed
+O00722,C0152,2026-01-13,Social,193.37,Completed
+O00723,C0747,2026-05-18,Organic Search,64.48,Completed
+O00724,C0072,2025-07-12,Organic Search,354.16,Completed
+O00725,C0745,2025-05-21,Referral,115.8,Completed
+O00726,C0136,2025-02-14,Organic Search,72.52,Completed
+O00727,C0109,2025-01-10,Email,344.0,Completed
+O00728,C0159,2026-05-06,Organic Search,195.91,Completed
+O00729,C0146,2026-03-02,Organic Search,180.56,Completed
+O00730,C0701,2025-08-20,Paid Search,799.77,Completed
+O00731,C0045,2025-03-28,Email,145.4,Completed
+O00732,C0640,2025-11-05,Referral,128.62,Completed
+O00733,C0729,2025-09-29,Referral,241.07,Completed
+O00734,C0069,2026-05-05,Organic Search,58.25,Completed
+O00735,C0362,2026-01-30,Organic Search,141.19,Completed
+O00736,C0393,2025-09-09,Paid Search,134.18,Completed
+O00737,C0540,2026-03-08,Email,273.74,Completed
+O00738,C0137,2026-05-01,Social,84.45,Completed
+O00739,C0302,2025-05-23,Paid Search,547.34,Completed
+O00740,C0381,2026-03-11,Organic Search,67.54,Completed
+O00741,C0375,2025-05-31,Organic Search,97.16,Completed
+O00742,C0482,2025-07-06,Referral,472.4,Completed
+O00743,C0062,2025-06-09,Social,162.95,Completed
+O00744,C0568,2026-04-11,Email,68.02,Completed
+O00745,C0535,2025-04-05,Paid Search,551.58,Completed
+O00746,C0321,2026-05-04,Email,210.26,Completed
+O00747,C0277,2025-07-19,Organic Search,133.8,Completed
+O00748,C0217,2025-03-08,Email,193.56,Cancelled
+O00749,C0578,2025-02-15,Social,184.57,Completed
+O00750,C0770,2026-01-01,Organic Search,212.02,Completed
+O00751,C0720,2025-05-13,Email,136.01,Completed
+O00752,C0489,2026-01-27,Email,287.27,Completed
+O00753,C0788,2025-05-25,Email,1000.56,Completed
+O00754,C0157,2025-03-18,Email,787.6,Completed
+O00755,C0287,2025-03-11,Email,69.99,Completed
+O00756,C0263,2026-04-30,Referral,78.02,Completed
+O00757,C0294,2026-01-08,Paid Search,393.96,Completed
+O00758,C0636,2025-02-13,Social,197.35,Completed
+O00759,C0298,2025-04-18,Paid Search,193.45,Completed
+O00760,C0112,2026-04-22,Organic Search,315.33,Completed
+O00761,C0720,2025-08-06,Referral,149.71,Completed
+O00762,C0328,2025-08-07,Email,825.29,Completed
+O00763,C0071,2025-05-26,Organic Search,324.22,Completed
+O00764,C0189,2025-09-23,Referral,144.52,Completed
+O00765,C0430,2025-12-24,Paid Search,281.06,Completed
+O00766,C0080,2025-07-23,Referral,231.64,Completed
+O00767,C0155,2025-01-15,Social,455.51,Completed
+O00768,C0650,2025-05-09,Paid Search,759.06,Completed
+O00769,C0380,2025-01-15,Referral,74.42,Completed
+O00770,C0424,2026-04-12,Paid Search,144.86,Completed
+O00771,C0470,2025-06-30,Paid Search,176.96,Completed
+O00772,C0650,2026-03-24,Organic Search,409.09,Completed
+O00773,C0768,2026-05-24,Referral,493.39,Completed
+O00774,C0201,2025-04-28,Referral,481.46,Completed
+O00775,C0275,2025-10-18,Referral,123.1,Completed
+O00776,C0016,2025-02-03,Organic Search,325.82,Completed
+O00777,C0053,2026-02-07,Referral,172.06,Completed
+O00778,C0102,2025-08-25,Email,136.26,Completed
+O00779,C0567,2025-09-24,Organic Search,65.38,Completed
+O00780,C0029,2025-06-06,Email,138.03,Completed
+O00781,C0192,2026-01-02,Organic Search,450.33,Completed
+O00782,C0643,2025-05-28,Organic Search,615.45,Completed
+O00783,C0424,2025-01-23,Organic Search,333.22,Completed
+O00784,C0121,2025-02-02,Social,416.26,Completed
+O00785,C0118,2026-01-09,Social,37.21,Returned
+O00786,C0281,2025-10-02,Paid Search,457.94,Completed
+O00787,C0704,2025-07-22,Referral,388.05,Returned
+O00788,C0444,2026-05-15,Social,124.06,Completed
+O00789,C0205,2026-03-16,Email,71.61,Returned
+O00790,C0601,2025-09-17,Paid Search,303.58,Completed
+O00791,C0221,2025-03-16,Email,134.86,Completed
+O00792,C0219,2025-12-03,Paid Search,243.01,Completed
+O00793,C0588,2025-03-18,Social,132.14,Completed
+O00794,C0511,2026-05-21,Organic Search,119.83,Completed
+O00795,C0243,2026-01-28,Email,174.2,Completed
+O00796,C0038,2026-02-17,Social,659.18,Completed
+O00797,C0570,2025-03-23,Referral,175.88,Completed
+O00798,C0383,2025-05-05,Social,175.0,Completed
+O00799,C0705,2025-11-27,Referral,71.79,Completed
+O00800,C0705,2025-01-06,Referral,184.7,Completed
+O00801,C0705,2025-12-04,Email,128.51,Completed
+O00802,C0653,2026-02-28,Paid Search,201.43,Cancelled
+O00803,C0792,2025-11-26,Referral,63.14,Completed
+O00804,C0676,2025-09-06,Email,418.51,Completed
+O00805,C0779,2025-11-17,Social,171.96,Cancelled
+O00806,C0799,2025-07-27,Paid Search,131.76,Completed
+O00807,C0151,2025-04-15,Paid Search,139.2,Completed
+O00808,C0488,2025-01-30,Email,61.11,Completed
+O00809,C0155,2025-08-06,Paid Search,133.52,Completed
+O00810,C0750,2026-01-27,Social,221.21,Completed
+O00811,C0532,2026-05-21,Paid Search,337.47,Completed
+O00812,C0283,2025-04-14,Organic Search,637.46,Completed
+O00813,C0209,2025-06-25,Paid Search,63.28,Completed
+O00814,C0757,2026-05-04,Organic Search,810.13,Completed
+O00815,C0182,2025-01-22,Social,985.11,Completed
+O00816,C0581,2025-01-18,Email,181.37,Completed
+O00817,C0103,2025-04-07,Organic Search,372.07,Completed
+O00818,C0362,2025-01-14,Organic Search,130.63,Completed
+O00819,C0152,2025-01-22,Social,393.11,Returned
+O00820,C0655,2026-01-22,Organic Search,521.76,Completed
+O00821,C0340,2025-12-24,Paid Search,54.7,Completed
+O00822,C0628,2025-12-18,Organic Search,136.48,Completed
+O00823,C0639,2025-10-24,Email,133.61,Completed
+O00824,C0223,2025-02-11,Organic Search,341.12,Completed
+O00825,C0291,2025-12-25,Referral,74.2,Completed
+O00826,C0443,2025-07-21,Email,212.46,Completed
+O00827,C0433,2026-01-31,Paid Search,295.97,Completed
+O00828,C0139,2025-09-14,Paid Search,70.08,Completed
+O00829,C0385,2025-07-07,Referral,321.55,Completed
+O00830,C0473,2026-02-25,Organic Search,300.47,Completed
+O00831,C0636,2025-05-11,Email,149.38,Completed
+O00832,C0056,2026-04-17,Organic Search,117.85,Completed
+O00833,C0708,2026-05-09,Organic Search,169.53,Completed
+O00834,C0140,2026-05-23,Organic Search,304.68,Completed
+O00835,C0118,2025-07-25,Organic Search,121.87,Completed
+O00836,C0518,2025-01-26,Paid Search,128.2,Completed
+O00837,C0560,2025-08-29,Organic Search,272.22,Completed
+O00838,C0175,2025-09-04,Paid Search,405.92,Completed
+O00839,C0401,2025-10-09,Paid Search,498.71,Completed
+O00840,C0035,2025-11-07,Email,1095.74,Completed
+O00841,C0358,2025-08-04,Social,185.75,Completed
+O00842,C0286,2025-05-24,Referral,575.45,Completed
+O00843,C0133,2025-09-23,Email,151.33,Completed
+O00844,C0682,2025-04-09,Organic Search,731.55,Completed
+O00845,C0774,2026-01-29,Social,292.12,Returned
+O00846,C0111,2025-11-25,Email,216.56,Completed
+O00847,C0207,2025-08-19,Referral,195.46,Returned
+O00848,C0209,2025-04-09,Organic Search,89.45,Completed
+O00849,C0349,2025-03-15,Organic Search,379.88,Completed
+O00850,C0069,2025-05-22,Paid Search,133.76,Completed
+O00851,C0024,2025-12-05,Organic Search,347.03,Completed
+O00852,C0320,2026-05-28,Paid Search,140.35,Cancelled
+O00853,C0034,2025-01-31,Organic Search,254.58,Completed
+O00854,C0776,2025-12-04,Email,856.54,Completed
+O00855,C0613,2026-03-03,Referral,213.19,Completed
+O00856,C0022,2025-08-22,Social,233.25,Completed
+O00857,C0566,2025-01-19,Paid Search,194.86,Completed
+O00858,C0119,2025-05-22,Paid Search,377.91,Completed
+O00859,C0016,2025-02-16,Referral,155.82,Completed
+O00860,C0322,2025-02-14,Paid Search,227.41,Completed
+O00861,C0507,2025-07-30,Email,453.46,Completed
+O00862,C0327,2025-10-01,Email,165.82,Returned
+O00863,C0287,2026-05-13,Organic Search,291.59,Completed
+O00864,C0117,2026-04-10,Organic Search,167.54,Completed
+O00865,C0455,2026-01-29,Organic Search,182.67,Completed
+O00866,C0555,2025-02-02,Referral,615.06,Completed
+O00867,C0747,2026-03-14,Social,199.57,Returned
+O00868,C0435,2026-04-20,Email,368.1,Completed
+O00869,C0699,2025-10-15,Social,186.59,Completed
+O00870,C0631,2025-02-09,Organic Search,128.78,Completed
+O00871,C0315,2025-05-08,Email,119.54,Completed
+O00872,C0478,2025-01-10,Organic Search,220.56,Completed
+O00873,C0066,2025-11-18,Paid Search,60.42,Completed
+O00874,C0151,2025-06-28,Referral,348.92,Completed
+O00875,C0063,2025-08-22,Social,437.62,Completed
+O00876,C0074,2026-03-02,Email,528.91,Completed
+O00877,C0165,2025-02-01,Paid Search,64.02,Completed
+O00878,C0524,2025-11-17,Email,199.34,Completed
+O00879,C0080,2025-03-22,Social,594.81,Completed
+O00880,C0337,2025-09-07,Organic Search,204.49,Completed
+O00881,C0371,2026-02-24,Organic Search,236.92,Completed
+O00882,C0551,2025-05-09,Organic Search,253.05,Completed
+O00883,C0185,2025-07-22,Referral,135.76,Completed
+O00884,C0761,2026-04-27,Organic Search,294.28,Completed
+O00885,C0730,2025-09-05,Organic Search,143.57,Cancelled
+O00886,C0076,2025-02-16,Referral,331.36,Completed
+O00887,C0297,2026-03-23,Referral,340.96,Completed
+O00888,C0691,2026-01-14,Email,168.76,Completed
+O00889,C0238,2025-04-10,Organic Search,133.96,Completed
+O00890,C0043,2025-05-27,Referral,335.63,Completed
+O00891,C0295,2025-05-02,Organic Search,197.23,Cancelled
+O00892,C0238,2025-04-19,Email,217.35,Completed
+O00893,C0553,2025-02-10,Paid Search,226.68,Completed
+O00894,C0750,2026-03-13,Paid Search,148.16,Completed
+O00895,C0456,2025-05-03,Social,146.08,Completed
+O00896,C0363,2025-04-30,Referral,258.9,Completed
+O00897,C0724,2025-03-17,Email,726.68,Completed
+O00898,C0252,2025-01-09,Organic Search,185.35,Completed
+O00899,C0752,2025-07-11,Paid Search,142.34,Completed
+O00900,C0445,2025-01-04,Organic Search,290.02,Completed
+O00901,C0496,2025-12-24,Paid Search,413.88,Completed
+O00902,C0116,2025-08-13,Social,466.02,Completed
+O00903,C0793,2025-05-12,Social,604.14,Completed
+O00904,C0268,2025-11-27,Email,153.24,Completed
+O00905,C0746,2026-05-13,Organic Search,230.73,Completed
+O00906,C0629,2025-04-23,Email,164.2,Completed
+O00907,C0362,2025-12-08,Referral,364.43,Completed
+O00908,C0298,2025-08-23,Referral,494.75,Completed
+O00909,C0044,2026-05-12,Organic Search,202.52,Completed
+O00910,C0387,2025-05-07,Email,110.28,Completed
+O00911,C0021,2026-03-02,Organic Search,552.91,Completed
+O00912,C0281,2025-11-06,Paid Search,123.91,Completed
+O00913,C0575,2026-02-21,Organic Search,214.9,Completed
+O00914,C0782,2026-01-17,Email,175.59,Completed
+O00915,C0379,2026-04-03,Paid Search,73.58,Cancelled
+O00916,C0575,2025-04-08,Organic Search,533.38,Completed
+O00917,C0259,2026-05-21,Paid Search,117.81,Completed
+O00918,C0559,2026-05-16,Paid Search,711.02,Completed
+O00919,C0131,2026-01-20,Referral,126.97,Cancelled
+O00920,C0435,2025-02-09,Paid Search,190.43,Completed
+O00921,C0738,2025-10-29,Social,350.14,Completed
+O00922,C0532,2026-01-16,Email,472.52,Completed
+O00923,C0169,2025-05-19,Paid Search,782.26,Completed
+O00924,C0339,2026-04-15,Organic Search,357.17,Returned
+O00925,C0292,2025-10-09,Referral,390.35,Completed
+O00926,C0287,2025-08-10,Organic Search,237.47,Completed
+O00927,C0755,2025-10-11,Referral,486.25,Completed
+O00928,C0147,2025-05-31,Organic Search,413.23,Completed
+O00929,C0387,2026-02-07,Referral,187.74,Completed
+O00930,C0649,2025-06-20,Referral,198.56,Completed
+O00931,C0183,2025-12-23,Organic Search,156.11,Completed
+O00932,C0392,2025-07-15,Paid Search,632.96,Completed
+O00933,C0622,2025-01-14,Organic Search,353.5,Cancelled
+O00934,C0736,2025-02-01,Social,543.99,Completed
+O00935,C0085,2025-05-15,Paid Search,823.5,Completed
+O00936,C0689,2025-12-07,Referral,369.44,Returned
+O00937,C0681,2025-01-15,Paid Search,575.5,Completed
+O00938,C0178,2026-02-24,Email,297.69,Completed
+O00939,C0187,2025-04-03,Referral,96.69,Completed
+O00940,C0472,2026-01-19,Organic Search,467.78,Completed
+O00941,C0318,2025-05-16,Organic Search,207.68,Completed
+O00942,C0303,2025-07-01,Organic Search,67.33,Completed
+O00943,C0647,2026-04-06,Email,200.59,Cancelled
+O00944,C0356,2026-03-21,Email,211.03,Completed
+O00945,C0265,2025-08-04,Organic Search,132.15,Completed
+O00946,C0601,2026-04-24,Organic Search,499.2,Completed
+O00947,C0345,2025-12-09,Email,78.18,Completed
+O00948,C0450,2025-01-23,Referral,136.52,Completed
+O00949,C0616,2026-01-18,Organic Search,322.5,Completed
+O00950,C0437,2026-03-08,Referral,346.19,Returned
+O00951,C0134,2025-05-23,Email,427.68,Completed
+O00952,C0675,2025-01-01,Organic Search,282.36,Completed
+O00953,C0489,2025-01-06,Organic Search,214.77,Completed
+O00954,C0724,2026-04-20,Organic Search,634.69,Completed
+O00955,C0547,2026-02-08,Organic Search,93.26,Completed
+O00956,C0371,2026-01-13,Organic Search,497.74,Completed
+O00957,C0155,2026-03-12,Organic Search,137.77,Completed
+O00958,C0408,2025-06-17,Email,676.96,Completed
+O00959,C0703,2026-01-29,Paid Search,179.41,Completed
+O00960,C0619,2025-04-29,Referral,821.44,Completed
+O00961,C0154,2025-03-23,Organic Search,359.08,Completed
+O00962,C0052,2026-01-11,Social,495.69,Completed
+O00963,C0428,2026-01-01,Organic Search,163.94,Completed
+O00964,C0255,2026-02-10,Organic Search,187.83,Completed
+O00965,C0751,2025-09-07,Referral,284.33,Completed
+O00966,C0392,2025-04-14,Paid Search,285.04,Completed
+O00967,C0444,2025-03-23,Social,134.89,Completed
+O00968,C0221,2026-04-30,Referral,187.92,Completed
+O00969,C0695,2025-07-05,Organic Search,213.09,Completed
+O00970,C0474,2025-10-01,Email,575.06,Completed
+O00971,C0488,2026-02-03,Social,149.58,Completed
+O00972,C0216,2026-05-26,Paid Search,178.49,Completed
+O00973,C0647,2025-03-22,Paid Search,336.07,Completed
+O00974,C0770,2025-01-24,Social,267.41,Completed
+O00975,C0224,2026-02-10,Organic Search,64.21,Completed
+O00976,C0564,2026-02-15,Paid Search,280.14,Completed
+O00977,C0515,2025-11-22,Paid Search,196.27,Completed
+O00978,C0161,2026-04-06,Social,73.87,Completed
+O00979,C0700,2025-06-26,Social,404.13,Completed
+O00980,C0142,2025-08-18,Email,69.44,Returned
+O00981,C0625,2025-11-29,Organic Search,273.72,Completed
+O00982,C0166,2025-07-17,Paid Search,264.69,Completed
+O00983,C0212,2025-02-01,Email,513.75,Cancelled
+O00984,C0657,2026-05-28,Organic Search,410.93,Completed
+O00985,C0699,2025-02-03,Email,496.51,Completed
+O00986,C0450,2025-01-25,Paid Search,265.89,Completed
+O00987,C0439,2026-03-27,Referral,61.49,Completed
+O00988,C0376,2025-06-23,Paid Search,366.22,Completed
+O00989,C0470,2025-03-17,Social,188.48,Completed
+O00990,C0462,2025-12-05,Email,383.15,Completed
+O00991,C0315,2025-10-26,Social,68.25,Completed
+O00992,C0151,2025-05-12,Email,334.04,Completed
+O00993,C0489,2026-02-20,Email,80.15,Completed
+O00994,C0388,2026-01-19,Referral,361.52,Completed
+O00995,C0015,2026-01-24,Email,183.69,Completed
+O00996,C0666,2025-05-03,Organic Search,195.54,Completed
+O00997,C0760,2025-08-22,Organic Search,332.46,Completed
+O00998,C0058,2025-03-23,Paid Search,440.34,Completed
+O00999,C0182,2026-04-13,Organic Search,429.94,Completed
+O01000,C0063,2025-11-07,Organic Search,126.73,Completed
+O01001,C0650,2025-11-23,Organic Search,151.11,Completed
+O01002,C0613,2025-08-09,Paid Search,416.64,Completed
+O01003,C0001,2026-04-13,Organic Search,56.4,Completed
+O01004,C0661,2025-10-18,Organic Search,394.92,Completed
+O01005,C0508,2026-04-27,Organic Search,125.68,Completed
+O01006,C0654,2025-12-17,Email,549.32,Completed
+O01007,C0585,2025-08-04,Email,229.88,Completed
+O01008,C0334,2025-06-10,Social,667.08,Completed
+O01009,C0436,2025-11-12,Email,369.27,Completed
+O01010,C0786,2026-04-13,Organic Search,437.67,Completed
+O01011,C0334,2026-01-27,Email,298.49,Completed
+O01012,C0739,2026-05-07,Email,800.6,Completed
+O01013,C0655,2025-02-27,Paid Search,389.53,Cancelled
+O01014,C0156,2026-02-28,Referral,269.23,Completed
+O01015,C0707,2025-10-26,Organic Search,285.71,Completed
+O01016,C0766,2026-04-02,Social,156.65,Completed
+O01017,C0262,2025-09-23,Email,340.02,Completed
+O01018,C0580,2025-01-17,Paid Search,279.86,Completed
+O01019,C0753,2025-03-10,Organic Search,136.64,Completed
+O01020,C0588,2025-03-31,Social,617.97,Completed
+O01021,C0667,2025-06-05,Organic Search,148.37,Completed
+O01022,C0022,2026-03-19,Paid Search,186.44,Completed
+O01023,C0229,2025-09-23,Email,306.27,Completed
+O01024,C0194,2025-06-06,Referral,182.7,Returned
+O01025,C0799,2025-02-10,Organic Search,63.69,Completed
+O01026,C0207,2025-08-02,Organic Search,65.77,Completed
+O01027,C0141,2025-01-28,Referral,610.57,Completed
+O01028,C0605,2026-01-25,Referral,184.4,Completed
+O01029,C0775,2025-06-16,Organic Search,381.68,Returned
+O01030,C0008,2025-01-17,Paid Search,140.59,Completed
+O01031,C0668,2026-03-21,Organic Search,675.76,Completed
+O01032,C0532,2025-05-12,Organic Search,246.02,Completed
+O01033,C0430,2025-06-11,Organic Search,408.6,Completed
+O01034,C0272,2026-01-18,Email,98.59,Completed
+O01035,C0418,2025-05-28,Organic Search,163.1,Completed
+O01036,C0430,2025-04-05,Social,123.54,Completed
+O01037,C0138,2026-03-27,Referral,133.0,Completed
+O01038,C0490,2025-04-09,Paid Search,433.67,Completed
+O01039,C0256,2025-04-18,Organic Search,75.94,Completed
+O01040,C0779,2025-10-01,Social,80.02,Returned
+O01041,C0766,2025-02-05,Social,371.68,Completed
+O01042,C0244,2025-02-04,Organic Search,121.67,Completed
+O01043,C0463,2026-02-20,Social,55.66,Completed
+O01044,C0346,2025-12-12,Social,279.58,Completed
+O01045,C0685,2025-04-09,Referral,289.58,Completed
+O01046,C0114,2026-04-14,Organic Search,185.02,Returned
+O01047,C0408,2025-07-06,Referral,444.34,Completed
+O01048,C0546,2025-02-18,Paid Search,166.33,Completed
+O01049,C0770,2025-08-20,Email,493.86,Completed
+O01050,C0488,2026-03-08,Paid Search,65.54,Completed
+O01051,C0214,2025-11-16,Social,146.02,Cancelled
+O01052,C0401,2025-09-06,Referral,287.32,Completed
+O01053,C0127,2026-02-16,Referral,152.32,Completed
+O01054,C0537,2025-11-15,Organic Search,255.64,Completed
+O01055,C0773,2025-03-14,Social,109.4,Completed
+O01056,C0116,2025-09-19,Email,377.36,Completed
+O01057,C0231,2025-10-26,Paid Search,84.46,Completed
+O01058,C0432,2026-03-19,Organic Search,126.82,Completed
+O01059,C0430,2025-12-03,Email,72.18,Completed
+O01060,C0600,2025-09-06,Paid Search,366.48,Completed
+O01061,C0044,2026-01-27,Email,211.42,Completed
+O01062,C0404,2026-03-08,Email,327.48,Completed
+O01063,C0644,2026-02-13,Referral,85.13,Completed
+O01064,C0102,2025-12-03,Organic Search,97.84,Completed
+O01065,C0361,2025-12-19,Social,310.76,Completed
+O01066,C0788,2025-09-27,Referral,147.56,Completed
+O01067,C0512,2025-06-26,Referral,187.0,Completed
+O01068,C0655,2025-04-03,Paid Search,364.14,Completed
+O01069,C0773,2026-01-06,Organic Search,92.76,Completed
+O01070,C0775,2025-10-31,Email,60.59,Completed
+O01071,C0270,2026-02-19,Organic Search,85.63,Completed
+O01072,C0629,2025-10-28,Email,176.24,Completed
+O01073,C0027,2025-10-08,Paid Search,850.59,Completed
+O01074,C0425,2026-03-26,Email,761.32,Completed
+O01075,C0374,2026-01-15,Social,403.02,Completed
+O01076,C0520,2025-04-09,Email,448.79,Cancelled
+O01077,C0477,2025-08-18,Organic Search,485.2,Completed
+O01078,C0489,2025-12-22,Referral,82.31,Completed
+O01079,C0731,2025-01-29,Email,100.23,Completed
+O01080,C0339,2025-11-08,Organic Search,222.26,Cancelled
+O01081,C0730,2025-02-24,Referral,129.77,Cancelled
+O01082,C0186,2025-07-03,Organic Search,644.07,Completed
+O01083,C0188,2025-12-18,Organic Search,274.54,Completed
+O01084,C0206,2026-02-16,Organic Search,772.11,Cancelled
+O01085,C0005,2025-01-13,Organic Search,172.38,Completed
+O01086,C0187,2026-05-26,Paid Search,749.1,Completed
+O01087,C0551,2025-02-09,Social,485.9,Completed
+O01088,C0103,2025-06-21,Paid Search,475.89,Completed
+O01089,C0347,2025-03-09,Organic Search,123.25,Completed
+O01090,C0676,2026-05-07,Email,471.7,Completed
+O01091,C0290,2025-07-25,Organic Search,222.67,Completed
+O01092,C0085,2026-01-22,Paid Search,143.36,Completed
+O01093,C0790,2025-10-22,Email,154.5,Completed
+O01094,C0657,2025-06-27,Organic Search,87.46,Completed
+O01095,C0701,2025-02-23,Referral,299.81,Returned
+O01096,C0730,2025-08-15,Organic Search,254.18,Completed
+O01097,C0298,2025-04-30,Organic Search,463.14,Completed
+O01098,C0412,2026-01-16,Organic Search,185.06,Returned
+O01099,C0210,2025-11-14,Social,266.35,Completed
+O01100,C0260,2026-05-15,Email,281.6,Completed
+O01101,C0163,2025-04-29,Social,168.87,Completed
+O01102,C0292,2026-02-12,Paid Search,55.68,Completed
+O01103,C0089,2025-07-26,Email,32.08,Completed
+O01104,C0235,2025-04-25,Organic Search,70.47,Completed
+O01105,C0449,2026-01-15,Referral,169.09,Cancelled
+O01106,C0743,2025-08-04,Organic Search,247.36,Completed
+O01107,C0401,2025-02-27,Paid Search,314.66,Completed
+O01108,C0571,2025-10-22,Organic Search,209.49,Completed
+O01109,C0380,2025-11-26,Organic Search,727.04,Completed
+O01110,C0021,2025-03-17,Email,368.2,Cancelled
+O01111,C0491,2026-04-11,Social,75.22,Completed
+O01112,C0264,2026-02-02,Social,87.4,Completed
+O01113,C0728,2026-02-25,Referral,393.18,Returned
+O01114,C0373,2026-04-20,Organic Search,113.48,Returned
+O01115,C0475,2026-01-08,Email,295.74,Completed
+O01116,C0794,2025-11-04,Referral,219.3,Completed
+O01117,C0530,2026-01-29,Paid Search,296.54,Completed
+O01118,C0155,2025-07-22,Paid Search,35.42,Completed
+O01119,C0693,2025-02-06,Organic Search,98.08,Completed
+O01120,C0321,2025-04-03,Social,68.2,Completed
+O01121,C0598,2025-11-20,Social,134.02,Completed
+O01122,C0156,2025-06-13,Organic Search,138.78,Completed
+O01123,C0707,2025-10-15,Referral,119.17,Completed
+O01124,C0139,2025-02-10,Social,113.18,Completed
+O01125,C0452,2026-01-07,Email,299.07,Completed
+O01126,C0088,2025-12-14,Social,36.83,Completed
+O01127,C0685,2025-04-24,Organic Search,233.15,Completed
+O01128,C0174,2026-03-04,Paid Search,196.71,Completed
+O01129,C0171,2025-11-23,Organic Search,76.26,Completed
+O01130,C0768,2025-10-07,Social,619.53,Completed
+O01131,C0310,2025-01-20,Paid Search,499.82,Completed
+O01132,C0136,2025-12-17,Social,399.99,Completed
+O01133,C0522,2025-11-23,Social,65.22,Completed
+O01134,C0067,2026-01-18,Organic Search,202.06,Completed
+O01135,C0160,2025-03-14,Email,752.53,Returned
+O01136,C0444,2025-01-04,Referral,164.98,Completed
+O01137,C0488,2025-07-17,Referral,195.39,Completed
+O01138,C0190,2026-03-30,Paid Search,234.05,Completed
+O01139,C0717,2025-07-13,Organic Search,521.87,Completed
+O01140,C0616,2025-10-31,Paid Search,322.78,Completed
+O01141,C0289,2025-09-15,Referral,71.8,Completed
+O01142,C0082,2026-03-17,Email,334.71,Returned
+O01143,C0745,2025-09-26,Referral,120.53,Completed
+O01144,C0234,2025-07-14,Email,84.95,Completed
+O01145,C0475,2026-02-17,Referral,37.37,Completed
+O01146,C0143,2025-01-26,Referral,31.92,Completed
+O01147,C0155,2025-06-26,Email,127.9,Completed
+O01148,C0023,2025-07-22,Paid Search,60.31,Completed
+O01149,C0446,2026-03-20,Social,155.09,Returned
+O01150,C0623,2026-05-04,Organic Search,247.14,Completed
+O01151,C0647,2025-11-12,Organic Search,199.04,Completed
+O01152,C0379,2025-05-12,Email,89.62,Completed
+O01153,C0705,2025-12-01,Organic Search,584.61,Completed
+O01154,C0726,2025-08-23,Email,193.65,Completed
+O01155,C0394,2025-04-08,Referral,200.16,Completed
+O01156,C0399,2026-04-06,Referral,139.42,Completed
+O01157,C0365,2025-12-02,Referral,77.8,Completed
+O01158,C0620,2025-11-18,Social,442.74,Completed
+O01159,C0754,2025-03-04,Social,367.08,Completed
+O01160,C0304,2025-05-28,Organic Search,646.41,Completed
+O01161,C0609,2025-06-10,Paid Search,56.67,Completed
+O01162,C0167,2025-10-19,Email,98.19,Completed
+O01163,C0146,2026-01-13,Organic Search,231.31,Completed
+O01164,C0332,2025-10-17,Email,227.63,Completed
+O01165,C0731,2025-06-17,Organic Search,253.83,Completed
+O01166,C0658,2026-03-03,Referral,209.36,Completed
+O01167,C0661,2025-02-27,Email,176.29,Completed
+O01168,C0141,2025-06-06,Paid Search,208.7,Completed
+O01169,C0564,2026-03-01,Organic Search,171.87,Completed
+O01170,C0596,2025-03-24,Social,168.3,Completed
+O01171,C0273,2025-10-16,Email,382.1,Completed
+O01172,C0335,2025-07-20,Social,68.34,Returned
+O01173,C0210,2026-02-20,Organic Search,138.67,Completed
+O01174,C0707,2025-11-02,Email,462.24,Completed
+O01175,C0186,2025-08-10,Referral,196.02,Completed
+O01176,C0504,2025-06-19,Paid Search,556.81,Completed
+O01177,C0001,2025-10-08,Organic Search,176.45,Completed
+O01178,C0760,2026-03-10,Referral,131.49,Completed
+O01179,C0310,2025-05-03,Organic Search,223.14,Returned
+O01180,C0488,2025-02-01,Organic Search,210.57,Completed
+O01181,C0277,2025-10-07,Organic Search,139.02,Completed
+O01182,C0477,2026-03-19,Paid Search,1169.16,Completed
+O01183,C0666,2025-01-02,Organic Search,338.77,Completed
+O01184,C0091,2026-01-08,Email,122.44,Completed
+O01185,C0329,2025-05-30,Referral,176.61,Cancelled
+O01186,C0152,2025-10-27,Referral,265.24,Completed
+O01187,C0368,2025-12-07,Email,351.04,Completed
+O01188,C0614,2025-05-29,Paid Search,593.36,Completed
+O01189,C0430,2025-03-25,Social,435.37,Completed
+O01190,C0562,2026-01-18,Social,349.77,Completed
+O01191,C0160,2026-04-10,Referral,823.42,Completed
+O01192,C0311,2026-02-20,Referral,244.57,Completed
+O01193,C0069,2025-03-15,Organic Search,458.21,Completed
+O01194,C0651,2026-05-05,Email,377.28,Completed
+O01195,C0718,2025-09-19,Paid Search,370.13,Completed
+O01196,C0390,2025-01-28,Organic Search,66.84,Completed
+O01197,C0466,2025-04-07,Paid Search,120.78,Completed
+O01198,C0222,2026-04-08,Email,36.82,Completed
+O01199,C0071,2026-04-01,Paid Search,398.46,Completed
+O01200,C0600,2025-09-17,Organic Search,347.26,Completed
+O01201,C0616,2025-10-25,Organic Search,97.17,Completed
+O01202,C0006,2025-09-13,Paid Search,386.79,Completed
+O01203,C0235,2026-05-21,Email,636.76,Completed
+O01204,C0376,2026-05-24,Referral,72.26,Completed
+O01205,C0447,2025-10-13,Email,71.45,Completed
+O01206,C0411,2026-05-02,Paid Search,33.02,Completed
+O01207,C0457,2025-07-21,Email,255.49,Completed
+O01208,C0208,2025-08-26,Organic Search,179.63,Completed
+O01209,C0538,2025-04-26,Email,244.98,Completed
+O01210,C0680,2025-07-13,Paid Search,130.06,Completed
+O01211,C0150,2025-03-14,Email,661.33,Completed
+O01212,C0231,2026-01-06,Referral,132.15,Completed
+O01213,C0688,2025-07-17,Referral,173.61,Completed
+O01214,C0491,2025-05-11,Email,423.08,Completed
+O01215,C0444,2025-03-18,Email,70.06,Completed
+O01216,C0379,2025-02-10,Organic Search,141.19,Completed
+O01217,C0482,2025-11-12,Paid Search,32.49,Completed
+O01218,C0546,2025-12-17,Paid Search,198.15,Completed
+O01219,C0246,2025-11-28,Email,66.74,Completed
+O01220,C0271,2025-10-13,Email,640.97,Completed
+O01221,C0730,2026-01-06,Email,150.31,Completed
+O01222,C0654,2025-10-26,Organic Search,363.14,Completed
+O01223,C0551,2026-04-16,Paid Search,72.68,Completed
+O01224,C0004,2026-02-07,Organic Search,238.03,Completed
+O01225,C0204,2026-03-07,Organic Search,548.34,Completed
+O01226,C0131,2025-10-02,Referral,489.62,Completed
+O01227,C0226,2025-08-25,Email,227.85,Completed
+O01228,C0176,2025-08-14,Referral,484.27,Completed
+O01229,C0417,2025-09-10,Organic Search,394.46,Completed
+O01230,C0245,2025-01-04,Email,186.73,Completed
+O01231,C0730,2026-02-23,Paid Search,416.18,Completed
+O01232,C0211,2025-10-06,Social,140.13,Completed
+O01233,C0622,2026-03-29,Organic Search,68.99,Completed
+O01234,C0213,2026-02-18,Organic Search,57.84,Completed
+O01235,C0025,2026-04-26,Email,248.82,Completed
+O01236,C0742,2026-03-23,Paid Search,129.52,Completed
+O01237,C0491,2025-09-24,Organic Search,477.24,Completed
+O01238,C0093,2025-08-23,Email,169.85,Completed
+O01239,C0301,2025-06-02,Organic Search,174.32,Completed
+O01240,C0095,2025-08-26,Email,265.29,Completed
+O01241,C0618,2025-07-20,Email,136.23,Completed
+O01242,C0567,2026-04-19,Referral,132.24,Completed
+O01243,C0513,2025-01-22,Paid Search,35.29,Completed
+O01244,C0624,2025-09-05,Referral,241.05,Completed
+O01245,C0069,2025-02-13,Social,73.42,Completed
+O01246,C0564,2026-02-09,Email,528.51,Completed
+O01247,C0770,2026-02-19,Organic Search,386.22,Completed
+O01248,C0392,2026-02-27,Paid Search,147.47,Completed
+O01249,C0461,2025-05-31,Referral,221.35,Completed
+O01250,C0499,2025-09-16,Paid Search,378.1,Completed
+O01251,C0303,2025-04-14,Paid Search,426.18,Completed
+O01252,C0364,2025-10-29,Referral,699.16,Completed
+O01253,C0012,2025-06-19,Social,60.6,Completed
+O01254,C0025,2026-01-16,Paid Search,155.45,Completed
+O01255,C0449,2025-05-07,Referral,170.65,Completed
+O01256,C0158,2025-03-10,Social,165.82,Completed
+O01257,C0096,2025-07-21,Email,186.88,Returned
+O01258,C0429,2025-07-19,Email,36.02,Cancelled
+O01259,C0001,2025-08-04,Social,168.35,Completed
+O01260,C0170,2026-04-25,Social,70.54,Completed
+O01261,C0481,2026-01-17,Social,135.09,Completed
+O01262,C0609,2025-10-13,Referral,86.87,Returned
+O01263,C0511,2025-11-04,Social,666.49,Returned
+O01264,C0423,2026-01-07,Referral,132.64,Completed
+O01265,C0794,2025-03-09,Organic Search,883.91,Completed
+O01266,C0406,2026-05-19,Email,199.37,Completed
+O01267,C0613,2025-06-13,Organic Search,60.48,Completed
+O01268,C0554,2025-06-03,Paid Search,305.12,Completed
+O01269,C0042,2025-03-31,Organic Search,130.86,Cancelled
+O01270,C0197,2025-01-01,Referral,341.72,Completed
+O01271,C0162,2025-09-24,Email,342.89,Completed
+O01272,C0464,2026-04-30,Paid Search,73.65,Completed
+O01273,C0317,2025-08-29,Email,149.7,Completed
+O01274,C0152,2025-05-01,Organic Search,33.91,Completed
+O01275,C0594,2025-11-24,Organic Search,141.41,Returned
+O01276,C0727,2025-11-06,Organic Search,165.12,Completed
+O01277,C0033,2025-02-20,Referral,603.0,Completed
+O01278,C0137,2026-04-06,Referral,295.16,Completed
+O01279,C0257,2025-06-18,Paid Search,151.38,Completed
+O01280,C0285,2026-05-23,Social,237.94,Completed
+O01281,C0108,2025-01-03,Paid Search,424.52,Cancelled
+O01282,C0446,2025-07-21,Referral,731.53,Completed
+O01283,C0341,2025-10-19,Organic Search,340.69,Completed
+O01284,C0606,2025-11-19,Organic Search,349.78,Completed
+O01285,C0272,2026-02-09,Organic Search,385.64,Completed
+O01286,C0049,2026-03-17,Social,247.95,Returned
+O01287,C0788,2025-11-10,Email,219.33,Completed
+O01288,C0399,2025-08-29,Email,213.77,Completed
+O01289,C0492,2025-09-09,Organic Search,57.86,Completed
+O01290,C0437,2025-06-15,Organic Search,122.98,Cancelled
+O01291,C0079,2025-03-12,Social,546.26,Completed
+O01292,C0524,2026-04-22,Organic Search,257.26,Completed
+O01293,C0743,2025-09-14,Organic Search,538.82,Completed
+O01294,C0349,2025-01-31,Referral,447.6,Completed
+O01295,C0793,2026-05-11,Email,356.67,Completed
+O01296,C0204,2026-01-13,Social,210.43,Cancelled
+O01297,C0665,2026-01-17,Organic Search,536.68,Completed
+O01298,C0608,2025-04-30,Organic Search,149.24,Completed
+O01299,C0252,2025-11-21,Organic Search,322.42,Cancelled
+O01300,C0349,2025-10-15,Referral,452.65,Completed
+O01301,C0372,2025-04-13,Organic Search,557.03,Completed
+O01302,C0566,2025-11-01,Email,178.84,Completed
+O01303,C0096,2026-03-07,Email,154.68,Returned
+O01304,C0110,2025-01-05,Social,72.27,Completed
+O01305,C0084,2025-09-11,Organic Search,115.69,Completed
+O01306,C0174,2025-05-10,Referral,619.58,Completed
+O01307,C0217,2026-03-17,Email,67.75,Completed
+O01308,C0276,2025-10-22,Organic Search,431.97,Completed
+O01309,C0657,2025-07-08,Email,415.26,Completed
+O01310,C0735,2025-08-04,Organic Search,309.94,Completed
+O01311,C0333,2026-01-13,Social,56.72,Completed
+O01312,C0399,2025-07-31,Paid Search,679.42,Completed
+O01313,C0537,2026-04-15,Organic Search,65.94,Completed
+O01314,C0485,2025-01-15,Referral,347.21,Completed
+O01315,C0277,2026-02-04,Organic Search,33.55,Completed
+O01316,C0565,2025-08-13,Paid Search,235.88,Completed
+O01317,C0581,2025-03-06,Social,65.44,Returned
+O01318,C0643,2025-07-07,Paid Search,129.41,Completed
+O01319,C0192,2025-07-18,Organic Search,145.99,Completed
+O01320,C0686,2026-02-16,Referral,406.34,Completed
+O01321,C0483,2026-01-01,Referral,245.41,Completed
+O01322,C0421,2025-08-25,Referral,144.1,Completed
+O01323,C0736,2026-03-28,Organic Search,561.97,Cancelled
+O01324,C0215,2026-04-06,Organic Search,512.44,Completed
+O01325,C0674,2025-06-21,Referral,652.21,Completed
+O01326,C0590,2025-08-23,Organic Search,165.74,Completed
+O01327,C0028,2025-06-18,Referral,392.59,Completed
+O01328,C0634,2025-08-20,Organic Search,228.56,Completed
+O01329,C0158,2026-03-19,Email,777.61,Completed
+O01330,C0075,2025-08-05,Organic Search,181.33,Completed
+O01331,C0464,2025-12-04,Organic Search,606.93,Completed
+O01332,C0792,2026-01-20,Paid Search,475.24,Completed
+O01333,C0055,2025-05-19,Paid Search,413.6,Completed
+O01334,C0552,2025-09-05,Email,63.92,Completed
+O01335,C0046,2025-07-02,Paid Search,707.81,Completed
+O01336,C0756,2025-03-24,Referral,175.29,Completed
+O01337,C0799,2025-01-12,Organic Search,309.21,Completed
+O01338,C0085,2025-03-25,Email,139.21,Completed
+O01339,C0646,2025-02-28,Referral,399.97,Completed
+O01340,C0268,2025-10-27,Organic Search,105.26,Completed
+O01341,C0180,2025-06-04,Referral,167.86,Completed
+O01342,C0027,2026-04-24,Organic Search,117.88,Completed
+O01343,C0371,2025-04-01,Referral,35.99,Completed
+O01344,C0276,2025-06-02,Paid Search,480.53,Completed
+O01345,C0633,2026-04-17,Paid Search,632.29,Completed
+O01346,C0660,2025-09-22,Organic Search,407.22,Completed
+O01347,C0145,2025-03-09,Email,152.65,Completed
+O01348,C0022,2025-06-12,Organic Search,37.19,Completed
+O01349,C0107,2025-08-08,Organic Search,355.82,Completed
+O01350,C0769,2025-12-30,Paid Search,179.12,Completed
+O01351,C0349,2026-01-13,Email,471.12,Completed
+O01352,C0482,2025-03-28,Paid Search,121.28,Returned
+O01353,C0791,2025-01-24,Organic Search,194.92,Completed
+O01354,C0340,2025-10-10,Referral,163.33,Completed
+O01355,C0299,2025-02-28,Organic Search,556.22,Completed
+O01356,C0105,2025-05-25,Organic Search,228.79,Cancelled
+O01357,C0608,2025-09-04,Organic Search,478.4,Completed
+O01358,C0741,2025-02-05,Organic Search,121.24,Completed
+O01359,C0513,2026-04-18,Referral,305.24,Completed
+O01360,C0798,2025-12-09,Paid Search,216.61,Completed
+O01361,C0743,2025-05-03,Social,632.41,Completed
+O01362,C0112,2025-10-21,Paid Search,191.29,Completed
+O01363,C0775,2025-05-23,Social,370.94,Completed
+O01364,C0246,2025-03-17,Paid Search,130.28,Completed
+O01365,C0134,2025-10-29,Paid Search,347.1,Completed
+O01366,C0244,2025-12-12,Paid Search,432.75,Completed
+O01367,C0120,2025-04-09,Referral,199.26,Completed
+O01368,C0533,2025-02-26,Social,361.6,Completed
+O01369,C0396,2025-01-28,Organic Search,263.56,Returned
+O01370,C0261,2025-08-12,Social,128.23,Completed
+O01371,C0642,2026-05-13,Referral,39.1,Completed
+O01372,C0768,2025-10-25,Social,123.98,Completed
+O01373,C0799,2026-04-04,Organic Search,273.14,Completed
+O01374,C0418,2025-05-20,Organic Search,72.56,Completed
+O01375,C0463,2026-01-15,Email,186.32,Completed
+O01376,C0297,2025-03-08,Organic Search,90.31,Completed
+O01377,C0413,2025-06-19,Referral,554.53,Completed
+O01378,C0092,2026-04-13,Social,80.96,Completed
+O01379,C0339,2025-05-31,Email,73.33,Completed
+O01380,C0195,2025-06-29,Organic Search,637.81,Completed
+O01381,C0159,2026-04-30,Paid Search,371.55,Completed
+O01382,C0317,2025-08-10,Email,595.32,Completed
+O01383,C0004,2025-10-19,Social,347.31,Completed
+O01384,C0096,2025-09-30,Referral,203.13,Returned
+O01385,C0016,2025-08-10,Email,426.91,Completed
+O01386,C0769,2025-12-11,Organic Search,430.56,Completed
+O01387,C0490,2025-06-18,Referral,148.93,Completed
+O01388,C0120,2025-02-26,Referral,383.45,Completed
+O01389,C0050,2025-01-27,Social,161.19,Completed
+O01390,C0756,2025-03-16,Organic Search,364.52,Completed
+O01391,C0658,2026-03-30,Paid Search,75.11,Completed
+O01392,C0452,2026-05-23,Paid Search,198.18,Completed
+O01393,C0782,2026-02-17,Referral,218.87,Completed
+O01394,C0394,2026-05-01,Social,746.18,Completed
+O01395,C0367,2025-11-18,Email,154.2,Completed
+O01396,C0476,2025-03-23,Organic Search,481.08,Cancelled
+O01397,C0136,2025-11-22,Paid Search,298.65,Completed
+O01398,C0607,2025-09-28,Organic Search,591.86,Completed
+O01399,C0482,2026-02-12,Paid Search,712.21,Completed
+O01400,C0105,2025-07-06,Email,138.6,Completed
+O01401,C0749,2026-05-19,Email,259.2,Completed
+O01402,C0118,2025-09-06,Referral,135.44,Completed
+O01403,C0757,2026-04-06,Organic Search,377.43,Completed
+O01404,C0242,2026-05-24,Social,63.86,Completed
+O01405,C0554,2026-01-21,Organic Search,236.27,Completed
+O01406,C0016,2026-01-10,Referral,285.23,Completed
+O01407,C0075,2025-06-28,Social,624.78,Returned
+O01408,C0241,2025-10-02,Paid Search,276.07,Completed
+O01409,C0035,2025-12-05,Social,530.83,Completed
+O01410,C0664,2025-10-26,Organic Search,347.89,Completed
+O01411,C0712,2025-02-06,Email,183.1,Completed
+O01412,C0201,2026-05-05,Paid Search,712.89,Completed
+O01413,C0639,2025-06-03,Email,116.69,Completed
+O01414,C0529,2025-11-24,Email,340.18,Completed
+O01415,C0409,2025-01-01,Email,381.87,Completed
+O01416,C0391,2026-02-04,Referral,145.51,Completed
+O01417,C0555,2025-10-14,Organic Search,122.05,Completed
+O01418,C0627,2025-12-28,Organic Search,173.07,Completed
+O01419,C0560,2025-07-19,Social,501.93,Cancelled
+O01420,C0183,2026-05-10,Social,507.12,Returned
+O01421,C0712,2025-08-15,Organic Search,257.85,Completed
+O01422,C0027,2026-01-10,Social,132.28,Completed
+O01423,C0625,2025-01-17,Organic Search,130.3,Completed
+O01424,C0692,2025-05-03,Social,355.17,Completed
+O01425,C0039,2025-10-03,Organic Search,190.56,Completed
+O01426,C0336,2025-12-01,Organic Search,196.03,Completed
+O01427,C0746,2026-05-03,Referral,425.85,Completed
+O01428,C0714,2025-06-03,Referral,320.83,Completed
+O01429,C0713,2025-05-05,Email,180.75,Completed
+O01430,C0279,2025-01-07,Paid Search,85.12,Returned
+O01431,C0427,2026-03-15,Organic Search,271.68,Completed
+O01432,C0172,2025-11-02,Organic Search,349.98,Completed
+O01433,C0325,2026-01-08,Referral,340.24,Completed
+O01434,C0007,2025-05-20,Social,65.23,Completed
+O01435,C0075,2025-08-26,Social,277.04,Completed
+O01436,C0332,2025-01-06,Organic Search,213.6,Completed
+O01437,C0291,2025-04-13,Organic Search,519.99,Completed
+O01438,C0737,2026-03-28,Social,117.17,Completed
+O01439,C0295,2026-01-13,Organic Search,758.76,Completed
+O01440,C0661,2025-05-27,Organic Search,69.53,Completed
+O01441,C0426,2025-09-08,Organic Search,162.37,Completed
+O01442,C0532,2026-02-18,Email,363.66,Cancelled
+O01443,C0496,2025-09-30,Organic Search,173.14,Completed
+O01444,C0392,2026-04-10,Social,376.3,Completed
+O01445,C0065,2025-06-29,Paid Search,337.9,Returned
+O01446,C0030,2025-07-10,Organic Search,234.21,Returned
+O01447,C0335,2026-03-14,Email,311.89,Completed
+O01448,C0592,2025-09-08,Referral,330.01,Completed
+O01449,C0225,2026-05-20,Organic Search,395.52,Completed
+O01450,C0592,2025-09-17,Referral,397.6,Completed
+O01451,C0451,2025-06-28,Organic Search,198.77,Completed
+O01452,C0737,2026-05-25,Organic Search,153.34,Returned
+O01453,C0134,2025-09-06,Organic Search,394.26,Completed
+O01454,C0039,2025-06-27,Social,137.28,Completed
+O01455,C0358,2026-03-25,Email,210.62,Completed
+O01456,C0207,2025-02-11,Organic Search,1025.23,Completed
+O01457,C0024,2025-04-06,Referral,600.8,Completed
+O01458,C0490,2025-07-23,Organic Search,643.5,Completed
+O01459,C0149,2025-04-28,Paid Search,208.7,Completed
+O01460,C0771,2026-04-23,Email,64.62,Completed
+O01461,C0043,2025-07-05,Organic Search,306.37,Returned
+O01462,C0638,2025-07-22,Referral,68.13,Completed
+O01463,C0677,2025-01-14,Organic Search,432.91,Completed
+O01464,C0572,2025-01-24,Email,209.35,Completed
+O01465,C0385,2025-10-21,Organic Search,466.59,Completed
+O01466,C0733,2025-08-08,Email,216.65,Returned
+O01467,C0146,2025-05-02,Organic Search,79.37,Completed
+O01468,C0218,2025-05-14,Referral,140.16,Completed
+O01469,C0056,2026-05-09,Paid Search,183.61,Completed
+O01470,C0614,2025-06-20,Email,71.24,Completed
+O01471,C0134,2025-08-22,Organic Search,122.24,Completed
+O01472,C0228,2025-01-08,Email,524.34,Completed
+O01473,C0434,2026-01-13,Social,67.48,Completed
+O01474,C0381,2025-12-23,Organic Search,544.58,Completed
+O01475,C0527,2025-05-02,Organic Search,125.85,Completed
+O01476,C0501,2025-04-03,Organic Search,97.13,Completed
+O01477,C0110,2026-04-04,Organic Search,402.36,Completed
+O01478,C0521,2025-07-20,Organic Search,203.51,Completed
+O01479,C0295,2025-02-18,Paid Search,267.44,Completed
+O01480,C0187,2026-03-22,Paid Search,472.64,Cancelled
+O01481,C0622,2025-07-25,Paid Search,497.59,Completed
+O01482,C0717,2025-05-22,Referral,496.65,Completed
+O01483,C0339,2025-11-15,Email,120.08,Completed
+O01484,C0128,2026-04-24,Social,61.03,Returned
+O01485,C0733,2025-03-11,Email,245.93,Completed
+O01486,C0262,2025-02-13,Email,70.53,Completed
+O01487,C0621,2026-02-09,Paid Search,182.65,Completed
+O01488,C0425,2025-05-04,Paid Search,226.39,Completed
+O01489,C0497,2025-02-20,Paid Search,411.06,Completed
+O01490,C0755,2025-08-04,Email,75.05,Cancelled
+O01491,C0016,2026-04-02,Organic Search,409.93,Completed
+O01492,C0109,2025-06-25,Organic Search,187.46,Completed
+O01493,C0098,2025-09-23,Referral,584.96,Completed
+O01494,C0115,2025-05-31,Organic Search,91.91,Completed
+O01495,C0678,2025-10-24,Paid Search,199.28,Completed
+O01496,C0365,2026-04-08,Paid Search,717.53,Completed
+O01497,C0027,2025-03-05,Organic Search,130.12,Completed
+O01498,C0194,2025-07-04,Paid Search,203.86,Completed
+O01499,C0524,2025-06-11,Social,260.58,Completed
+O01500,C0593,2026-02-06,Social,251.92,Completed
+O01501,C0595,2025-04-01,Paid Search,170.79,Completed
+O01502,C0291,2026-05-15,Email,368.89,Completed
+O01503,C0187,2026-02-12,Organic Search,131.07,Completed
+O01504,C0560,2026-01-28,Organic Search,135.94,Completed
+O01505,C0455,2025-03-08,Organic Search,370.25,Completed
+O01506,C0282,2026-02-21,Email,190.83,Completed
+O01507,C0629,2025-08-22,Organic Search,56.09,Cancelled
+O01508,C0617,2026-04-01,Email,60.36,Cancelled
+O01509,C0601,2025-04-26,Social,1129.46,Completed
+O01510,C0350,2025-01-01,Organic Search,60.62,Completed
+O01511,C0170,2025-01-23,Paid Search,409.69,Completed
+O01512,C0412,2026-03-03,Referral,274.12,Completed
+O01513,C0717,2025-05-10,Organic Search,242.54,Completed
+O01514,C0100,2025-05-29,Organic Search,151.44,Completed
+O01515,C0638,2025-12-01,Organic Search,399.3,Completed
+O01516,C0716,2025-09-12,Social,161.51,Completed
+O01517,C0336,2025-04-03,Paid Search,254.0,Completed
+O01518,C0740,2025-05-19,Email,357.36,Returned
+O01519,C0360,2025-02-15,Organic Search,124.75,Completed
+O01520,C0213,2026-02-09,Paid Search,36.11,Completed
+O01521,C0389,2025-02-27,Paid Search,132.44,Cancelled
+O01522,C0184,2025-09-14,Organic Search,636.02,Completed
+O01523,C0269,2026-03-23,Organic Search,535.55,Returned
+O01524,C0227,2025-11-23,Organic Search,86.31,Completed
+O01525,C0415,2025-09-22,Referral,382.52,Completed
+O01526,C0235,2025-12-22,Social,128.32,Completed
+O01527,C0186,2025-10-29,Social,290.75,Completed
+O01528,C0400,2025-03-10,Organic Search,55.44,Completed
+O01529,C0547,2025-09-15,Referral,276.56,Completed
+O01530,C0493,2026-02-10,Email,871.37,Cancelled
+O01531,C0270,2026-02-23,Referral,284.69,Completed
+O01532,C0351,2026-05-06,Organic Search,398.18,Completed
+O01533,C0651,2025-12-25,Organic Search,775.79,Completed
+O01534,C0261,2026-03-16,Organic Search,149.37,Completed
+O01535,C0115,2025-03-20,Organic Search,162.53,Completed
+O01536,C0699,2026-05-19,Social,254.46,Completed
+O01537,C0502,2025-06-20,Organic Search,210.93,Completed
+O01538,C0732,2025-12-29,Organic Search,276.42,Completed
+O01539,C0034,2025-07-19,Paid Search,586.6,Completed
+O01540,C0528,2025-04-17,Organic Search,609.47,Completed
+O01541,C0268,2026-01-04,Organic Search,468.18,Completed
+O01542,C0618,2026-05-02,Email,133.63,Completed
+O01543,C0247,2025-11-25,Email,485.1,Completed
+O01544,C0638,2026-01-31,Email,74.96,Completed
+O01545,C0323,2025-11-10,Paid Search,289.05,Completed
+O01546,C0747,2025-04-02,Social,356.51,Completed
+O01547,C0167,2026-04-06,Paid Search,118.26,Completed
+O01548,C0031,2026-05-27,Paid Search,284.94,Returned
+O01549,C0150,2025-06-21,Organic Search,167.47,Completed
+O01550,C0389,2026-03-21,Organic Search,472.83,Completed
+O01551,C0567,2025-08-29,Organic Search,178.03,Completed
+O01552,C0495,2025-02-18,Organic Search,406.0,Completed
+O01553,C0036,2025-04-11,Organic Search,368.36,Completed
+O01554,C0761,2025-12-04,Email,71.8,Completed
+O01555,C0685,2026-03-20,Paid Search,68.27,Completed
+O01556,C0089,2025-11-03,Email,227.5,Completed
+O01557,C0791,2025-10-03,Email,92.37,Completed
+O01558,C0562,2026-03-06,Organic Search,259.49,Completed
+O01559,C0541,2025-01-16,Organic Search,141.91,Completed
+O01560,C0630,2026-05-12,Organic Search,135.95,Completed
+O01561,C0387,2026-04-11,Organic Search,258.04,Completed
+O01562,C0390,2025-07-11,Organic Search,840.07,Completed
+O01563,C0688,2025-04-03,Referral,209.46,Completed
+O01564,C0288,2025-05-29,Organic Search,256.8,Completed
+O01565,C0461,2025-03-18,Organic Search,141.56,Completed
+O01566,C0382,2025-10-28,Paid Search,720.97,Completed
+O01567,C0752,2025-01-19,Organic Search,334.73,Completed
+O01568,C0286,2025-05-20,Referral,197.3,Completed
+O01569,C0006,2025-10-14,Organic Search,172.44,Completed
+O01570,C0140,2025-04-03,Social,71.6,Completed
+O01571,C0094,2025-03-02,Organic Search,97.73,Completed
+O01572,C0673,2025-04-22,Organic Search,59.94,Completed
+O01573,C0055,2026-03-28,Referral,153.85,Completed
+O01574,C0697,2025-11-18,Organic Search,534.57,Completed
+O01575,C0662,2025-08-21,Organic Search,589.72,Completed
+O01576,C0286,2025-09-21,Social,402.7,Completed
+O01577,C0208,2026-05-01,Referral,260.85,Completed
+O01578,C0794,2025-12-27,Email,347.5,Completed
+O01579,C0449,2026-01-04,Organic Search,539.33,Completed
+O01580,C0040,2026-03-22,Referral,645.12,Completed
+O01581,C0561,2025-07-19,Organic Search,214.42,Completed
+O01582,C0416,2025-11-02,Social,527.76,Completed
+O01583,C0635,2026-04-05,Organic Search,200.42,Completed
+O01584,C0609,2025-01-10,Organic Search,419.41,Completed
+O01585,C0103,2025-03-27,Paid Search,217.79,Completed
+O01586,C0303,2025-12-03,Email,206.11,Completed
+O01587,C0416,2025-01-25,Email,211.93,Completed
+O01588,C0699,2025-03-27,Organic Search,61.85,Completed
+O01589,C0061,2026-01-01,Organic Search,674.53,Completed
+O01590,C0451,2025-09-23,Email,390.65,Completed
+O01591,C0475,2025-05-13,Email,80.19,Completed
+O01592,C0237,2025-01-29,Email,466.24,Completed
+O01593,C0004,2025-05-02,Organic Search,332.88,Completed
+O01594,C0066,2025-10-19,Organic Search,283.58,Completed
+O01595,C0559,2025-06-28,Paid Search,354.22,Completed
+O01596,C0418,2025-03-02,Social,396.75,Completed
+O01597,C0560,2025-03-17,Paid Search,62.94,Completed
+O01598,C0513,2026-05-06,Organic Search,378.67,Cancelled
+O01599,C0022,2025-08-19,Organic Search,212.04,Completed
+O01600,C0224,2025-01-09,Organic Search,85.74,Completed
+O01601,C0134,2025-09-19,Social,122.07,Completed
+O01602,C0678,2025-07-11,Social,302.42,Completed
+O01603,C0586,2025-02-02,Organic Search,405.41,Completed
+O01604,C0156,2025-01-15,Social,186.22,Completed
+O01605,C0289,2025-01-07,Social,173.93,Completed
+O01606,C0332,2026-04-07,Referral,267.06,Completed
+O01607,C0009,2025-07-03,Social,73.58,Completed
+O01608,C0026,2026-04-20,Email,171.4,Completed
+O01609,C0731,2025-08-20,Referral,237.64,Completed
+O01610,C0070,2025-06-25,Paid Search,403.58,Completed
+O01611,C0549,2025-08-05,Paid Search,145.5,Completed
+O01612,C0391,2025-04-07,Email,178.57,Completed
+O01613,C0548,2026-05-06,Referral,549.85,Completed
+O01614,C0522,2025-06-26,Organic Search,440.11,Completed
+O01615,C0139,2025-08-23,Email,57.69,Cancelled
+O01616,C0749,2025-08-05,Organic Search,313.36,Completed
+O01617,C0690,2025-01-11,Organic Search,157.92,Completed
+O01618,C0135,2025-08-13,Organic Search,145.22,Completed
+O01619,C0382,2025-09-07,Email,34.91,Completed
+O01620,C0260,2026-02-21,Paid Search,179.28,Completed
+O01621,C0468,2026-03-27,Paid Search,121.25,Completed
+O01622,C0668,2025-01-24,Organic Search,424.45,Completed
+O01623,C0163,2025-02-11,Email,919.51,Completed
+O01624,C0582,2025-06-04,Organic Search,925.71,Returned
+O01625,C0472,2026-02-07,Social,526.53,Completed
+O01626,C0798,2025-10-21,Referral,166.55,Cancelled
+O01627,C0620,2025-11-10,Referral,321.18,Completed
+O01628,C0395,2025-06-22,Organic Search,790.41,Returned
+O01629,C0273,2025-11-25,Email,168.71,Cancelled
+O01630,C0758,2025-04-11,Email,211.42,Completed
+O01631,C0270,2026-01-25,Organic Search,742.72,Cancelled
+O01632,C0375,2025-07-11,Email,185.17,Completed
+O01633,C0707,2025-02-05,Organic Search,158.4,Completed
+O01634,C0737,2026-01-18,Organic Search,433.14,Completed
+O01635,C0740,2025-10-02,Referral,733.89,Completed
+O01636,C0392,2026-05-30,Social,400.16,Completed
+O01637,C0379,2025-10-20,Organic Search,173.09,Completed
+O01638,C0190,2025-12-16,Referral,496.68,Completed
+O01639,C0014,2025-09-03,Paid Search,1160.73,Completed
+O01640,C0254,2025-07-20,Referral,263.18,Completed
+O01641,C0219,2025-11-13,Email,145.01,Completed
+O01642,C0031,2025-01-19,Paid Search,635.24,Completed
+O01643,C0748,2026-01-13,Email,56.81,Completed
+O01644,C0757,2025-10-14,Social,172.84,Completed
+O01645,C0050,2026-05-26,Organic Search,395.68,Completed
+O01646,C0350,2026-02-25,Referral,465.1,Completed
+O01647,C0064,2025-10-13,Email,167.72,Returned
+O01648,C0026,2025-03-06,Social,183.77,Completed
+O01649,C0747,2025-07-02,Organic Search,150.28,Completed
+O01650,C0028,2026-03-12,Email,121.07,Completed
+O01651,C0507,2025-03-30,Social,519.12,Completed
+O01652,C0590,2025-07-10,Referral,472.39,Completed
+O01653,C0155,2025-06-23,Email,282.4,Completed
+O01654,C0486,2026-01-08,Email,922.71,Completed
+O01655,C0565,2025-02-20,Social,181.36,Returned
+O01656,C0205,2025-06-12,Paid Search,123.05,Completed
+O01657,C0572,2025-08-16,Email,279.34,Completed
+O01658,C0547,2025-09-26,Referral,253.27,Returned
+O01659,C0708,2025-08-10,Social,363.52,Completed
+O01660,C0260,2025-10-27,Social,36.74,Completed
+O01661,C0183,2025-07-08,Referral,180.26,Completed
+O01662,C0217,2025-12-12,Paid Search,214.12,Completed
+O01663,C0251,2026-05-06,Organic Search,217.21,Completed
+O01664,C0235,2025-11-19,Referral,306.82,Completed
+O01665,C0680,2025-10-21,Paid Search,262.97,Completed
+O01666,C0258,2025-11-23,Email,238.3,Completed
+O01667,C0338,2025-12-17,Paid Search,64.53,Cancelled
+O01668,C0462,2025-11-25,Email,192.91,Completed
+O01669,C0260,2025-01-19,Organic Search,452.22,Completed
+O01670,C0474,2026-02-18,Paid Search,283.55,Completed
+O01671,C0237,2026-05-11,Organic Search,242.95,Completed
+O01672,C0665,2026-05-02,Email,450.64,Completed
+O01673,C0208,2025-11-13,Organic Search,184.92,Returned
+O01674,C0187,2025-12-09,Organic Search,165.16,Completed
+O01675,C0498,2025-12-24,Referral,68.49,Returned
+O01676,C0008,2026-05-07,Email,408.78,Completed
+O01677,C0509,2026-03-22,Paid Search,294.03,Completed
+O01678,C0708,2026-03-13,Social,137.44,Completed
+O01679,C0482,2025-08-14,Organic Search,307.83,Completed
+O01680,C0141,2026-01-02,Email,145.85,Completed
+O01681,C0184,2025-01-09,Paid Search,188.03,Completed
+O01682,C0081,2025-08-29,Referral,220.68,Completed
+O01683,C0772,2025-12-05,Organic Search,276.7,Returned
+O01684,C0772,2025-09-08,Email,203.14,Completed
+O01685,C0150,2025-06-25,Organic Search,282.58,Completed
+O01686,C0103,2025-10-04,Organic Search,288.42,Completed
+O01687,C0708,2025-03-04,Organic Search,545.71,Completed
+O01688,C0797,2025-05-16,Organic Search,171.31,Completed
+O01689,C0066,2026-01-26,Organic Search,435.0,Completed
+O01690,C0752,2025-07-28,Referral,397.9,Completed
+O01691,C0339,2025-07-14,Email,322.39,Completed
+O01692,C0268,2025-03-12,Email,244.64,Returned
+O01693,C0050,2026-01-15,Social,177.94,Returned
+O01694,C0035,2025-05-19,Referral,153.39,Completed
+O01695,C0020,2025-04-21,Organic Search,206.31,Completed
+O01696,C0034,2025-01-29,Email,666.47,Completed
+O01697,C0663,2025-04-02,Email,65.71,Cancelled
+O01698,C0213,2025-11-06,Referral,206.71,Completed
+O01699,C0168,2025-02-18,Organic Search,283.81,Completed
+O01700,C0204,2025-06-13,Organic Search,130.45,Completed
+O01701,C0221,2025-04-21,Organic Search,86.52,Completed
+O01702,C0752,2025-03-11,Email,362.08,Completed
+O01703,C0625,2026-05-05,Email,379.58,Completed
+O01704,C0237,2025-06-27,Referral,200.62,Returned
+O01705,C0048,2025-05-15,Organic Search,140.74,Completed
+O01706,C0094,2025-01-17,Paid Search,167.54,Completed
+O01707,C0060,2026-01-18,Paid Search,455.49,Completed
+O01708,C0329,2026-05-23,Referral,328.86,Completed
+O01709,C0550,2025-08-21,Referral,121.55,Completed
+O01710,C0185,2025-03-07,Organic Search,376.86,Completed
+O01711,C0254,2025-05-31,Paid Search,210.83,Completed
+O01712,C0123,2025-02-18,Paid Search,1364.3,Completed
+O01713,C0299,2026-05-12,Email,391.21,Completed
+O01714,C0613,2025-07-02,Organic Search,468.49,Completed
+O01715,C0022,2025-06-17,Paid Search,33.12,Completed
+O01716,C0606,2025-09-24,Referral,455.62,Completed
+O01717,C0208,2025-07-20,Social,344.98,Completed
+O01718,C0521,2026-05-27,Email,352.76,Completed
+O01719,C0195,2025-11-17,Referral,65.57,Completed
+O01720,C0164,2025-08-03,Social,562.54,Completed
+O01721,C0368,2025-06-13,Email,128.32,Completed
+O01722,C0029,2025-05-18,Email,238.23,Returned
+O01723,C0224,2026-02-25,Organic Search,329.77,Completed
+O01724,C0662,2025-06-07,Paid Search,458.78,Completed
+O01725,C0100,2025-12-14,Organic Search,351.46,Completed
+O01726,C0722,2025-08-18,Referral,61.44,Returned
+O01727,C0079,2025-06-27,Paid Search,129.67,Completed
+O01728,C0549,2026-03-04,Paid Search,92.77,Completed
+O01729,C0570,2025-09-26,Paid Search,73.98,Completed
+O01730,C0398,2025-02-13,Organic Search,443.82,Completed
+O01731,C0767,2026-02-13,Organic Search,211.98,Completed
+O01732,C0149,2026-03-23,Organic Search,82.92,Completed
+O01733,C0545,2025-09-17,Organic Search,583.83,Completed
+O01734,C0590,2025-10-12,Email,170.07,Completed
+O01735,C0059,2025-01-21,Organic Search,142.66,Completed
+O01736,C0064,2025-01-03,Organic Search,407.19,Completed
+O01737,C0543,2025-09-08,Social,440.37,Completed
+O01738,C0062,2025-03-05,Paid Search,431.58,Completed
+O01739,C0514,2025-07-31,Email,216.22,Completed
+O01740,C0518,2025-03-27,Organic Search,195.9,Completed
+O01741,C0796,2025-11-09,Organic Search,682.39,Completed
+O01742,C0473,2025-07-11,Referral,135.15,Completed
+O01743,C0505,2026-05-09,Paid Search,310.99,Completed
+O01744,C0670,2025-04-13,Referral,65.79,Completed
+O01745,C0120,2026-02-24,Paid Search,131.14,Completed
+O01746,C0555,2025-09-10,Email,130.36,Cancelled
+O01747,C0719,2025-06-04,Paid Search,208.63,Completed
+O01748,C0589,2025-12-29,Referral,165.2,Completed
+O01749,C0352,2025-06-16,Organic Search,296.28,Completed
+O01750,C0456,2025-01-24,Organic Search,151.25,Completed
+O01751,C0588,2026-03-25,Email,93.01,Completed
+O01752,C0262,2026-05-25,Email,297.5,Completed
+O01753,C0116,2025-11-06,Paid Search,165.65,Completed
+O01754,C0390,2025-04-20,Organic Search,118.62,Completed
+O01755,C0011,2026-02-08,Organic Search,156.27,Completed
+O01756,C0410,2026-02-11,Organic Search,401.84,Completed
+O01757,C0001,2025-08-15,Email,338.27,Completed
+O01758,C0634,2025-08-31,Email,126.39,Completed
+O01759,C0153,2025-01-15,Social,142.58,Completed
+O01760,C0738,2025-12-20,Paid Search,337.07,Completed
+O01761,C0397,2026-01-02,Organic Search,521.45,Completed
+O01762,C0515,2025-02-23,Referral,556.41,Completed
+O01763,C0705,2026-01-17,Organic Search,75.87,Completed
+O01764,C0403,2025-02-14,Paid Search,381.4,Returned
+O01765,C0146,2026-01-22,Referral,286.82,Completed
+O01766,C0141,2026-05-05,Organic Search,194.86,Completed
+O01767,C0340,2025-01-09,Organic Search,464.84,Completed
+O01768,C0616,2025-08-17,Paid Search,187.27,Completed
+O01769,C0141,2025-03-25,Organic Search,538.51,Completed
+O01770,C0131,2026-02-08,Email,447.79,Completed
+O01771,C0549,2025-10-05,Email,137.92,Completed
+O01772,C0175,2025-11-09,Email,128.94,Completed
+O01773,C0378,2026-05-16,Email,153.2,Completed
+O01774,C0372,2025-02-18,Organic Search,153.53,Completed
+O01775,C0654,2026-01-10,Organic Search,518.1,Completed
+O01776,C0122,2026-04-18,Paid Search,154.2,Completed
+O01777,C0038,2025-07-28,Organic Search,84.07,Completed
+O01778,C0071,2025-03-27,Email,163.96,Completed
+O01779,C0571,2025-06-29,Organic Search,232.23,Completed
+O01780,C0321,2025-03-06,Organic Search,73.9,Completed
+O01781,C0747,2025-12-02,Organic Search,312.37,Completed
+O01782,C0391,2025-10-13,Paid Search,310.3,Completed
+O01783,C0230,2025-11-14,Organic Search,124.22,Completed
+O01784,C0054,2025-12-16,Email,158.72,Completed
+O01785,C0545,2025-01-18,Social,522.58,Completed
+O01786,C0754,2025-10-11,Social,206.52,Completed
+O01787,C0175,2026-03-25,Email,470.23,Completed
+O01788,C0074,2025-05-27,Paid Search,207.02,Completed
+O01789,C0474,2025-03-25,Organic Search,131.4,Completed
+O01790,C0273,2025-04-12,Referral,116.85,Cancelled
+O01791,C0085,2025-04-18,Organic Search,91.25,Completed
+O01792,C0794,2025-04-27,Organic Search,229.5,Returned
+O01793,C0591,2025-12-11,Organic Search,679.38,Completed
+O01794,C0383,2025-08-15,Organic Search,277.16,Completed
+O01795,C0690,2025-05-10,Paid Search,296.45,Completed
+O01796,C0588,2025-05-09,Social,132.67,Completed
+O01797,C0707,2025-03-02,Paid Search,327.69,Completed
+O01798,C0352,2025-03-13,Social,357.89,Completed
+O01799,C0582,2026-02-15,Organic Search,173.42,Completed
+O01800,C0093,2026-03-17,Paid Search,422.71,Completed
+O01801,C0104,2025-04-29,Paid Search,180.87,Completed
+O01802,C0498,2026-04-28,Organic Search,178.48,Completed
+O01803,C0420,2026-01-23,Organic Search,199.29,Completed
+O01804,C0332,2026-04-18,Email,65.74,Cancelled
+O01805,C0039,2025-05-08,Organic Search,151.83,Completed
+O01806,C0522,2025-05-18,Referral,59.89,Completed
+O01807,C0607,2025-08-24,Organic Search,92.63,Completed
+O01808,C0412,2026-05-23,Organic Search,157.24,Completed
+O01809,C0784,2026-04-11,Organic Search,82.11,Completed
+O01810,C0551,2025-12-03,Referral,119.63,Completed
+O01811,C0567,2026-03-12,Social,574.93,Completed
+O01812,C0454,2026-04-27,Email,183.29,Completed
+O01813,C0461,2026-05-02,Organic Search,199.14,Completed
+O01814,C0358,2025-04-26,Organic Search,447.23,Completed
+O01815,C0239,2025-06-24,Social,247.91,Completed
+O01816,C0707,2026-05-22,Email,318.64,Completed
+O01817,C0061,2025-03-19,Email,311.55,Returned
+O01818,C0602,2025-01-29,Referral,188.09,Completed
+O01819,C0081,2026-01-18,Social,221.88,Completed
+O01820,C0037,2025-02-22,Organic Search,133.89,Completed
+O01821,C0153,2025-01-13,Email,197.69,Completed
+O01822,C0609,2025-02-02,Organic Search,570.35,Completed
+O01823,C0011,2025-02-01,Organic Search,128.36,Completed
+O01824,C0577,2025-12-08,Social,159.99,Completed
+O01825,C0671,2025-02-05,Paid Search,137.03,Completed
+O01826,C0078,2026-04-29,Email,192.94,Completed
+O01827,C0762,2025-10-14,Paid Search,117.04,Completed
+O01828,C0486,2025-03-12,Referral,62.69,Cancelled
+O01829,C0778,2025-08-19,Organic Search,285.43,Completed
+O01830,C0751,2025-05-26,Social,169.85,Completed
+O01831,C0632,2026-01-20,Organic Search,261.38,Completed
+O01832,C0618,2026-04-22,Referral,371.81,Completed
+O01833,C0392,2025-04-25,Organic Search,140.17,Completed
+O01834,C0175,2025-04-04,Referral,479.02,Completed
+O01835,C0527,2026-03-15,Email,146.46,Completed
+O01836,C0320,2025-10-03,Paid Search,201.27,Cancelled
+O01837,C0586,2025-04-23,Organic Search,34.05,Completed
+O01838,C0403,2025-07-26,Email,172.66,Completed
+O01839,C0460,2025-10-04,Social,184.24,Completed
+O01840,C0281,2025-11-23,Paid Search,100.66,Completed
+O01841,C0703,2026-05-19,Social,87.95,Completed
+O01842,C0003,2025-08-12,Organic Search,189.18,Completed
+O01843,C0465,2026-02-17,Organic Search,91.6,Completed
+O01844,C0125,2025-04-03,Organic Search,99.84,Completed
+O01845,C0582,2026-01-29,Referral,253.58,Completed
+O01846,C0758,2026-04-16,Email,95.63,Completed
+O01847,C0561,2025-03-26,Paid Search,698.13,Completed
+O01848,C0457,2025-09-08,Organic Search,68.48,Completed
+O01849,C0711,2026-01-14,Organic Search,62.18,Completed
+O01850,C0071,2025-01-13,Paid Search,191.27,Completed
+O01851,C0589,2026-01-20,Email,119.24,Completed
+O01852,C0098,2025-02-24,Organic Search,190.24,Completed
+O01853,C0706,2025-04-04,Paid Search,606.6,Completed
+O01854,C0072,2026-05-28,Paid Search,220.97,Completed
+O01855,C0353,2025-08-16,Social,70.84,Cancelled
+O01856,C0565,2025-05-23,Email,140.39,Completed
+O01857,C0355,2025-12-02,Email,178.47,Completed
+O01858,C0225,2025-06-27,Organic Search,84.13,Completed
+O01859,C0470,2025-05-27,Organic Search,196.71,Completed
+O01860,C0071,2026-03-14,Paid Search,126.38,Completed
+O01861,C0446,2026-03-16,Referral,63.32,Cancelled
+O01862,C0671,2025-11-09,Organic Search,151.83,Completed
+O01863,C0026,2026-01-28,Organic Search,194.85,Completed
+O01864,C0750,2025-07-29,Organic Search,383.8,Completed
+O01865,C0470,2025-05-10,Email,484.8,Completed
+O01866,C0360,2026-02-01,Social,320.6,Completed
+O01867,C0559,2026-02-23,Paid Search,308.72,Completed
+O01868,C0112,2026-02-27,Referral,414.51,Completed
+O01869,C0279,2025-11-17,Referral,74.57,Completed
+O01870,C0114,2025-06-06,Organic Search,280.54,Completed
+O01871,C0366,2025-06-17,Organic Search,318.3,Completed
+O01872,C0687,2025-04-14,Email,197.99,Completed
+O01873,C0003,2025-09-13,Referral,71.67,Completed
+O01874,C0515,2026-05-28,Referral,325.13,Completed
+O01875,C0356,2025-01-19,Referral,242.1,Completed
+O01876,C0744,2025-03-26,Organic Search,696.96,Completed
+O01877,C0055,2026-01-30,Social,475.38,Completed
+O01878,C0083,2025-02-20,Organic Search,99.16,Completed
+O01879,C0247,2025-04-30,Organic Search,333.9,Completed
+O01880,C0160,2026-02-02,Referral,319.18,Completed
+O01881,C0644,2025-01-10,Organic Search,155.83,Completed
+O01882,C0024,2025-05-03,Paid Search,144.6,Completed
+O01883,C0614,2026-04-25,Referral,471.72,Completed
+O01884,C0159,2026-04-27,Organic Search,197.36,Completed
+O01885,C0497,2025-07-22,Organic Search,326.56,Completed
+O01886,C0187,2025-01-08,Referral,262.51,Completed
+O01887,C0199,2025-10-28,Referral,551.55,Completed
+O01888,C0600,2026-02-05,Organic Search,647.5,Completed
+O01889,C0714,2026-01-09,Referral,359.82,Completed
+O01890,C0223,2025-01-10,Organic Search,112.3,Completed
+O01891,C0635,2025-04-26,Paid Search,38.15,Completed
+O01892,C0025,2025-08-14,Organic Search,550.06,Completed
+O01893,C0737,2026-05-03,Paid Search,288.0,Returned
+O01894,C0239,2025-12-04,Organic Search,97.28,Completed
+O01895,C0511,2025-10-10,Paid Search,456.42,Completed
+O01896,C0253,2026-04-29,Email,135.89,Completed
+O01897,C0338,2026-05-20,Referral,78.68,Completed
+O01898,C0266,2026-01-06,Organic Search,676.72,Completed
+O01899,C0791,2026-01-14,Organic Search,212.35,Completed
+O01900,C0475,2026-05-28,Organic Search,60.24,Cancelled
+O01901,C0493,2025-08-24,Email,123.46,Completed
+O01902,C0795,2025-01-17,Organic Search,132.56,Completed
+O01903,C0688,2026-04-16,Organic Search,191.67,Completed
+O01904,C0152,2026-02-17,Social,205.14,Completed
+O01905,C0011,2025-05-20,Paid Search,735.64,Returned
+O01906,C0428,2026-05-03,Email,35.73,Completed
+O01907,C0622,2026-05-02,Organic Search,736.3,Completed
+O01908,C0797,2026-01-15,Organic Search,99.63,Completed
+O01909,C0486,2025-05-29,Organic Search,127.72,Completed
+O01910,C0264,2026-03-16,Referral,127.25,Completed
+O01911,C0512,2026-04-20,Email,165.45,Completed
+O01912,C0248,2025-01-29,Referral,180.3,Completed
+O01913,C0185,2025-07-31,Organic Search,32.61,Completed
+O01914,C0380,2026-04-21,Email,354.3,Completed
+O01915,C0162,2025-10-29,Email,163.59,Completed
+O01916,C0436,2025-04-17,Social,196.5,Completed
+O01917,C0098,2025-01-15,Social,764.84,Completed
+O01918,C0222,2025-01-20,Referral,229.55,Completed
+O01919,C0034,2025-01-12,Organic Search,179.88,Completed
+O01920,C0386,2025-10-14,Email,440.45,Completed
+O01921,C0775,2026-02-12,Social,371.64,Completed
+O01922,C0112,2025-11-29,Email,203.03,Cancelled
+O01923,C0185,2026-05-21,Email,242.4,Completed
+O01924,C0791,2025-11-02,Email,74.28,Completed
+O01925,C0176,2025-12-06,Paid Search,64.88,Completed
+O01926,C0024,2026-01-18,Paid Search,123.06,Completed
+O01927,C0772,2026-01-08,Paid Search,412.86,Completed
+O01928,C0381,2025-03-21,Referral,421.95,Returned
+O01929,C0212,2025-09-11,Organic Search,779.03,Completed
+O01930,C0346,2025-08-20,Organic Search,617.44,Completed
+O01931,C0639,2025-08-02,Organic Search,382.73,Completed
+O01932,C0551,2025-01-08,Organic Search,374.67,Completed
+O01933,C0455,2025-02-28,Referral,603.22,Completed
+O01934,C0509,2025-09-06,Paid Search,156.97,Completed
+O01935,C0394,2025-01-16,Organic Search,200.47,Completed
+O01936,C0186,2025-05-16,Paid Search,189.7,Completed
+O01937,C0434,2025-05-12,Referral,150.47,Completed
+O01938,C0258,2026-02-13,Paid Search,245.58,Completed
+O01939,C0323,2025-10-03,Referral,199.15,Completed
+O01940,C0340,2025-08-24,Paid Search,63.91,Completed
+O01941,C0307,2025-04-18,Organic Search,435.88,Completed
+O01942,C0096,2025-06-07,Paid Search,62.69,Completed
+O01943,C0605,2025-04-23,Organic Search,498.23,Completed
+O01944,C0776,2025-08-29,Organic Search,485.56,Completed
+O01945,C0444,2025-10-24,Organic Search,446.13,Completed
+O01946,C0728,2026-03-24,Referral,181.74,Completed
+O01947,C0675,2025-05-09,Email,148.68,Completed
+O01948,C0755,2025-11-23,Paid Search,303.19,Completed
+O01949,C0362,2025-07-07,Referral,284.86,Completed
+O01950,C0185,2025-09-15,Email,343.66,Completed
+O01951,C0584,2025-10-22,Email,161.54,Completed
+O01952,C0409,2026-02-24,Organic Search,424.85,Completed
+O01953,C0630,2025-08-26,Organic Search,135.3,Completed
+O01954,C0475,2025-11-02,Organic Search,1022.8,Completed
+O01955,C0288,2026-02-14,Paid Search,558.82,Returned
+O01956,C0016,2025-01-11,Email,178.55,Completed
+O01957,C0675,2026-03-12,Organic Search,138.48,Completed
+O01958,C0118,2026-02-25,Organic Search,169.2,Completed
+O01959,C0120,2025-10-22,Social,187.43,Completed
+O01960,C0489,2026-01-06,Social,820.87,Completed
+O01961,C0485,2025-03-13,Organic Search,147.39,Completed
+O01962,C0177,2025-07-13,Organic Search,170.83,Completed
+O01963,C0080,2025-10-01,Referral,64.02,Completed
+O01964,C0399,2026-05-29,Email,98.31,Completed
+O01965,C0764,2026-01-14,Organic Search,300.28,Completed
+O01966,C0004,2025-01-13,Email,134.7,Completed
+O01967,C0179,2025-10-02,Organic Search,725.7,Completed
+O01968,C0547,2026-05-04,Organic Search,206.66,Completed
+O01969,C0283,2025-09-26,Organic Search,208.16,Completed
+O01970,C0426,2025-12-26,Organic Search,173.94,Completed
+O01971,C0567,2026-02-18,Social,404.56,Returned
+O01972,C0464,2025-06-02,Paid Search,213.83,Completed
+O01973,C0021,2026-01-30,Organic Search,135.23,Completed
+O01974,C0234,2025-02-07,Email,130.01,Completed
+O01975,C0661,2026-05-10,Paid Search,209.77,Completed
+O01976,C0188,2025-05-19,Referral,258.98,Completed
+O01977,C0790,2025-01-17,Paid Search,137.35,Completed
+O01978,C0397,2025-02-17,Paid Search,142.42,Completed
+O01979,C0410,2026-05-09,Organic Search,505.61,Completed
+O01980,C0784,2026-03-09,Email,195.4,Completed
+O01981,C0192,2025-07-30,Referral,351.22,Completed
+O01982,C0786,2025-07-01,Referral,352.9,Completed
+O01983,C0792,2025-07-28,Referral,175.46,Completed
+O01984,C0626,2025-11-12,Organic Search,64.89,Completed
+O01985,C0090,2025-08-29,Email,154.46,Completed
+O01986,C0116,2025-01-20,Organic Search,333.49,Completed
+O01987,C0195,2026-03-26,Organic Search,345.6,Completed
+O01988,C0675,2025-10-12,Referral,270.04,Completed
+O01989,C0483,2026-03-01,Paid Search,941.97,Completed
+O01990,C0106,2025-02-23,Paid Search,334.81,Completed
+O01991,C0423,2025-06-09,Email,169.42,Completed
+O01992,C0466,2025-03-09,Organic Search,178.21,Completed
+O01993,C0307,2025-10-31,Referral,82.07,Completed
+O01994,C0579,2025-12-14,Organic Search,233.19,Completed
+O01995,C0113,2026-01-30,Organic Search,200.13,Completed
+O01996,C0246,2025-01-18,Email,535.38,Completed
+O01997,C0288,2025-09-28,Organic Search,184.74,Completed
+O01998,C0007,2026-05-12,Organic Search,150.64,Completed
+O01999,C0674,2025-06-16,Referral,99.54,Completed
+O02000,C0470,2025-08-17,Paid Search,59.28,Completed
+O02001,C0256,2025-03-02,Email,257.57,Completed
+O02002,C0044,2025-11-12,Paid Search,144.54,Completed
+O02003,C0377,2026-03-27,Referral,294.9,Completed
+O02004,C0523,2025-10-06,Email,458.52,Completed
+O02005,C0421,2026-02-14,Organic Search,32.1,Completed
+O02006,C0619,2026-04-20,Referral,636.64,Completed
+O02007,C0191,2025-09-20,Email,551.55,Completed
+O02008,C0427,2026-01-29,Paid Search,786.06,Returned
+O02009,C0221,2025-09-11,Organic Search,518.84,Completed
+O02010,C0800,2026-01-17,Paid Search,181.59,Completed
+O02011,C0623,2025-09-15,Referral,228.08,Cancelled
+O02012,C0159,2025-03-28,Social,82.96,Completed
+O02013,C0409,2026-04-23,Organic Search,246.89,Completed
+O02014,C0223,2025-03-14,Organic Search,136.27,Completed
+O02015,C0136,2026-04-27,Organic Search,289.41,Completed
+O02016,C0304,2025-05-19,Social,33.17,Completed
+O02017,C0032,2025-08-26,Email,149.93,Completed
+O02018,C0573,2025-09-25,Social,181.54,Completed
+O02019,C0005,2025-05-15,Organic Search,514.07,Completed
+O02020,C0492,2025-12-08,Organic Search,396.3,Completed
+O02021,C0326,2025-06-17,Organic Search,222.32,Completed
+O02022,C0014,2025-04-10,Organic Search,197.67,Cancelled
+O02023,C0064,2025-12-25,Organic Search,504.24,Completed
+O02024,C0605,2025-03-14,Organic Search,202.94,Completed
+O02025,C0318,2025-10-28,Organic Search,91.07,Completed
+O02026,C0132,2026-03-02,Referral,143.1,Completed
+O02027,C0424,2026-04-27,Organic Search,460.05,Completed
+O02028,C0092,2026-01-01,Paid Search,369.92,Completed
+O02029,C0393,2025-12-27,Organic Search,64.23,Completed
+O02030,C0558,2025-12-21,Referral,447.51,Completed
+O02031,C0255,2026-01-10,Email,197.43,Completed
+O02032,C0292,2025-02-21,Organic Search,87.76,Completed
+O02033,C0019,2025-10-10,Social,37.77,Completed
+O02034,C0603,2025-08-03,Paid Search,309.52,Returned
+O02035,C0676,2025-01-22,Paid Search,274.56,Completed
+O02036,C0727,2026-03-24,Email,628.36,Completed
+O02037,C0781,2025-02-24,Referral,185.33,Completed
+O02038,C0611,2025-02-13,Organic Search,685.04,Completed
+O02039,C0400,2025-05-29,Paid Search,61.25,Completed
+O02040,C0247,2026-02-13,Organic Search,218.12,Completed
+O02041,C0151,2025-06-12,Organic Search,125.13,Returned
+O02042,C0729,2026-01-08,Organic Search,350.52,Completed
+O02043,C0656,2025-05-21,Social,69.63,Completed
+O02044,C0747,2025-12-14,Organic Search,277.6,Completed
+O02045,C0185,2026-02-22,Organic Search,356.37,Completed
+O02046,C0017,2025-11-05,Organic Search,174.95,Completed
+O02047,C0339,2025-02-19,Social,190.65,Completed
+O02048,C0380,2025-01-09,Organic Search,204.48,Completed
+O02049,C0601,2025-08-10,Organic Search,190.54,Completed
+O02050,C0374,2025-05-27,Organic Search,212.43,Completed
+O02051,C0237,2026-01-11,Referral,382.4,Completed
+O02052,C0358,2026-04-20,Social,392.55,Completed
+O02053,C0711,2025-10-16,Organic Search,59.56,Completed
+O02054,C0357,2026-02-03,Email,309.42,Completed
+O02055,C0612,2025-06-21,Referral,128.51,Completed
+O02056,C0390,2026-02-22,Organic Search,856.94,Returned
+O02057,C0135,2025-01-17,Organic Search,229.77,Completed
+O02058,C0236,2026-03-28,Email,270.68,Completed
+O02059,C0383,2025-03-05,Organic Search,67.49,Completed
+O02060,C0058,2025-09-29,Email,876.75,Completed
+O02061,C0446,2026-02-12,Social,527.18,Completed
+O02062,C0406,2026-04-17,Email,150.72,Completed
+O02063,C0486,2026-05-05,Referral,54.26,Completed
+O02064,C0168,2025-07-10,Organic Search,117.63,Completed
+O02065,C0218,2026-05-06,Referral,178.8,Completed
+O02066,C0330,2025-05-17,Organic Search,428.14,Completed
+O02067,C0265,2025-07-11,Organic Search,203.37,Completed
+O02068,C0668,2025-12-13,Organic Search,166.09,Completed
+O02069,C0067,2025-01-01,Paid Search,173.63,Completed
+O02070,C0507,2025-11-01,Email,209.77,Completed
+O02071,C0276,2025-12-03,Email,215.31,Completed
+O02072,C0207,2025-03-13,Email,97.51,Completed
+O02073,C0219,2025-09-09,Email,431.13,Completed
+O02074,C0505,2025-05-12,Paid Search,426.16,Completed
+O02075,C0408,2025-02-04,Paid Search,133.69,Completed
+O02076,C0054,2026-01-06,Organic Search,271.52,Completed
+O02077,C0656,2025-02-08,Paid Search,393.07,Completed
+O02078,C0519,2026-01-11,Organic Search,38.67,Completed
+O02079,C0164,2026-03-17,Organic Search,198.1,Cancelled
+O02080,C0269,2026-02-18,Social,194.48,Completed
+O02081,C0602,2025-08-11,Email,213.72,Completed
+O02082,C0614,2025-09-21,Social,173.19,Completed
+O02083,C0015,2025-11-18,Referral,521.11,Completed
+O02084,C0605,2025-08-16,Organic Search,37.14,Completed
+O02085,C0677,2025-03-18,Referral,66.81,Completed
+O02086,C0717,2025-01-05,Organic Search,234.71,Completed
+O02087,C0510,2025-11-08,Organic Search,522.11,Completed
+O02088,C0210,2025-05-12,Paid Search,292.94,Completed
+O02089,C0715,2026-01-29,Organic Search,135.26,Completed
+O02090,C0401,2025-10-05,Organic Search,267.54,Completed
+O02091,C0004,2025-09-05,Referral,521.65,Completed
+O02092,C0008,2025-05-16,Organic Search,145.54,Completed
+O02093,C0339,2025-10-12,Paid Search,817.37,Completed
+O02094,C0008,2025-01-06,Organic Search,331.21,Completed
+O02095,C0074,2026-01-01,Paid Search,130.67,Completed
+O02096,C0267,2025-11-06,Organic Search,225.58,Completed
+O02097,C0207,2025-07-26,Paid Search,403.14,Returned
+O02098,C0199,2026-02-23,Organic Search,183.01,Completed
+O02099,C0749,2025-12-07,Organic Search,701.37,Completed
+O02100,C0598,2025-01-13,Referral,275.21,Completed
+O02101,C0345,2025-10-07,Social,252.06,Completed
+O02102,C0210,2026-04-21,Paid Search,448.71,Completed
+O02103,C0587,2025-08-17,Organic Search,143.9,Completed
+O02104,C0674,2025-05-24,Social,62.38,Completed
+O02105,C0239,2025-02-15,Social,33.89,Completed
+O02106,C0480,2025-01-18,Organic Search,171.2,Completed
+O02107,C0483,2026-04-16,Organic Search,86.19,Completed
+O02108,C0069,2025-11-13,Paid Search,188.49,Completed
+O02109,C0004,2025-07-26,Paid Search,171.96,Completed
+O02110,C0109,2025-10-11,Email,210.77,Completed
+O02111,C0740,2026-01-05,Email,131.22,Completed
+O02112,C0198,2026-03-31,Email,341.24,Returned
+O02113,C0381,2025-03-30,Organic Search,271.97,Completed
+O02114,C0577,2025-12-15,Organic Search,253.44,Completed
+O02115,C0122,2026-05-01,Paid Search,295.47,Completed
+O02116,C0037,2025-02-27,Email,482.17,Completed
+O02117,C0478,2025-10-15,Social,222.2,Completed
+O02118,C0558,2025-03-21,Email,233.34,Completed
+O02119,C0572,2025-03-01,Email,211.22,Completed
+O02120,C0564,2025-09-27,Paid Search,199.86,Completed
+O02121,C0082,2026-02-13,Organic Search,191.89,Completed
+O02122,C0561,2025-04-01,Referral,195.14,Completed
+O02123,C0524,2025-04-11,Referral,310.11,Completed
+O02124,C0122,2025-02-07,Organic Search,325.67,Completed
+O02125,C0282,2025-08-18,Social,140.35,Completed
+O02126,C0249,2025-02-17,Email,126.05,Completed
+O02127,C0196,2025-08-19,Organic Search,270.39,Completed
+O02128,C0103,2025-08-12,Organic Search,178.38,Completed
+O02129,C0367,2025-02-03,Organic Search,130.36,Completed
+O02130,C0728,2025-10-08,Referral,69.25,Completed
+O02131,C0319,2025-03-20,Organic Search,372.54,Completed
+O02132,C0117,2026-03-31,Organic Search,223.98,Completed
+O02133,C0146,2025-02-24,Organic Search,614.2,Completed
+O02134,C0306,2026-03-14,Referral,444.14,Completed
+O02135,C0519,2026-05-26,Email,358.61,Completed
+O02136,C0573,2026-02-07,Referral,180.57,Completed
+O02137,C0723,2026-01-13,Email,448.21,Completed
+O02138,C0642,2025-12-22,Referral,529.1,Completed
+O02139,C0727,2026-04-28,Organic Search,132.18,Completed
+O02140,C0666,2025-10-18,Organic Search,203.34,Completed
+O02141,C0166,2025-01-14,Social,130.03,Completed
+O02142,C0102,2025-10-21,Organic Search,205.8,Completed
+O02143,C0711,2025-07-28,Paid Search,84.14,Completed
+O02144,C0549,2025-05-09,Paid Search,316.75,Completed
+O02145,C0589,2025-01-31,Referral,337.21,Completed
+O02146,C0426,2026-01-22,Paid Search,504.87,Completed
+O02147,C0137,2025-05-12,Email,407.68,Completed
+O02148,C0486,2025-04-07,Referral,196.75,Completed
+O02149,C0217,2025-06-18,Organic Search,400.01,Completed
+O02150,C0253,2026-01-28,Paid Search,220.78,Completed
+O02151,C0628,2026-01-26,Email,180.91,Completed
+O02152,C0095,2025-09-27,Organic Search,476.3,Completed
+O02153,C0003,2025-11-28,Social,344.59,Returned
+O02154,C0700,2025-10-23,Organic Search,195.87,Completed
+O02155,C0240,2025-09-04,Organic Search,408.73,Completed
+O02156,C0714,2025-09-24,Referral,155.12,Completed
+O02157,C0297,2025-01-09,Organic Search,201.0,Completed
+O02158,C0054,2025-07-18,Email,262.2,Completed
+O02159,C0333,2025-03-28,Organic Search,196.3,Completed
+O02160,C0016,2025-04-17,Paid Search,329.67,Completed
+O02161,C0780,2025-12-05,Paid Search,89.83,Completed
+O02162,C0251,2025-07-22,Social,114.78,Completed
+O02163,C0190,2025-02-25,Social,437.25,Completed
+O02164,C0692,2025-01-20,Organic Search,280.49,Completed
+O02165,C0757,2025-11-24,Email,378.03,Completed
+O02166,C0758,2025-07-30,Paid Search,32.05,Completed
+O02167,C0189,2025-05-14,Email,178.29,Returned
+O02168,C0078,2025-02-17,Organic Search,70.21,Completed
+O02169,C0373,2025-06-28,Organic Search,238.96,Completed
+O02170,C0344,2025-09-18,Referral,65.04,Completed
+O02171,C0306,2026-02-14,Referral,144.65,Completed
+O02172,C0440,2026-03-17,Organic Search,171.89,Completed
+O02173,C0769,2026-03-24,Paid Search,230.05,Completed
+O02174,C0365,2025-08-26,Paid Search,289.96,Completed
+O02175,C0274,2025-03-09,Paid Search,504.88,Completed
+O02176,C0225,2026-01-14,Organic Search,347.87,Completed
+O02177,C0214,2025-12-13,Email,219.77,Completed
+O02178,C0297,2025-06-07,Organic Search,433.56,Returned
+O02179,C0763,2025-07-21,Email,436.54,Completed
+O02180,C0403,2025-04-14,Referral,118.85,Completed
+O02181,C0426,2025-03-21,Organic Search,495.93,Completed
+O02182,C0134,2026-05-01,Paid Search,191.77,Returned
+O02183,C0550,2025-10-08,Email,234.9,Completed
+O02184,C0293,2025-05-06,Paid Search,136.58,Completed
+O02185,C0148,2025-10-12,Referral,638.41,Completed
+O02186,C0012,2025-11-04,Organic Search,330.12,Completed
+O02187,C0091,2026-04-17,Email,98.59,Completed
+O02188,C0226,2025-12-03,Email,191.58,Completed
+O02189,C0117,2025-01-29,Paid Search,138.0,Completed
+O02190,C0221,2025-10-06,Paid Search,424.22,Completed
+O02191,C0091,2025-09-29,Referral,383.84,Completed
+O02192,C0791,2025-03-27,Organic Search,708.84,Completed
+O02193,C0766,2025-02-03,Social,384.6,Completed
+O02194,C0160,2025-09-25,Social,197.13,Completed
+O02195,C0498,2025-04-09,Referral,403.15,Completed
+O02196,C0139,2025-07-28,Referral,147.36,Cancelled
+O02197,C0476,2025-11-07,Email,60.99,Completed
+O02198,C0648,2026-04-16,Organic Search,229.26,Returned
+O02199,C0447,2025-08-07,Paid Search,135.2,Completed
+O02200,C0245,2025-03-15,Email,852.8,Completed
+O02201,C0050,2025-10-18,Organic Search,127.06,Completed
+O02202,C0678,2026-03-20,Organic Search,116.86,Cancelled
+O02203,C0776,2025-06-29,Email,161.42,Returned
+O02204,C0598,2026-04-23,Email,194.14,Completed
+O02205,C0060,2025-08-15,Organic Search,135.72,Completed
+O02206,C0214,2026-02-16,Paid Search,245.0,Completed
+O02207,C0414,2026-02-04,Organic Search,356.32,Completed
+O02208,C0670,2025-10-29,Social,207.81,Completed
+O02209,C0185,2026-03-08,Organic Search,551.35,Completed
+O02210,C0555,2026-02-23,Email,300.43,Completed
+O02211,C0125,2025-04-24,Paid Search,250.42,Completed
+O02212,C0483,2025-10-12,Organic Search,221.75,Completed
+O02213,C0002,2025-02-02,Organic Search,64.29,Completed
+O02214,C0722,2025-04-15,Organic Search,199.34,Completed
+O02215,C0799,2025-11-23,Social,716.04,Completed
+O02216,C0502,2026-01-04,Email,145.46,Returned
+O02217,C0075,2025-01-18,Organic Search,144.36,Completed
+O02218,C0080,2025-11-05,Email,572.75,Completed
+O02219,C0564,2025-05-12,Organic Search,183.59,Completed
+O02220,C0690,2025-01-26,Social,117.85,Completed
+O02221,C0257,2026-04-01,Social,628.08,Completed
+O02222,C0715,2025-11-10,Referral,198.78,Completed
+O02223,C0707,2025-02-20,Organic Search,443.34,Completed
+O02224,C0085,2025-02-14,Paid Search,129.35,Completed
+O02225,C0307,2025-03-12,Email,212.61,Completed
+O02226,C0656,2025-06-14,Email,63.93,Completed
+O02227,C0331,2025-07-04,Referral,333.91,Completed
+O02228,C0786,2025-01-05,Organic Search,37.15,Completed
+O02229,C0615,2026-02-12,Organic Search,533.86,Completed
+O02230,C0016,2026-01-23,Organic Search,177.97,Completed
+O02231,C0636,2025-05-28,Referral,251.85,Returned
+O02232,C0538,2025-05-23,Paid Search,168.72,Completed
+O02233,C0707,2025-07-08,Email,173.71,Completed
+O02234,C0135,2025-05-23,Organic Search,170.32,Completed
+O02235,C0701,2026-01-03,Organic Search,185.81,Completed
+O02236,C0406,2025-01-06,Organic Search,86.45,Completed
+O02237,C0601,2025-08-25,Organic Search,73.0,Completed
+O02238,C0109,2025-02-19,Email,401.84,Completed
+O02239,C0189,2025-01-23,Email,304.8,Completed
+O02240,C0066,2026-05-20,Paid Search,68.39,Cancelled
+O02241,C0233,2025-05-27,Organic Search,262.99,Completed
+O02242,C0477,2026-04-25,Social,101.36,Completed
+O02243,C0630,2025-05-02,Organic Search,525.86,Cancelled
+O02244,C0431,2026-03-15,Email,78.24,Completed
+O02245,C0069,2026-03-05,Organic Search,250.09,Completed
+O02246,C0739,2025-03-17,Email,179.2,Completed
+O02247,C0025,2026-03-29,Paid Search,414.25,Completed
+O02248,C0652,2026-01-23,Paid Search,85.47,Completed
+O02249,C0156,2025-10-20,Email,177.64,Completed
+O02250,C0792,2025-12-11,Social,167.39,Completed
+O02251,C0390,2026-05-30,Paid Search,126.69,Completed
+O02252,C0675,2026-05-18,Email,819.06,Completed
+O02253,C0043,2025-05-23,Organic Search,222.63,Completed
+O02254,C0226,2026-04-01,Referral,39.17,Completed
+O02255,C0226,2025-12-20,Social,778.53,Completed
+O02256,C0603,2025-10-28,Paid Search,73.88,Completed
+O02257,C0641,2026-02-21,Organic Search,150.74,Completed
+O02258,C0547,2026-01-28,Social,310.64,Completed
+O02259,C0758,2025-08-25,Organic Search,151.72,Completed
+O02260,C0142,2025-10-03,Organic Search,548.3,Completed
+O02261,C0506,2025-10-27,Paid Search,699.98,Completed
+O02262,C0096,2025-05-18,Organic Search,218.7,Completed
+O02263,C0325,2025-10-04,Organic Search,547.94,Completed
+O02264,C0206,2026-03-13,Organic Search,75.86,Completed
+O02265,C0738,2025-02-20,Email,64.48,Completed
+O02266,C0210,2025-07-28,Social,157.28,Returned
+O02267,C0708,2025-06-20,Email,64.6,Completed
+O02268,C0622,2025-09-17,Social,276.23,Completed
+O02269,C0782,2026-01-14,Referral,981.74,Completed
+O02270,C0544,2025-12-20,Email,314.41,Completed
+O02271,C0063,2025-03-11,Organic Search,64.65,Completed
+O02272,C0704,2025-03-19,Organic Search,132.55,Completed
+O02273,C0328,2026-04-15,Paid Search,151.78,Returned
+O02274,C0391,2025-11-22,Organic Search,145.69,Returned
+O02275,C0159,2025-02-08,Social,484.89,Completed
+O02276,C0447,2025-04-16,Organic Search,210.07,Cancelled
+O02277,C0088,2025-04-26,Email,201.02,Completed
+O02278,C0680,2025-07-26,Organic Search,263.02,Completed
+O02279,C0550,2025-12-07,Organic Search,71.62,Completed
+O02280,C0451,2025-12-02,Email,614.31,Completed
+O02281,C0290,2025-06-17,Organic Search,38.52,Completed
+O02282,C0573,2025-12-10,Organic Search,212.56,Completed
+O02283,C0007,2025-07-27,Organic Search,231.68,Completed
+O02284,C0441,2026-01-29,Email,274.62,Completed
+O02285,C0531,2025-05-09,Paid Search,346.08,Completed
+O02286,C0008,2025-07-15,Paid Search,339.36,Completed
+O02287,C0496,2025-06-20,Referral,135.61,Completed
+O02288,C0132,2025-11-23,Email,209.31,Completed
+O02289,C0085,2026-03-30,Organic Search,33.88,Completed
+O02290,C0501,2025-10-25,Organic Search,543.52,Cancelled
+O02291,C0776,2025-04-07,Email,463.41,Completed
+O02292,C0789,2026-02-17,Paid Search,186.82,Completed
+O02293,C0017,2025-09-30,Organic Search,221.96,Completed
+O02294,C0201,2026-01-09,Referral,431.59,Completed
+O02295,C0470,2025-01-14,Organic Search,253.92,Completed
+O02296,C0085,2025-04-28,Social,125.88,Completed
+O02297,C0430,2025-06-05,Organic Search,35.97,Completed
+O02298,C0480,2025-09-25,Social,342.14,Completed
+O02299,C0111,2025-07-11,Organic Search,129.28,Cancelled
+O02300,C0649,2026-02-28,Paid Search,351.02,Completed
+O02301,C0710,2026-05-22,Organic Search,320.71,Completed
+O02302,C0738,2025-06-20,Paid Search,82.35,Completed
+O02303,C0022,2025-05-25,Email,97.0,Completed
+O02304,C0287,2025-12-13,Organic Search,132.71,Completed
+O02305,C0241,2025-07-22,Organic Search,226.58,Completed
+O02306,C0014,2025-07-25,Organic Search,169.89,Completed
+O02307,C0068,2025-08-29,Email,374.85,Completed
+O02308,C0344,2025-08-25,Email,153.11,Completed
+O02309,C0637,2025-02-21,Referral,62.16,Completed
+O02310,C0249,2025-04-01,Referral,97.1,Completed
+O02311,C0691,2025-05-21,Email,169.42,Completed
+O02312,C0715,2026-04-15,Social,242.01,Cancelled
+O02313,C0358,2025-02-07,Email,435.95,Completed
+O02314,C0765,2025-05-08,Organic Search,726.49,Completed
+O02315,C0498,2026-02-20,Paid Search,250.85,Completed
+O02316,C0419,2025-08-10,Social,82.47,Completed
+O02317,C0471,2025-06-15,Social,178.88,Completed
+O02318,C0584,2025-01-12,Email,193.44,Completed
+O02319,C0192,2025-06-23,Email,487.87,Completed
+O02320,C0350,2025-11-28,Email,39.03,Completed
+O02321,C0304,2026-01-25,Organic Search,313.78,Completed
+O02322,C0338,2026-02-01,Paid Search,368.13,Completed
+O02323,C0548,2025-04-06,Paid Search,247.0,Completed
+O02324,C0668,2025-02-27,Paid Search,185.01,Completed
+O02325,C0575,2026-04-03,Referral,496.59,Completed
+O02326,C0604,2025-05-25,Organic Search,31.92,Completed
+O02327,C0641,2026-02-05,Organic Search,93.92,Completed
+O02328,C0166,2025-07-05,Organic Search,446.04,Completed
+O02329,C0043,2025-06-22,Organic Search,710.78,Completed
+O02330,C0373,2026-04-08,Organic Search,380.06,Completed
+O02331,C0418,2026-01-12,Email,328.65,Completed
+O02332,C0742,2025-12-05,Organic Search,301.74,Completed
+O02333,C0363,2026-03-05,Social,64.09,Completed
+O02334,C0678,2025-08-23,Social,147.42,Completed
+O02335,C0445,2025-08-10,Social,342.04,Completed
+O02336,C0250,2025-10-25,Organic Search,681.56,Completed
+O02337,C0549,2025-12-12,Organic Search,62.78,Cancelled
+O02338,C0611,2025-02-02,Organic Search,172.12,Completed
+O02339,C0288,2025-07-21,Organic Search,548.9,Completed
+O02340,C0248,2025-01-05,Email,138.97,Completed
+O02341,C0040,2025-12-29,Email,282.4,Completed
+O02342,C0233,2025-12-18,Social,170.41,Completed
+O02343,C0230,2025-08-27,Referral,383.09,Completed
+O02344,C0590,2025-12-28,Organic Search,865.42,Completed
+O02345,C0508,2026-01-08,Organic Search,76.13,Completed
+O02346,C0042,2026-03-18,Referral,260.45,Completed
+O02347,C0706,2025-08-14,Paid Search,128.31,Completed
+O02348,C0467,2026-03-02,Organic Search,211.91,Completed
+O02349,C0488,2025-11-22,Paid Search,172.27,Completed
+O02350,C0030,2026-03-11,Paid Search,591.32,Completed
+O02351,C0247,2026-03-18,Organic Search,527.72,Completed
+O02352,C0129,2025-05-27,Social,572.45,Completed
+O02353,C0795,2025-08-23,Paid Search,215.27,Completed
+O02354,C0379,2025-05-29,Email,74.29,Completed
+O02355,C0740,2025-06-29,Organic Search,37.5,Completed
+O02356,C0190,2026-04-23,Email,126.27,Completed
+O02357,C0199,2025-09-22,Social,346.19,Completed
+O02358,C0703,2025-02-09,Email,130.43,Completed
+O02359,C0418,2025-01-17,Organic Search,321.97,Completed
+O02360,C0166,2025-08-07,Paid Search,228.63,Completed
+O02361,C0407,2025-09-10,Email,145.4,Completed
+O02362,C0117,2026-05-11,Referral,159.33,Completed
+O02363,C0383,2025-03-24,Referral,54.31,Cancelled
+O02364,C0135,2025-01-07,Referral,197.11,Completed
+O02365,C0763,2025-08-07,Social,233.88,Completed
+O02366,C0279,2025-02-18,Organic Search,259.56,Completed
+O02367,C0246,2025-05-30,Referral,205.98,Completed
+O02368,C0769,2025-02-19,Organic Search,55.45,Completed
+O02369,C0003,2025-06-02,Organic Search,470.27,Completed
+O02370,C0771,2025-03-20,Email,256.62,Completed
+O02371,C0252,2026-05-06,Referral,245.77,Completed
+O02372,C0024,2025-02-13,Paid Search,282.28,Completed
+O02373,C0117,2026-04-13,Paid Search,141.94,Completed
+O02374,C0107,2025-11-25,Organic Search,72.33,Completed
+O02375,C0638,2025-03-24,Organic Search,191.2,Completed
+O02376,C0118,2026-02-03,Email,124.17,Completed
+O02377,C0705,2025-04-30,Referral,147.19,Completed
+O02378,C0411,2025-12-29,Organic Search,513.55,Completed
+O02379,C0101,2026-04-15,Organic Search,338.98,Returned
+O02380,C0071,2026-01-25,Organic Search,249.04,Completed
+O02381,C0469,2025-03-15,Paid Search,71.58,Completed
+O02382,C0524,2025-10-30,Organic Search,407.54,Completed
+O02383,C0552,2026-01-22,Social,236.66,Completed
+O02384,C0004,2025-08-25,Organic Search,261.64,Completed
+O02385,C0591,2025-12-19,Social,282.67,Completed
+O02386,C0393,2025-03-01,Organic Search,62.99,Completed
+O02387,C0593,2025-05-29,Organic Search,235.15,Completed
+O02388,C0458,2025-04-27,Email,349.9,Completed
+O02389,C0591,2025-09-16,Paid Search,146.39,Completed
+O02390,C0110,2025-05-19,Paid Search,302.46,Completed
+O02391,C0567,2025-04-08,Email,551.65,Completed
+O02392,C0417,2025-11-17,Referral,125.67,Completed
+O02393,C0361,2026-01-11,Paid Search,140.05,Completed
+O02394,C0500,2025-08-12,Social,71.64,Completed
+O02395,C0402,2025-02-24,Paid Search,489.09,Completed
+O02396,C0118,2025-06-25,Paid Search,586.24,Completed
+O02397,C0275,2025-12-04,Email,217.54,Completed
+O02398,C0381,2025-10-30,Paid Search,191.68,Returned
+O02399,C0697,2025-08-29,Email,190.37,Completed
+O02400,C0796,2025-11-26,Social,293.64,Completed
